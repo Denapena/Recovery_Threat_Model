@@ -1,0 +1,6158 @@
+[
+    {
+        "shortName":"T. Motta",
+        "Goal":5,
+        "total_minutes_played":1183,
+        "goals_per_90":0.3803888419
+    },
+    {
+        "shortName":"J. Lukaku",
+        "Goal":5,
+        "total_minutes_played":1427,
+        "goals_per_90":0.3153468816
+    },
+    {
+        "shortName":"Cristiano Ronaldo",
+        "Goal":7,
+        "total_minutes_played":2355,
+        "goals_per_90":0.2675159236
+    },
+    {
+        "shortName":"F. Ghoulam",
+        "Goal":3,
+        "total_minutes_played":1020,
+        "goals_per_90":0.2647058824
+    },
+    {
+        "shortName":"M. Verratti",
+        "Goal":5,
+        "total_minutes_played":1774,
+        "goals_per_90":0.2536640361
+    },
+    {
+        "shortName":"Neymar",
+        "Goal":5,
+        "total_minutes_played":1849,
+        "goals_per_90":0.2433747972
+    },
+    {
+        "shortName":"L. Messi",
+        "Goal":8,
+        "total_minutes_played":3108,
+        "goals_per_90":0.2316602317
+    },
+    {
+        "shortName":"M. Dahoud",
+        "Goal":3,
+        "total_minutes_played":1175,
+        "goals_per_90":0.229787234
+    },
+    {
+        "shortName":"E. Thommy",
+        "Goal":3,
+        "total_minutes_played":1175,
+        "goals_per_90":0.229787234
+    },
+    {
+        "shortName":"J. Brandt",
+        "Goal":6,
+        "total_minutes_played":2382,
+        "goals_per_90":0.2267002519
+    },
+    {
+        "shortName":"D. Payet",
+        "Goal":6,
+        "total_minutes_played":2416,
+        "goals_per_90":0.2235099338
+    },
+    {
+        "shortName":"D. Rugani",
+        "Goal":5,
+        "total_minutes_played":2014,
+        "goals_per_90":0.2234359484
+    },
+    {
+        "shortName":"Felipe Anderson",
+        "Goal":3,
+        "total_minutes_played":1221,
+        "goals_per_90":0.2211302211
+    },
+    {
+        "shortName":"N. Fekir",
+        "Goal":6,
+        "total_minutes_played":2575,
+        "goals_per_90":0.2097087379
+    },
+    {
+        "shortName":"Wendell",
+        "Goal":5,
+        "total_minutes_played":2171,
+        "goals_per_90":0.2072777522
+    },
+    {
+        "shortName":"J. Draxler",
+        "Goal":4,
+        "total_minutes_played":1752,
+        "goals_per_90":0.2054794521
+    },
+    {
+        "shortName":"Philippe Coutinho",
+        "Goal":3,
+        "total_minutes_played":1329,
+        "goals_per_90":0.2031602709
+    },
+    {
+        "shortName":"N. Amiri",
+        "Goal":4,
+        "total_minutes_played":1791,
+        "goals_per_90":0.2010050251
+    },
+    {
+        "shortName":"G. Kondogbia",
+        "Goal":6,
+        "total_minutes_played":2706,
+        "goals_per_90":0.199556541
+    },
+    {
+        "shortName":"M. Sarr",
+        "Goal":3,
+        "total_minutes_played":1379,
+        "goals_per_90":0.1957940537
+    },
+    {
+        "shortName":"D. Demme",
+        "Goal":5,
+        "total_minutes_played":2357,
+        "goals_per_90":0.1909206619
+    },
+    {
+        "shortName":"B. Embolo",
+        "Goal":2,
+        "total_minutes_played":967,
+        "goals_per_90":0.1861427094
+    },
+    {
+        "shortName":"Malcom",
+        "Goal":6,
+        "total_minutes_played":2933,
+        "goals_per_90":0.1841118309
+    },
+    {
+        "shortName":"S. Papastathopoulos",
+        "Goal":5,
+        "total_minutes_played":2457,
+        "goals_per_90":0.1831501832
+    },
+    {
+        "shortName":"Jorge",
+        "Goal":4,
+        "total_minutes_played":1970,
+        "goals_per_90":0.1827411168
+    },
+    {
+        "shortName":"Rafinha",
+        "Goal":6,
+        "total_minutes_played":2969,
+        "goals_per_90":0.1818794207
+    },
+    {
+        "shortName":"E. Giaccherini",
+        "Goal":2,
+        "total_minutes_played":1007,
+        "goals_per_90":0.1787487587
+    },
+    {
+        "shortName":"Jozabed",
+        "Goal":3,
+        "total_minutes_played":1512,
+        "goals_per_90":0.1785714286
+    },
+    {
+        "shortName":"F. Thauvin",
+        "Goal":6,
+        "total_minutes_played":3031,
+        "goals_per_90":0.1781590234
+    },
+    {
+        "shortName":"Iago Aspas",
+        "Goal":6,
+        "total_minutes_played":3038,
+        "goals_per_90":0.1777485188
+    },
+    {
+        "shortName":"A. Robben",
+        "Goal":3,
+        "total_minutes_played":1544,
+        "goals_per_90":0.1748704663
+    },
+    {
+        "shortName":"P. Sisto",
+        "Goal":5,
+        "total_minutes_played":2578,
+        "goals_per_90":0.1745539178
+    },
+    {
+        "shortName":"Jonathan Viera",
+        "Goal":4,
+        "total_minutes_played":2067,
+        "goals_per_90":0.1741654572
+    },
+    {
+        "shortName":"Y. Salibur",
+        "Goal":3,
+        "total_minutes_played":1567,
+        "goals_per_90":0.1723037652
+    },
+    {
+        "shortName":"E. Cabaco",
+        "Goal":2,
+        "total_minutes_played":1083,
+        "goals_per_90":0.1662049861
+    },
+    {
+        "shortName":"D. Praet",
+        "Goal":5,
+        "total_minutes_played":2748,
+        "goals_per_90":0.1637554585
+    },
+    {
+        "shortName":"M. Sanson",
+        "Goal":4,
+        "total_minutes_played":2231,
+        "goals_per_90":0.1613626177
+    },
+    {
+        "shortName":"G. Chiellini",
+        "Goal":4,
+        "total_minutes_played":2248,
+        "goals_per_90":0.1601423488
+    },
+    {
+        "shortName":"T. Kroos",
+        "Goal":4,
+        "total_minutes_played":2323,
+        "goals_per_90":0.1549720189
+    },
+    {
+        "shortName":"A. Saint-Maximin",
+        "Goal":4,
+        "total_minutes_played":2335,
+        "goals_per_90":0.1541755889
+    },
+    {
+        "shortName":"Koke",
+        "Goal":5,
+        "total_minutes_played":2934,
+        "goals_per_90":0.1533742331
+    },
+    {
+        "shortName":"Allan",
+        "Goal":5,
+        "total_minutes_played":2949,
+        "goals_per_90":0.1525940997
+    },
+    {
+        "shortName":"Yuri Berchiche",
+        "Goal":3,
+        "total_minutes_played":1770,
+        "goals_per_90":0.1525423729
+    },
+    {
+        "shortName":"M. Russ",
+        "Goal":2,
+        "total_minutes_played":1187,
+        "goals_per_90":0.151642797
+    },
+    {
+        "shortName":"J. Kimmich",
+        "Goal":4,
+        "total_minutes_played":2380,
+        "goals_per_90":0.1512605042
+    },
+    {
+        "shortName":"L. Rupp",
+        "Goal":2,
+        "total_minutes_played":1193,
+        "goals_per_90":0.1508801341
+    },
+    {
+        "shortName":"C. Jallet",
+        "Goal":2,
+        "total_minutes_played":1212,
+        "goals_per_90":0.1485148515
+    },
+    {
+        "shortName":"L. Baal",
+        "Goal":2,
+        "total_minutes_played":1213,
+        "goals_per_90":0.1483924155
+    },
+    {
+        "shortName":"N. Schulz",
+        "Goal":3,
+        "total_minutes_played":1847,
+        "goals_per_90":0.1461829995
+    },
+    {
+        "shortName":"A. Soumaoro",
+        "Goal":2,
+        "total_minutes_played":1232,
+        "goals_per_90":0.1461038961
+    },
+    {
+        "shortName":"Iniesta",
+        "Goal":3,
+        "total_minutes_played":1864,
+        "goals_per_90":0.1448497854
+    },
+    {
+        "shortName":"R. Freuler",
+        "Goal":5,
+        "total_minutes_played":3136,
+        "goals_per_90":0.143494898
+    },
+    {
+        "shortName":"L. Insigne",
+        "Goal":5,
+        "total_minutes_played":3189,
+        "goals_per_90":0.1411100659
+    },
+    {
+        "shortName":"J. Augustin",
+        "Goal":2,
+        "total_minutes_played":1294,
+        "goals_per_90":0.1391035549
+    },
+    {
+        "shortName":"M. Harnik",
+        "Goal":3,
+        "total_minutes_played":1968,
+        "goals_per_90":0.137195122
+    },
+    {
+        "shortName":"V. Pajot",
+        "Goal":2,
+        "total_minutes_played":1324,
+        "goals_per_90":0.1359516616
+    },
+    {
+        "shortName":"O. Hiljemark",
+        "Goal":2,
+        "total_minutes_played":1330,
+        "goals_per_90":0.1353383459
+    },
+    {
+        "shortName":"Trigueros",
+        "Goal":4,
+        "total_minutes_played":2775,
+        "goals_per_90":0.1297297297
+    },
+    {
+        "shortName":"A. Belotti",
+        "Goal":4,
+        "total_minutes_played":2805,
+        "goals_per_90":0.128342246
+    },
+    {
+        "shortName":"K. Kampl",
+        "Goal":3,
+        "total_minutes_played":2113,
+        "goals_per_90":0.127780407
+    },
+    {
+        "shortName":"J. Cuadrado",
+        "Goal":2,
+        "total_minutes_played":1409,
+        "goals_per_90":0.1277501774
+    },
+    {
+        "shortName":"L. Ocampos",
+        "Goal":3,
+        "total_minutes_played":2117,
+        "goals_per_90":0.1275389702
+    },
+    {
+        "shortName":"Raffael",
+        "Goal":3,
+        "total_minutes_played":2124,
+        "goals_per_90":0.1271186441
+    },
+    {
+        "shortName":"Jordi Alba",
+        "Goal":4,
+        "total_minutes_played":2838,
+        "goals_per_90":0.1268498943
+    },
+    {
+        "shortName":"L. Biglia",
+        "Goal":3,
+        "total_minutes_played":2135,
+        "goals_per_90":0.1264637002
+    },
+    {
+        "shortName":"Dani Alves",
+        "Goal":3,
+        "total_minutes_played":2138,
+        "goals_per_90":0.1262862488
+    },
+    {
+        "shortName":"M. Lopez",
+        "Goal":2,
+        "total_minutes_played":1430,
+        "goals_per_90":0.1258741259
+    },
+    {
+        "shortName":"J. Toljan",
+        "Goal":2,
+        "total_minutes_played":1436,
+        "goals_per_90":0.1253481894
+    },
+    {
+        "shortName":"Coke",
+        "Goal":2,
+        "total_minutes_played":1437,
+        "goals_per_90":0.1252609603
+    },
+    {
+        "shortName":"J. Giraudon",
+        "Goal":3,
+        "total_minutes_played":2172,
+        "goals_per_90":0.1243093923
+    },
+    {
+        "shortName":"S. Zuber",
+        "Goal":2,
+        "total_minutes_played":1464,
+        "goals_per_90":0.1229508197
+    },
+    {
+        "shortName":"Alex Sandro",
+        "Goal":3,
+        "total_minutes_played":2199,
+        "goals_per_90":0.1227830832
+    },
+    {
+        "shortName":"Gumbau",
+        "Goal":2,
+        "total_minutes_played":1491,
+        "goals_per_90":0.1207243461
+    },
+    {
+        "shortName":"M. Hummels",
+        "Goal":3,
+        "total_minutes_played":2256,
+        "goals_per_90":0.1196808511
+    },
+    {
+        "shortName":"S. Umtiti",
+        "Goal":3,
+        "total_minutes_played":2264,
+        "goals_per_90":0.1192579505
+    },
+    {
+        "shortName":"P. Skjelbred",
+        "Goal":3,
+        "total_minutes_played":2266,
+        "goals_per_90":0.119152692
+    },
+    {
+        "shortName":"L. Bailey",
+        "Goal":3,
+        "total_minutes_played":2284,
+        "goals_per_90":0.1182136602
+    },
+    {
+        "shortName":"S. Gnabry",
+        "Goal":2,
+        "total_minutes_played":1534,
+        "goals_per_90":0.1173402868
+    },
+    {
+        "shortName":"Zurutuza",
+        "Goal":3,
+        "total_minutes_played":2312,
+        "goals_per_90":0.1167820069
+    },
+    {
+        "shortName":"Y. Benzia",
+        "Goal":3,
+        "total_minutes_played":2331,
+        "goals_per_90":0.1158301158
+    },
+    {
+        "shortName":"L. Spinazzola",
+        "Goal":2,
+        "total_minutes_played":1565,
+        "goals_per_90":0.1150159744
+    },
+    {
+        "shortName":"K. Toko Ekambi",
+        "Goal":4,
+        "total_minutes_played":3161,
+        "goals_per_90":0.1138880101
+    },
+    {
+        "shortName":"C. Tolisso",
+        "Goal":2,
+        "total_minutes_played":1594,
+        "goals_per_90":0.112923463
+    },
+    {
+        "shortName":"A. Kolarov",
+        "Goal":4,
+        "total_minutes_played":3197,
+        "goals_per_90":0.1126055677
+    },
+    {
+        "shortName":"F. Uduokhai",
+        "Goal":2,
+        "total_minutes_played":1609,
+        "goals_per_90":0.1118707272
+    },
+    {
+        "shortName":"J. Sambia",
+        "Goal":2,
+        "total_minutes_played":1614,
+        "goals_per_90":0.1115241636
+    },
+    {
+        "shortName":"Gabi",
+        "Goal":3,
+        "total_minutes_played":2431,
+        "goals_per_90":0.1110654052
+    },
+    {
+        "shortName":"E. Hysaj",
+        "Goal":4,
+        "total_minutes_played":3245,
+        "goals_per_90":0.1109399076
+    },
+    {
+        "shortName":"Santi Mina",
+        "Goal":2,
+        "total_minutes_played":1623,
+        "goals_per_90":0.1109057301
+    },
+    {
+        "shortName":"A. Rabiot",
+        "Goal":3,
+        "total_minutes_played":2440,
+        "goals_per_90":0.1106557377
+    },
+    {
+        "shortName":"M. Lazzari",
+        "Goal":4,
+        "total_minutes_played":3255,
+        "goals_per_90":0.1105990783
+    },
+    {
+        "shortName":"M. Wolf",
+        "Goal":3,
+        "total_minutes_played":2442,
+        "goals_per_90":0.1105651106
+    },
+    {
+        "shortName":"T. Lemar",
+        "Goal":3,
+        "total_minutes_played":2449,
+        "goals_per_90":0.1102490813
+    },
+    {
+        "shortName":"V. Bessat",
+        "Goal":2,
+        "total_minutes_played":1633,
+        "goals_per_90":0.1102265769
+    },
+    {
+        "shortName":"Y. Bissouma",
+        "Goal":2,
+        "total_minutes_played":1633,
+        "goals_per_90":0.1102265769
+    },
+    {
+        "shortName":"E. Bardhi",
+        "Goal":2,
+        "total_minutes_played":1637,
+        "goals_per_90":0.1099572389
+    },
+    {
+        "shortName":"Bruma",
+        "Goal":2,
+        "total_minutes_played":1641,
+        "goals_per_90":0.1096892139
+    },
+    {
+        "shortName":"J. Brekalo",
+        "Goal":2,
+        "total_minutes_played":1646,
+        "goals_per_90":0.1093560146
+    },
+    {
+        "shortName":"F. Chafik",
+        "Goal":2,
+        "total_minutes_played":1651,
+        "goals_per_90":0.1090248334
+    },
+    {
+        "shortName":"K. Tete",
+        "Goal":2,
+        "total_minutes_played":1678,
+        "goals_per_90":0.1072705602
+    },
+    {
+        "shortName":"R. Cohade",
+        "Goal":4,
+        "total_minutes_played":3410,
+        "goals_per_90":0.1055718475
+    },
+    {
+        "shortName":"De Marcos",
+        "Goal":2,
+        "total_minutes_played":1710,
+        "goals_per_90":0.1052631579
+    },
+    {
+        "shortName":"Filipe Luis",
+        "Goal":2,
+        "total_minutes_played":1716,
+        "goals_per_90":0.1048951049
+    },
+    {
+        "shortName":"G. Bonaventura",
+        "Goal":3,
+        "total_minutes_played":2631,
+        "goals_per_90":0.102622577
+    },
+    {
+        "shortName":"M. Depay",
+        "Goal":3,
+        "total_minutes_played":2635,
+        "goals_per_90":0.1024667932
+    },
+    {
+        "shortName":"A. Rosi",
+        "Goal":2,
+        "total_minutes_played":1759,
+        "goals_per_90":0.1023308698
+    },
+    {
+        "shortName":"L. Kurzawa",
+        "Goal":2,
+        "total_minutes_played":1759,
+        "goals_per_90":0.1023308698
+    },
+    {
+        "shortName":"E. Cavani",
+        "Goal":3,
+        "total_minutes_played":2656,
+        "goals_per_90":0.1016566265
+    },
+    {
+        "shortName":"J. Bamba",
+        "Goal":3,
+        "total_minutes_played":2656,
+        "goals_per_90":0.1016566265
+    },
+    {
+        "shortName":"S. Darbion",
+        "Goal":2,
+        "total_minutes_played":1772,
+        "goals_per_90":0.1015801354
+    },
+    {
+        "shortName":"Casemiro",
+        "Goal":3,
+        "total_minutes_played":2674,
+        "goals_per_90":0.1009723261
+    },
+    {
+        "shortName":"Cristian Tello",
+        "Goal":2,
+        "total_minutes_played":1783,
+        "goals_per_90":0.1009534492
+    },
+    {
+        "shortName":"S. Grandsir",
+        "Goal":3,
+        "total_minutes_played":2689,
+        "goals_per_90":0.100409074
+    },
+    {
+        "shortName":"P. Verhaegh",
+        "Goal":3,
+        "total_minutes_played":2696,
+        "goals_per_90":0.100148368
+    },
+    {
+        "shortName":"Juan Bernat",
+        "Goal":1,
+        "total_minutes_played":900,
+        "goals_per_90":0.1
+    },
+    {
+        "shortName":"M. Parolo",
+        "Goal":3,
+        "total_minutes_played":2714,
+        "goals_per_90":0.0994841562
+    },
+    {
+        "shortName":"Luisinho",
+        "Goal":3,
+        "total_minutes_played":2716,
+        "goals_per_90":0.0994108984
+    },
+    {
+        "shortName":"Jorginho",
+        "Goal":3,
+        "total_minutes_played":2722,
+        "goals_per_90":0.0991917708
+    },
+    {
+        "shortName":"P. Iemmello",
+        "Goal":1,
+        "total_minutes_played":912,
+        "goals_per_90":0.0986842105
+    },
+    {
+        "shortName":"K. Mitroglou",
+        "Goal":1,
+        "total_minutes_played":915,
+        "goals_per_90":0.0983606557
+    },
+    {
+        "shortName":"C. N'Jie",
+        "Goal":1,
+        "total_minutes_played":917,
+        "goals_per_90":0.0981461287
+    },
+    {
+        "shortName":"D. Faraoni",
+        "Goal":2,
+        "total_minutes_played":1835,
+        "goals_per_90":0.0980926431
+    },
+    {
+        "shortName":"Luis Alberto",
+        "Goal":3,
+        "total_minutes_played":2761,
+        "goals_per_90":0.0977906556
+    },
+    {
+        "shortName":"G. Lo Celso",
+        "Goal":2,
+        "total_minutes_played":1847,
+        "goals_per_90":0.097455333
+    },
+    {
+        "shortName":"Sidnei",
+        "Goal":2,
+        "total_minutes_played":1847,
+        "goals_per_90":0.097455333
+    },
+    {
+        "shortName":"M. Kempf",
+        "Goal":1,
+        "total_minutes_played":928,
+        "goals_per_90":0.0969827586
+    },
+    {
+        "shortName":"Kiko Casilla",
+        "Goal":1,
+        "total_minutes_played":932,
+        "goals_per_90":0.0965665236
+    },
+    {
+        "shortName":"G. Pandev",
+        "Goal":2,
+        "total_minutes_played":1866,
+        "goals_per_90":0.0964630225
+    },
+    {
+        "shortName":"J. Pollersbeck",
+        "Goal":1,
+        "total_minutes_played":934,
+        "goals_per_90":0.096359743
+    },
+    {
+        "shortName":"K. Malcuit",
+        "Goal":2,
+        "total_minutes_played":1876,
+        "goals_per_90":0.0959488273
+    },
+    {
+        "shortName":"D. De Rossi",
+        "Goal":2,
+        "total_minutes_played":1894,
+        "goals_per_90":0.0950369588
+    },
+    {
+        "shortName":"R. Saponara",
+        "Goal":1,
+        "total_minutes_played":948,
+        "goals_per_90":0.0949367089
+    },
+    {
+        "shortName":"G. Holtmann",
+        "Goal":1,
+        "total_minutes_played":948,
+        "goals_per_90":0.0949367089
+    },
+    {
+        "shortName":"Mikel Oyarzabal",
+        "Goal":3,
+        "total_minutes_played":2854,
+        "goals_per_90":0.0946040645
+    },
+    {
+        "shortName":"M. Benassi",
+        "Goal":3,
+        "total_minutes_played":2880,
+        "goals_per_90":0.09375
+    },
+    {
+        "shortName":"V. Rosier",
+        "Goal":3,
+        "total_minutes_played":2881,
+        "goals_per_90":0.0937174592
+    },
+    {
+        "shortName":"Sandro",
+        "Goal":2,
+        "total_minutes_played":1945,
+        "goals_per_90":0.0925449871
+    },
+    {
+        "shortName":"B. Cristante",
+        "Goal":3,
+        "total_minutes_played":2923,
+        "goals_per_90":0.0923708519
+    },
+    {
+        "shortName":"B. Dabo",
+        "Goal":2,
+        "total_minutes_played":1952,
+        "goals_per_90":0.0922131148
+    },
+    {
+        "shortName":"J. Toulalan",
+        "Goal":2,
+        "total_minutes_played":1958,
+        "goals_per_90":0.0919305414
+    },
+    {
+        "shortName":"C. Ansaldi",
+        "Goal":2,
+        "total_minutes_played":1959,
+        "goals_per_90":0.0918836141
+    },
+    {
+        "shortName":"H. Moreno",
+        "Goal":1,
+        "total_minutes_played":983,
+        "goals_per_90":0.0915564598
+    },
+    {
+        "shortName":"S. Camara",
+        "Goal":1,
+        "total_minutes_played":992,
+        "goals_per_90":0.0907258065
+    },
+    {
+        "shortName":"G. Laborde",
+        "Goal":1,
+        "total_minutes_played":995,
+        "goals_per_90":0.0904522613
+    },
+    {
+        "shortName":"M. De Sciglio",
+        "Goal":1,
+        "total_minutes_played":996,
+        "goals_per_90":0.0903614458
+    },
+    {
+        "shortName":"S. Zoller",
+        "Goal":1,
+        "total_minutes_played":997,
+        "goals_per_90":0.0902708124
+    },
+    {
+        "shortName":"Canales",
+        "Goal":2,
+        "total_minutes_played":2000,
+        "goals_per_90":0.09
+    },
+    {
+        "shortName":"S. Perica",
+        "Goal":1,
+        "total_minutes_played":1002,
+        "goals_per_90":0.0898203593
+    },
+    {
+        "shortName":"W. Cyprien",
+        "Goal":1,
+        "total_minutes_played":1007,
+        "goals_per_90":0.0893743793
+    },
+    {
+        "shortName":"Paulinho",
+        "Goal":2,
+        "total_minutes_played":2021,
+        "goals_per_90":0.0890648194
+    },
+    {
+        "shortName":"A. Acquah",
+        "Goal":1,
+        "total_minutes_played":1016,
+        "goals_per_90":0.0885826772
+    },
+    {
+        "shortName":"A. Mehmedi",
+        "Goal":1,
+        "total_minutes_played":1021,
+        "goals_per_90":0.0881488737
+    },
+    {
+        "shortName":"N. Barella",
+        "Goal":3,
+        "total_minutes_played":3087,
+        "goals_per_90":0.0874635569
+    },
+    {
+        "shortName":"L. Castro",
+        "Goal":2,
+        "total_minutes_played":2064,
+        "goals_per_90":0.0872093023
+    },
+    {
+        "shortName":"Wallace",
+        "Goal":1,
+        "total_minutes_played":1035,
+        "goals_per_90":0.0869565217
+    },
+    {
+        "shortName":"Dani Parejo",
+        "Goal":3,
+        "total_minutes_played":3112,
+        "goals_per_90":0.0867609254
+    },
+    {
+        "shortName":"C. Biraghi",
+        "Goal":3,
+        "total_minutes_played":3118,
+        "goals_per_90":0.0865939705
+    },
+    {
+        "shortName":"Luiz Gustavo",
+        "Goal":3,
+        "total_minutes_played":3128,
+        "goals_per_90":0.0863171355
+    },
+    {
+        "shortName":"R. Gagliardini",
+        "Goal":2,
+        "total_minutes_played":2089,
+        "goals_per_90":0.0861656295
+    },
+    {
+        "shortName":"E. Skhiri",
+        "Goal":3,
+        "total_minutes_played":3175,
+        "goals_per_90":0.0850393701
+    },
+    {
+        "shortName":"Pol Lirola",
+        "Goal":2,
+        "total_minutes_played":2128,
+        "goals_per_90":0.0845864662
+    },
+    {
+        "shortName":"Samu Castillejo",
+        "Goal":2,
+        "total_minutes_played":2133,
+        "goals_per_90":0.0843881857
+    },
+    {
+        "shortName":"Diego Costa",
+        "Goal":1,
+        "total_minutes_played":1068,
+        "goals_per_90":0.0842696629
+    },
+    {
+        "shortName":"Y. Sabaly",
+        "Goal":3,
+        "total_minutes_played":3208,
+        "goals_per_90":0.0841645885
+    },
+    {
+        "shortName":"Burgui",
+        "Goal":1,
+        "total_minutes_played":1071,
+        "goals_per_90":0.0840336134
+    },
+    {
+        "shortName":"Nacho",
+        "Goal":2,
+        "total_minutes_played":2143,
+        "goals_per_90":0.0839944004
+    },
+    {
+        "shortName":"G. Fernandes",
+        "Goal":1,
+        "total_minutes_played":1077,
+        "goals_per_90":0.0835654596
+    },
+    {
+        "shortName":"L. Bonucci",
+        "Goal":3,
+        "total_minutes_played":3231,
+        "goals_per_90":0.0835654596
+    },
+    {
+        "shortName":"A. Yarmolenko",
+        "Goal":1,
+        "total_minutes_played":1077,
+        "goals_per_90":0.0835654596
+    },
+    {
+        "shortName":"R. Palacio",
+        "Goal":2,
+        "total_minutes_played":2162,
+        "goals_per_90":0.0832562442
+    },
+    {
+        "shortName":"R. Durmisi",
+        "Goal":2,
+        "total_minutes_played":2169,
+        "goals_per_90":0.0829875519
+    },
+    {
+        "shortName":"D. Zapata",
+        "Goal":2,
+        "total_minutes_played":2189,
+        "goals_per_90":0.0822293285
+    },
+    {
+        "shortName":"G. Mercado",
+        "Goal":2,
+        "total_minutes_played":2193,
+        "goals_per_90":0.0820793434
+    },
+    {
+        "shortName":"L. Torreira",
+        "Goal":3,
+        "total_minutes_played":3305,
+        "goals_per_90":0.0816944024
+    },
+    {
+        "shortName":"Lekue",
+        "Goal":2,
+        "total_minutes_played":2204,
+        "goals_per_90":0.0816696915
+    },
+    {
+        "shortName":"S. El Shaarawy",
+        "Goal":2,
+        "total_minutes_played":2210,
+        "goals_per_90":0.0814479638
+    },
+    {
+        "shortName":"K. Benzema",
+        "Goal":2,
+        "total_minutes_played":2213,
+        "goals_per_90":0.0813375508
+    },
+    {
+        "shortName":"K. Havertz",
+        "Goal":2,
+        "total_minutes_played":2217,
+        "goals_per_90":0.0811907984
+    },
+    {
+        "shortName":"J. Lerma",
+        "Goal":2,
+        "total_minutes_played":2222,
+        "goals_per_90":0.0810081008
+    },
+    {
+        "shortName":"C. Kramer",
+        "Goal":2,
+        "total_minutes_played":2224,
+        "goals_per_90":0.0809352518
+    },
+    {
+        "shortName":"I. Abate",
+        "Goal":1,
+        "total_minutes_played":1112,
+        "goals_per_90":0.0809352518
+    },
+    {
+        "shortName":"R. Lewandowski",
+        "Goal":2,
+        "total_minutes_played":2229,
+        "goals_per_90":0.0807537012
+    },
+    {
+        "shortName":"Rodri",
+        "Goal":3,
+        "total_minutes_played":3344,
+        "goals_per_90":0.0807416268
+    },
+    {
+        "shortName":"L. Klostermann",
+        "Goal":2,
+        "total_minutes_played":2250,
+        "goals_per_90":0.08
+    },
+    {
+        "shortName":"Andreas Pereira",
+        "Goal":1,
+        "total_minutes_played":1127,
+        "goals_per_90":0.0798580302
+    },
+    {
+        "shortName":"S. Kalou",
+        "Goal":2,
+        "total_minutes_played":2261,
+        "goals_per_90":0.0796107917
+    },
+    {
+        "shortName":"J. Amavi",
+        "Goal":2,
+        "total_minutes_played":2275,
+        "goals_per_90":0.0791208791
+    },
+    {
+        "shortName":"F. Bartels",
+        "Goal":1,
+        "total_minutes_played":1143,
+        "goals_per_90":0.0787401575
+    },
+    {
+        "shortName":"Dani Raba",
+        "Goal":1,
+        "total_minutes_played":1145,
+        "goals_per_90":0.0786026201
+    },
+    {
+        "shortName":"Marc Navarro",
+        "Goal":1,
+        "total_minutes_played":1151,
+        "goals_per_90":0.0781928758
+    },
+    {
+        "shortName":"M. Gonalons",
+        "Goal":1,
+        "total_minutes_played":1153,
+        "goals_per_90":0.078057242
+    },
+    {
+        "shortName":"C. Lombardi",
+        "Goal":1,
+        "total_minutes_played":1154,
+        "goals_per_90":0.0779896014
+    },
+    {
+        "shortName":"J. Palmieri",
+        "Goal":1,
+        "total_minutes_played":1166,
+        "goals_per_90":0.077186964
+    },
+    {
+        "shortName":"M. Barbosa",
+        "Goal":1,
+        "total_minutes_played":1167,
+        "goals_per_90":0.0771208226
+    },
+    {
+        "shortName":"K. Gameiro",
+        "Goal":1,
+        "total_minutes_played":1169,
+        "goals_per_90":0.0769888794
+    },
+    {
+        "shortName":"Ander Capa",
+        "Goal":2,
+        "total_minutes_played":2339,
+        "goals_per_90":0.0769559641
+    },
+    {
+        "shortName":"D. Upamecano",
+        "Goal":2,
+        "total_minutes_played":2344,
+        "goals_per_90":0.0767918089
+    },
+    {
+        "shortName":"A. Brignoli",
+        "Goal":1,
+        "total_minutes_played":1177,
+        "goals_per_90":0.0764655905
+    },
+    {
+        "shortName":"M. Kean",
+        "Goal":1,
+        "total_minutes_played":1178,
+        "goals_per_90":0.0764006791
+    },
+    {
+        "shortName":"N. Sliti",
+        "Goal":2,
+        "total_minutes_played":2364,
+        "goals_per_90":0.076142132
+    },
+    {
+        "shortName":"Sergio Ramos",
+        "Goal":2,
+        "total_minutes_played":2372,
+        "goals_per_90":0.0758853288
+    },
+    {
+        "shortName":"T. Kleindienst",
+        "Goal":1,
+        "total_minutes_played":1187,
+        "goals_per_90":0.0758213985
+    },
+    {
+        "shortName":"K. Coman",
+        "Goal":1,
+        "total_minutes_played":1189,
+        "goals_per_90":0.0756938604
+    },
+    {
+        "shortName":"Ryder Matos",
+        "Goal":1,
+        "total_minutes_played":1194,
+        "goals_per_90":0.0753768844
+    },
+    {
+        "shortName":"F. Ricci",
+        "Goal":1,
+        "total_minutes_played":1195,
+        "goals_per_90":0.0753138075
+    },
+    {
+        "shortName":"D. Cataldi",
+        "Goal":2,
+        "total_minutes_played":2394,
+        "goals_per_90":0.0751879699
+    },
+    {
+        "shortName":"S. Kagawa",
+        "Goal":1,
+        "total_minutes_played":1208,
+        "goals_per_90":0.0745033113
+    },
+    {
+        "shortName":"B. Oczipka",
+        "Goal":2,
+        "total_minutes_played":2419,
+        "goals_per_90":0.0744109136
+    },
+    {
+        "shortName":"S. Bender",
+        "Goal":2,
+        "total_minutes_played":2420,
+        "goals_per_90":0.0743801653
+    },
+    {
+        "shortName":"S. Haller",
+        "Goal":2,
+        "total_minutes_played":2427,
+        "goals_per_90":0.0741656366
+    },
+    {
+        "shortName":"V. Rongier",
+        "Goal":2,
+        "total_minutes_played":2434,
+        "goals_per_90":0.0739523418
+    },
+    {
+        "shortName":"K. Manolas",
+        "Goal":2,
+        "total_minutes_played":2436,
+        "goals_per_90":0.0738916256
+    },
+    {
+        "shortName":"Mikel Rico",
+        "Goal":1,
+        "total_minutes_played":1222,
+        "goals_per_90":0.0736497545
+    },
+    {
+        "shortName":"K. Boateng",
+        "Goal":2,
+        "total_minutes_played":2445,
+        "goals_per_90":0.0736196319
+    },
+    {
+        "shortName":"P. Dybala",
+        "Goal":2,
+        "total_minutes_played":2452,
+        "goals_per_90":0.0734094617
+    },
+    {
+        "shortName":"F. Orellana",
+        "Goal":1,
+        "total_minutes_played":1228,
+        "goals_per_90":0.0732899023
+    },
+    {
+        "shortName":"F. Depaoli",
+        "Goal":1,
+        "total_minutes_played":1237,
+        "goals_per_90":0.0727566694
+    },
+    {
+        "shortName":"J. Correa",
+        "Goal":1,
+        "total_minutes_played":1238,
+        "goals_per_90":0.0726978998
+    },
+    {
+        "shortName":"L. Balogun",
+        "Goal":1,
+        "total_minutes_played":1239,
+        "goals_per_90":0.0726392252
+    },
+    {
+        "shortName":"Guilherme",
+        "Goal":3,
+        "total_minutes_played":3719,
+        "goals_per_90":0.0726001613
+    },
+    {
+        "shortName":"P. Kimpembe",
+        "Goal":2,
+        "total_minutes_played":2497,
+        "goals_per_90":0.0720865038
+    },
+    {
+        "shortName":"G. Castro",
+        "Goal":1,
+        "total_minutes_played":1252,
+        "goals_per_90":0.071884984
+    },
+    {
+        "shortName":"K. Demirbay",
+        "Goal":1,
+        "total_minutes_played":1253,
+        "goals_per_90":0.0718276137
+    },
+    {
+        "shortName":"J. Ikoko",
+        "Goal":2,
+        "total_minutes_played":2506,
+        "goals_per_90":0.0718276137
+    },
+    {
+        "shortName":"H. Hateboer",
+        "Goal":2,
+        "total_minutes_played":2514,
+        "goals_per_90":0.0715990453
+    },
+    {
+        "shortName":"Mexer",
+        "Goal":1,
+        "total_minutes_played":1257,
+        "goals_per_90":0.0715990453
+    },
+    {
+        "shortName":"H. Aouar",
+        "Goal":2,
+        "total_minutes_played":2515,
+        "goals_per_90":0.0715705765
+    },
+    {
+        "shortName":"P. Hetemaj",
+        "Goal":2,
+        "total_minutes_played":2516,
+        "goals_per_90":0.0715421304
+    },
+    {
+        "shortName":"C. Grenier",
+        "Goal":1,
+        "total_minutes_played":1259,
+        "goals_per_90":0.0714853058
+    },
+    {
+        "shortName":"N. Pallois",
+        "Goal":2,
+        "total_minutes_played":2528,
+        "goals_per_90":0.0712025316
+    },
+    {
+        "shortName":"Hilton",
+        "Goal":2,
+        "total_minutes_played":2534,
+        "goals_per_90":0.0710339384
+    },
+    {
+        "shortName":"M. Musacchio",
+        "Goal":1,
+        "total_minutes_played":1269,
+        "goals_per_90":0.0709219858
+    },
+    {
+        "shortName":"Gil Dias",
+        "Goal":1,
+        "total_minutes_played":1271,
+        "goals_per_90":0.0708103855
+    },
+    {
+        "shortName":"Y. Gerhardt",
+        "Goal":1,
+        "total_minutes_played":1274,
+        "goals_per_90":0.0706436421
+    },
+    {
+        "shortName":"Granero",
+        "Goal":1,
+        "total_minutes_played":1284,
+        "goals_per_90":0.0700934579
+    },
+    {
+        "shortName":"C. Bacca",
+        "Goal":2,
+        "total_minutes_played":2568,
+        "goals_per_90":0.0700934579
+    },
+    {
+        "shortName":"F. Valverde",
+        "Goal":1,
+        "total_minutes_played":1286,
+        "goals_per_90":0.0699844479
+    },
+    {
+        "shortName":"D. Foulquier",
+        "Goal":1,
+        "total_minutes_played":1291,
+        "goals_per_90":0.0697134005
+    },
+    {
+        "shortName":"V. Birsa",
+        "Goal":2,
+        "total_minutes_played":2603,
+        "goals_per_90":0.0691509796
+    },
+    {
+        "shortName":"Z. Feddal",
+        "Goal":1,
+        "total_minutes_played":1312,
+        "goals_per_90":0.068597561
+    },
+    {
+        "shortName":"B. Henrichs",
+        "Goal":1,
+        "total_minutes_played":1314,
+        "goals_per_90":0.0684931507
+    },
+    {
+        "shortName":"Pere Pons",
+        "Goal":2,
+        "total_minutes_played":2651,
+        "goals_per_90":0.0678989061
+    },
+    {
+        "shortName":"Borja Valero",
+        "Goal":2,
+        "total_minutes_played":2654,
+        "goals_per_90":0.0678221552
+    },
+    {
+        "shortName":"A. Thomasson",
+        "Goal":2,
+        "total_minutes_played":2665,
+        "goals_per_90":0.0675422139
+    },
+    {
+        "shortName":"A. Hack",
+        "Goal":1,
+        "total_minutes_played":1339,
+        "goals_per_90":0.0672143391
+    },
+    {
+        "shortName":"S. Ilsanker",
+        "Goal":1,
+        "total_minutes_played":1339,
+        "goals_per_90":0.0672143391
+    },
+    {
+        "shortName":"M. Heller",
+        "Goal":1,
+        "total_minutes_played":1342,
+        "goals_per_90":0.0670640835
+    },
+    {
+        "shortName":"J. Gbamin",
+        "Goal":2,
+        "total_minutes_played":2694,
+        "goals_per_90":0.0668151448
+    },
+    {
+        "shortName":"A. Aquilani",
+        "Goal":1,
+        "total_minutes_played":1347,
+        "goals_per_90":0.0668151448
+    },
+    {
+        "shortName":"J. Seri",
+        "Goal":2,
+        "total_minutes_played":2696,
+        "goals_per_90":0.0667655786
+    },
+    {
+        "shortName":"C. Ninga",
+        "Goal":1,
+        "total_minutes_played":1350,
+        "goals_per_90":0.0666666667
+    },
+    {
+        "shortName":"J. Schuster",
+        "Goal":1,
+        "total_minutes_played":1350,
+        "goals_per_90":0.0666666667
+    },
+    {
+        "shortName":"R. Nainggolan",
+        "Goal":2,
+        "total_minutes_played":2712,
+        "goals_per_90":0.0663716814
+    },
+    {
+        "shortName":"Pablo Fornals",
+        "Goal":2,
+        "total_minutes_played":2714,
+        "goals_per_90":0.0663227708
+    },
+    {
+        "shortName":"Fede Cartabia",
+        "Goal":1,
+        "total_minutes_played":1357,
+        "goals_per_90":0.0663227708
+    },
+    {
+        "shortName":"B. Martella",
+        "Goal":2,
+        "total_minutes_played":2731,
+        "goals_per_90":0.0659099231
+    },
+    {
+        "shortName":"Sergi Enrich",
+        "Goal":1,
+        "total_minutes_played":1368,
+        "goals_per_90":0.0657894737
+    },
+    {
+        "shortName":"R. Krhin",
+        "Goal":1,
+        "total_minutes_played":1371,
+        "goals_per_90":0.0656455142
+    },
+    {
+        "shortName":"K. Laimer",
+        "Goal":1,
+        "total_minutes_played":1386,
+        "goals_per_90":0.0649350649
+    },
+    {
+        "shortName":"J. Pastore",
+        "Goal":1,
+        "total_minutes_played":1387,
+        "goals_per_90":0.064888248
+    },
+    {
+        "shortName":"R. Zentner",
+        "Goal":1,
+        "total_minutes_played":1396,
+        "goals_per_90":0.064469914
+    },
+    {
+        "shortName":"E. Brignola",
+        "Goal":1,
+        "total_minutes_played":1397,
+        "goals_per_90":0.0644237652
+    },
+    {
+        "shortName":"R. Amalfitano",
+        "Goal":2,
+        "total_minutes_played":2798,
+        "goals_per_90":0.0643316655
+    },
+    {
+        "shortName":"S. Bastien",
+        "Goal":1,
+        "total_minutes_played":1411,
+        "goals_per_90":0.06378455
+    },
+    {
+        "shortName":"A. Masiello",
+        "Goal":2,
+        "total_minutes_played":2829,
+        "goals_per_90":0.0636267232
+    },
+    {
+        "shortName":"J. Murillo",
+        "Goal":1,
+        "total_minutes_played":1425,
+        "goals_per_90":0.0631578947
+    },
+    {
+        "shortName":"J. Baumgartlinger",
+        "Goal":1,
+        "total_minutes_played":1432,
+        "goals_per_90":0.062849162
+    },
+    {
+        "shortName":"V. Behrami",
+        "Goal":1,
+        "total_minutes_played":1442,
+        "goals_per_90":0.0624133148
+    },
+    {
+        "shortName":"R. Inglese",
+        "Goal":2,
+        "total_minutes_played":2893,
+        "goals_per_90":0.0622191497
+    },
+    {
+        "shortName":"M. Politano",
+        "Goal":2,
+        "total_minutes_played":2912,
+        "goals_per_90":0.0618131868
+    },
+    {
+        "shortName":"P. Aubameyang",
+        "Goal":1,
+        "total_minutes_played":1460,
+        "goals_per_90":0.0616438356
+    },
+    {
+        "shortName":"Antunes",
+        "Goal":2,
+        "total_minutes_played":2921,
+        "goals_per_90":0.0616227319
+    },
+    {
+        "shortName":"A. Ndiaye",
+        "Goal":2,
+        "total_minutes_played":2922,
+        "goals_per_90":0.0616016427
+    },
+    {
+        "shortName":"F. Mollet",
+        "Goal":1,
+        "total_minutes_played":1464,
+        "goals_per_90":0.0614754098
+    },
+    {
+        "shortName":"Xeka",
+        "Goal":1,
+        "total_minutes_played":1465,
+        "goals_per_90":0.0614334471
+    },
+    {
+        "shortName":"S. Verdi",
+        "Goal":2,
+        "total_minutes_played":2944,
+        "goals_per_90":0.0611413043
+    },
+    {
+        "shortName":"Bastos",
+        "Goal":1,
+        "total_minutes_played":1473,
+        "goals_per_90":0.0610997963
+    },
+    {
+        "shortName":"Caiuby",
+        "Goal":2,
+        "total_minutes_played":2950,
+        "goals_per_90":0.0610169492
+    },
+    {
+        "shortName":"J. Iloki",
+        "Goal":1,
+        "total_minutes_played":1476,
+        "goals_per_90":0.0609756098
+    },
+    {
+        "shortName":"Lucas Leiva",
+        "Goal":2,
+        "total_minutes_played":2987,
+        "goals_per_90":0.0602611316
+    },
+    {
+        "shortName":"A. Vidal",
+        "Goal":1,
+        "total_minutes_played":1495,
+        "goals_per_90":0.0602006689
+    },
+    {
+        "shortName":"B. Keita",
+        "Goal":1,
+        "total_minutes_played":1510,
+        "goals_per_90":0.059602649
+    },
+    {
+        "shortName":"N. Murru",
+        "Goal":1,
+        "total_minutes_played":1510,
+        "goals_per_90":0.059602649
+    },
+    {
+        "shortName":"J. Morel",
+        "Goal":2,
+        "total_minutes_played":3022,
+        "goals_per_90":0.0595632032
+    },
+    {
+        "shortName":"Odriozola",
+        "Goal":2,
+        "total_minutes_played":3024,
+        "goals_per_90":0.0595238095
+    },
+    {
+        "shortName":"A. Hunou",
+        "Goal":1,
+        "total_minutes_played":1512,
+        "goals_per_90":0.0595238095
+    },
+    {
+        "shortName":"T. Hazard",
+        "Goal":2,
+        "total_minutes_played":3026,
+        "goals_per_90":0.0594844679
+    },
+    {
+        "shortName":"M. Terrazzino",
+        "Goal":1,
+        "total_minutes_played":1521,
+        "goals_per_90":0.0591715976
+    },
+    {
+        "shortName":"Y. M'Vila",
+        "Goal":1,
+        "total_minutes_played":1526,
+        "goals_per_90":0.0589777195
+    },
+    {
+        "shortName":"L. De Silvestri",
+        "Goal":2,
+        "total_minutes_played":3069,
+        "goals_per_90":0.0586510264
+    },
+    {
+        "shortName":"Portu",
+        "Goal":2,
+        "total_minutes_played":3077,
+        "goals_per_90":0.0584985375
+    },
+    {
+        "shortName":"M. Plattenhardt",
+        "Goal":2,
+        "total_minutes_played":3080,
+        "goals_per_90":0.0584415584
+    },
+    {
+        "shortName":"F. Roncaglia",
+        "Goal":1,
+        "total_minutes_played":1545,
+        "goals_per_90":0.0582524272
+    },
+    {
+        "shortName":"F. Costa",
+        "Goal":1,
+        "total_minutes_played":1547,
+        "goals_per_90":0.058177117
+    },
+    {
+        "shortName":"M. Schmelzer",
+        "Goal":1,
+        "total_minutes_played":1547,
+        "goals_per_90":0.058177117
+    },
+    {
+        "shortName":"Jurado",
+        "Goal":1,
+        "total_minutes_played":1553,
+        "goals_per_90":0.0579523503
+    },
+    {
+        "shortName":"G. Simeone",
+        "Goal":2,
+        "total_minutes_played":3114,
+        "goals_per_90":0.0578034682
+    },
+    {
+        "shortName":"C. Lenglet",
+        "Goal":2,
+        "total_minutes_played":3121,
+        "goals_per_90":0.0576738225
+    },
+    {
+        "shortName":"F. Chiesa",
+        "Goal":2,
+        "total_minutes_played":3136,
+        "goals_per_90":0.0573979592
+    },
+    {
+        "shortName":"S. de Vrij",
+        "Goal":2,
+        "total_minutes_played":3144,
+        "goals_per_90":0.0572519084
+    },
+    {
+        "shortName":"Y. Cahuzac",
+        "Goal":1,
+        "total_minutes_played":1574,
+        "goals_per_90":0.0571791614
+    },
+    {
+        "shortName":"Fabinho",
+        "Goal":2,
+        "total_minutes_played":3162,
+        "goals_per_90":0.0569259962
+    },
+    {
+        "shortName":"A. Bamba",
+        "Goal":1,
+        "total_minutes_played":1584,
+        "goals_per_90":0.0568181818
+    },
+    {
+        "shortName":"C. Awaziem",
+        "Goal":1,
+        "total_minutes_played":1585,
+        "goals_per_90":0.0567823344
+    },
+    {
+        "shortName":"T. Koubek",
+        "Goal":2,
+        "total_minutes_played":3192,
+        "goals_per_90":0.0563909774
+    },
+    {
+        "shortName":"G. Kakuta",
+        "Goal":2,
+        "total_minutes_played":3194,
+        "goals_per_90":0.0563556669
+    },
+    {
+        "shortName":"D. Alaba",
+        "Goal":1,
+        "total_minutes_played":1600,
+        "goals_per_90":0.05625
+    },
+    {
+        "shortName":"Y. Konoplyanka",
+        "Goal":1,
+        "total_minutes_played":1612,
+        "goals_per_90":0.0558312655
+    },
+    {
+        "shortName":"A. Januzaj",
+        "Goal":1,
+        "total_minutes_played":1616,
+        "goals_per_90":0.0556930693
+    },
+    {
+        "shortName":"T. Meunier",
+        "Goal":1,
+        "total_minutes_played":1632,
+        "goals_per_90":0.0551470588
+    },
+    {
+        "shortName":"R. Rodelin",
+        "Goal":2,
+        "total_minutes_played":3267,
+        "goals_per_90":0.0550964187
+    },
+    {
+        "shortName":"C. Molinaro",
+        "Goal":1,
+        "total_minutes_played":1635,
+        "goals_per_90":0.0550458716
+    },
+    {
+        "shortName":"M. Coco",
+        "Goal":1,
+        "total_minutes_played":1644,
+        "goals_per_90":0.0547445255
+    },
+    {
+        "shortName":"Aritz Elustondo",
+        "Goal":1,
+        "total_minutes_played":1648,
+        "goals_per_90":0.0546116505
+    },
+    {
+        "shortName":"S. Yago",
+        "Goal":1,
+        "total_minutes_played":1652,
+        "goals_per_90":0.0544794189
+    },
+    {
+        "shortName":"F. Di Francesco",
+        "Goal":1,
+        "total_minutes_played":1653,
+        "goals_per_90":0.054446461
+    },
+    {
+        "shortName":"V. Koziello",
+        "Goal":1,
+        "total_minutes_played":1654,
+        "goals_per_90":0.0544135429
+    },
+    {
+        "shortName":"Nolito",
+        "Goal":1,
+        "total_minutes_played":1656,
+        "goals_per_90":0.0543478261
+    },
+    {
+        "shortName":"Jonny",
+        "Goal":2,
+        "total_minutes_played":3312,
+        "goals_per_90":0.0543478261
+    },
+    {
+        "shortName":"A. Raggi",
+        "Goal":1,
+        "total_minutes_played":1660,
+        "goals_per_90":0.0542168675
+    },
+    {
+        "shortName":"V. Laurini",
+        "Goal":1,
+        "total_minutes_played":1672,
+        "goals_per_90":0.0538277512
+    },
+    {
+        "shortName":"A. Taarabt",
+        "Goal":1,
+        "total_minutes_played":1674,
+        "goals_per_90":0.0537634409
+    },
+    {
+        "shortName":"A. Cerci",
+        "Goal":1,
+        "total_minutes_played":1682,
+        "goals_per_90":0.0535077289
+    },
+    {
+        "shortName":"N. Amrabat",
+        "Goal":1,
+        "total_minutes_played":1683,
+        "goals_per_90":0.0534759358
+    },
+    {
+        "shortName":"V. Darida",
+        "Goal":1,
+        "total_minutes_played":1688,
+        "goals_per_90":0.0533175355
+    },
+    {
+        "shortName":"Bustinza",
+        "Goal":1,
+        "total_minutes_played":1689,
+        "goals_per_90":0.053285968
+    },
+    {
+        "shortName":"I. Sylla",
+        "Goal":1,
+        "total_minutes_played":1691,
+        "goals_per_90":0.053222945
+    },
+    {
+        "shortName":"A. Nalini",
+        "Goal":1,
+        "total_minutes_played":1700,
+        "goals_per_90":0.0529411765
+    },
+    {
+        "shortName":"S. Widmer",
+        "Goal":1,
+        "total_minutes_played":1705,
+        "goals_per_90":0.0527859238
+    },
+    {
+        "shortName":"F. Andone",
+        "Goal":1,
+        "total_minutes_played":1710,
+        "goals_per_90":0.0526315789
+    },
+    {
+        "shortName":"J. Willems",
+        "Goal":1,
+        "total_minutes_played":1713,
+        "goals_per_90":0.0525394046
+    },
+    {
+        "shortName":"C. Kerbrat",
+        "Goal":2,
+        "total_minutes_played":3438,
+        "goals_per_90":0.0523560209
+    },
+    {
+        "shortName":"D. Kohr",
+        "Goal":1,
+        "total_minutes_played":1719,
+        "goals_per_90":0.0523560209
+    },
+    {
+        "shortName":"P. De Blasis",
+        "Goal":1,
+        "total_minutes_played":1721,
+        "goals_per_90":0.0522951772
+    },
+    {
+        "shortName":"S. Bahoken",
+        "Goal":1,
+        "total_minutes_played":1725,
+        "goals_per_90":0.052173913
+    },
+    {
+        "shortName":"G. Poblete",
+        "Goal":1,
+        "total_minutes_played":1726,
+        "goals_per_90":0.0521436848
+    },
+    {
+        "shortName":"C. Beauvue",
+        "Goal":1,
+        "total_minutes_played":1728,
+        "goals_per_90":0.0520833333
+    },
+    {
+        "shortName":"F. Kainz",
+        "Goal":1,
+        "total_minutes_played":1729,
+        "goals_per_90":0.0520532099
+    },
+    {
+        "shortName":"Gabriel",
+        "Goal":3,
+        "total_minutes_played":5220,
+        "goals_per_90":0.0517241379
+    },
+    {
+        "shortName":"A. Tameze",
+        "Goal":1,
+        "total_minutes_played":1742,
+        "goals_per_90":0.0516647532
+    },
+    {
+        "shortName":"Ali Adnan",
+        "Goal":1,
+        "total_minutes_played":1746,
+        "goals_per_90":0.0515463918
+    },
+    {
+        "shortName":"Nuno Da Costa",
+        "Goal":1,
+        "total_minutes_played":1759,
+        "goals_per_90":0.0511654349
+    },
+    {
+        "shortName":"C. Jean",
+        "Goal":1,
+        "total_minutes_played":1762,
+        "goals_per_90":0.0510783201
+    },
+    {
+        "shortName":"S. Serdar",
+        "Goal":1,
+        "total_minutes_played":1765,
+        "goals_per_90":0.0509915014
+    },
+    {
+        "shortName":"W. Ben Yedder",
+        "Goal":1,
+        "total_minutes_played":1769,
+        "goals_per_90":0.0508762012
+    },
+    {
+        "shortName":"Pedro Rebocho",
+        "Goal":1,
+        "total_minutes_played":1771,
+        "goals_per_90":0.0508187465
+    },
+    {
+        "shortName":"A. Laporte",
+        "Goal":1,
+        "total_minutes_played":1776,
+        "goals_per_90":0.0506756757
+    },
+    {
+        "shortName":"T. Strakosha",
+        "Goal":2,
+        "total_minutes_played":3562,
+        "goals_per_90":0.0505334082
+    },
+    {
+        "shortName":"P. Piatti",
+        "Goal":1,
+        "total_minutes_played":1788,
+        "goals_per_90":0.0503355705
+    },
+    {
+        "shortName":"Miguel Veloso",
+        "Goal":1,
+        "total_minutes_played":1801,
+        "goals_per_90":0.0499722376
+    },
+    {
+        "shortName":"M. Meyer",
+        "Goal":1,
+        "total_minutes_played":1803,
+        "goals_per_90":0.0499168053
+    },
+    {
+        "shortName":"K. Monnet-Paquet",
+        "Goal":1,
+        "total_minutes_played":1819,
+        "goals_per_90":0.049477735
+    },
+    {
+        "shortName":"J. Lea Siliki",
+        "Goal":1,
+        "total_minutes_played":1820,
+        "goals_per_90":0.0494505495
+    },
+    {
+        "shortName":"G. Pizarro",
+        "Goal":1,
+        "total_minutes_played":1834,
+        "goals_per_90":0.0490730643
+    },
+    {
+        "shortName":"A. Finnbogason",
+        "Goal":1,
+        "total_minutes_played":1858,
+        "goals_per_90":0.0484391819
+    },
+    {
+        "shortName":"I. M'baye",
+        "Goal":1,
+        "total_minutes_played":1858,
+        "goals_per_90":0.0484391819
+    },
+    {
+        "shortName":"L. Blas",
+        "Goal":1,
+        "total_minutes_played":1864,
+        "goals_per_90":0.0482832618
+    },
+    {
+        "shortName":"Douglas Costa",
+        "Goal":1,
+        "total_minutes_played":1865,
+        "goals_per_90":0.0482573727
+    },
+    {
+        "shortName":"E. Moretti",
+        "Goal":1,
+        "total_minutes_played":1867,
+        "goals_per_90":0.0482056776
+    },
+    {
+        "shortName":"Daniel Bessa",
+        "Goal":1,
+        "total_minutes_played":1881,
+        "goals_per_90":0.04784689
+    },
+    {
+        "shortName":"G. Donsah",
+        "Goal":1,
+        "total_minutes_played":1883,
+        "goals_per_90":0.0477960701
+    },
+    {
+        "shortName":"Recio",
+        "Goal":1,
+        "total_minutes_played":1896,
+        "goals_per_90":0.0474683544
+    },
+    {
+        "shortName":"R. Hamouma",
+        "Goal":1,
+        "total_minutes_played":1897,
+        "goals_per_90":0.0474433316
+    },
+    {
+        "shortName":"Aday",
+        "Goal":1,
+        "total_minutes_played":1905,
+        "goals_per_90":0.0472440945
+    },
+    {
+        "shortName":"Marco Asensio",
+        "Goal":1,
+        "total_minutes_played":1914,
+        "goals_per_90":0.0470219436
+    },
+    {
+        "shortName":"D. Diekmeier",
+        "Goal":1,
+        "total_minutes_played":1940,
+        "goals_per_90":0.0463917526
+    },
+    {
+        "shortName":"H. Manzala",
+        "Goal":1,
+        "total_minutes_played":1948,
+        "goals_per_90":0.046201232
+    },
+    {
+        "shortName":"J. Roussillon",
+        "Goal":1,
+        "total_minutes_played":1950,
+        "goals_per_90":0.0461538462
+    },
+    {
+        "shortName":"D. Selke",
+        "Goal":1,
+        "total_minutes_played":1952,
+        "goals_per_90":0.0461065574
+    },
+    {
+        "shortName":"F. Grillitsch",
+        "Goal":1,
+        "total_minutes_played":1954,
+        "goals_per_90":0.0460593654
+    },
+    {
+        "shortName":"A. Blin",
+        "Goal":1,
+        "total_minutes_played":1968,
+        "goals_per_90":0.0457317073
+    },
+    {
+        "shortName":"L. Deaux",
+        "Goal":1,
+        "total_minutes_played":2000,
+        "goals_per_90":0.045
+    },
+    {
+        "shortName":"Marlon",
+        "Goal":1,
+        "total_minutes_played":2004,
+        "goals_per_90":0.0449101796
+    },
+    {
+        "shortName":"J. Weigl",
+        "Goal":1,
+        "total_minutes_played":2018,
+        "goals_per_90":0.0445986125
+    },
+    {
+        "shortName":"M. Lemos",
+        "Goal":1,
+        "total_minutes_played":2030,
+        "goals_per_90":0.0443349754
+    },
+    {
+        "shortName":"F. Klaus",
+        "Goal":1,
+        "total_minutes_played":2043,
+        "goals_per_90":0.0440528634
+    },
+    {
+        "shortName":"M. Weiser",
+        "Goal":1,
+        "total_minutes_played":2053,
+        "goals_per_90":0.0438382854
+    },
+    {
+        "shortName":"Naldo",
+        "Goal":2,
+        "total_minutes_played":4140,
+        "goals_per_90":0.0434782609
+    },
+    {
+        "shortName":"J. Palomino",
+        "Goal":1,
+        "total_minutes_played":2072,
+        "goals_per_90":0.0434362934
+    },
+    {
+        "shortName":"F. Kamano",
+        "Goal":1,
+        "total_minutes_played":2080,
+        "goals_per_90":0.0432692308
+    },
+    {
+        "shortName":"C. Puggioni",
+        "Goal":1,
+        "total_minutes_played":2080,
+        "goals_per_90":0.0432692308
+    },
+    {
+        "shortName":"Dani Castellano",
+        "Goal":1,
+        "total_minutes_played":2100,
+        "goals_per_90":0.0428571429
+    },
+    {
+        "shortName":"Luna",
+        "Goal":1,
+        "total_minutes_played":2102,
+        "goals_per_90":0.0428163654
+    },
+    {
+        "shortName":"Chory Castro",
+        "Goal":1,
+        "total_minutes_played":2114,
+        "goals_per_90":0.0425733207
+    },
+    {
+        "shortName":"Ja-Cheol Koo",
+        "Goal":1,
+        "total_minutes_played":2114,
+        "goals_per_90":0.0425733207
+    },
+    {
+        "shortName":"A. Harit",
+        "Goal":1,
+        "total_minutes_played":2120,
+        "goals_per_90":0.0424528302
+    },
+    {
+        "shortName":"M. Bakalorz",
+        "Goal":1,
+        "total_minutes_played":2125,
+        "goals_per_90":0.0423529412
+    },
+    {
+        "shortName":"M. Gobbi",
+        "Goal":1,
+        "total_minutes_played":2142,
+        "goals_per_90":0.0420168067
+    },
+    {
+        "shortName":"Sergio Asenjo",
+        "Goal":1,
+        "total_minutes_played":2147,
+        "goals_per_90":0.0419189567
+    },
+    {
+        "shortName":"Gabriel Silva",
+        "Goal":1,
+        "total_minutes_played":2148,
+        "goals_per_90":0.0418994413
+    },
+    {
+        "shortName":"S. Zaza",
+        "Goal":1,
+        "total_minutes_played":2157,
+        "goals_per_90":0.0417246175
+    },
+    {
+        "shortName":"M. Hasebe",
+        "Goal":1,
+        "total_minutes_played":2162,
+        "goals_per_90":0.0416281221
+    },
+    {
+        "shortName":"Thiago Silva",
+        "Goal":1,
+        "total_minutes_played":2174,
+        "goals_per_90":0.0413983441
+    },
+    {
+        "shortName":"R. Knoche",
+        "Goal":1,
+        "total_minutes_played":2177,
+        "goals_per_90":0.0413412954
+    },
+    {
+        "shortName":"I. Mbenza",
+        "Goal":1,
+        "total_minutes_played":2186,
+        "goals_per_90":0.0411710887
+    },
+    {
+        "shortName":"R. Falcao",
+        "Goal":1,
+        "total_minutes_played":2190,
+        "goals_per_90":0.0410958904
+    },
+    {
+        "shortName":"F. Mendy",
+        "Goal":1,
+        "total_minutes_played":2198,
+        "goals_per_90":0.0409463148
+    },
+    {
+        "shortName":"S. Terodde",
+        "Goal":1,
+        "total_minutes_played":2198,
+        "goals_per_90":0.0409463148
+    },
+    {
+        "shortName":"A. Stoian",
+        "Goal":1,
+        "total_minutes_played":2199,
+        "goals_per_90":0.0409276944
+    },
+    {
+        "shortName":"P. Martinez",
+        "Goal":1,
+        "total_minutes_played":2199,
+        "goals_per_90":0.0409276944
+    },
+    {
+        "shortName":"Kwon Chang-Hoon",
+        "Goal":1,
+        "total_minutes_played":2204,
+        "goals_per_90":0.0408348457
+    },
+    {
+        "shortName":"K. Lasagna",
+        "Goal":1,
+        "total_minutes_played":2212,
+        "goals_per_90":0.0406871609
+    },
+    {
+        "shortName":"J. Mojica",
+        "Goal":1,
+        "total_minutes_played":2217,
+        "goals_per_90":0.0405953992
+    },
+    {
+        "shortName":"A. Ferrari",
+        "Goal":1,
+        "total_minutes_played":2221,
+        "goals_per_90":0.0405222873
+    },
+    {
+        "shortName":"B. Kamara",
+        "Goal":1,
+        "total_minutes_played":2227,
+        "goals_per_90":0.0404131118
+    },
+    {
+        "shortName":"K. Linetty",
+        "Goal":1,
+        "total_minutes_played":2231,
+        "goals_per_90":0.0403406544
+    },
+    {
+        "shortName":"Montoya",
+        "Goal":1,
+        "total_minutes_played":2235,
+        "goals_per_90":0.0402684564
+    },
+    {
+        "shortName":"Sergio Rico",
+        "Goal":1,
+        "total_minutes_played":2236,
+        "goals_per_90":0.0402504472
+    },
+    {
+        "shortName":"M. Uth",
+        "Goal":1,
+        "total_minutes_played":2245,
+        "goals_per_90":0.0400890869
+    },
+    {
+        "shortName":"A. Niane",
+        "Goal":1,
+        "total_minutes_played":2251,
+        "goals_per_90":0.0399822301
+    },
+    {
+        "shortName":"Juanfran",
+        "Goal":2,
+        "total_minutes_played":4516,
+        "goals_per_90":0.0398582817
+    },
+    {
+        "shortName":"M. Caldara",
+        "Goal":1,
+        "total_minutes_played":2258,
+        "goals_per_90":0.0398582817
+    },
+    {
+        "shortName":"S. Bell",
+        "Goal":1,
+        "total_minutes_played":2267,
+        "goals_per_90":0.0397000441
+    },
+    {
+        "shortName":"E. Seka",
+        "Goal":1,
+        "total_minutes_played":2271,
+        "goals_per_90":0.0396301189
+    },
+    {
+        "shortName":"B. Stambouli",
+        "Goal":1,
+        "total_minutes_played":2283,
+        "goals_per_90":0.0394218134
+    },
+    {
+        "shortName":"N. Stark",
+        "Goal":1,
+        "total_minutes_played":2293,
+        "goals_per_90":0.039249891
+    },
+    {
+        "shortName":"D. Didavi",
+        "Goal":1,
+        "total_minutes_played":2294,
+        "goals_per_90":0.0392327812
+    },
+    {
+        "shortName":"F. Tait",
+        "Goal":1,
+        "total_minutes_played":2298,
+        "goals_per_90":0.0391644909
+    },
+    {
+        "shortName":"S. N'Zonzi",
+        "Goal":1,
+        "total_minutes_played":2299,
+        "goals_per_90":0.0391474554
+    },
+    {
+        "shortName":"Daniel Carvajal",
+        "Goal":1,
+        "total_minutes_played":2300,
+        "goals_per_90":0.0391304348
+    },
+    {
+        "shortName":"F. Diagne",
+        "Goal":1,
+        "total_minutes_played":2310,
+        "goals_per_90":0.038961039
+    },
+    {
+        "shortName":"G. Imbula",
+        "Goal":1,
+        "total_minutes_played":2319,
+        "goals_per_90":0.0388098318
+    },
+    {
+        "shortName":"Bartra",
+        "Goal":1,
+        "total_minutes_played":2319,
+        "goals_per_90":0.0388098318
+    },
+    {
+        "shortName":"J. Gelin",
+        "Goal":1,
+        "total_minutes_played":2325,
+        "goals_per_90":0.0387096774
+    },
+    {
+        "shortName":"N. Petersen",
+        "Goal":1,
+        "total_minutes_played":2325,
+        "goals_per_90":0.0387096774
+    },
+    {
+        "shortName":"Susaeta",
+        "Goal":1,
+        "total_minutes_played":2333,
+        "goals_per_90":0.0385769396
+    },
+    {
+        "shortName":"M. Balotelli",
+        "Goal":1,
+        "total_minutes_played":2340,
+        "goals_per_90":0.0384615385
+    },
+    {
+        "shortName":"A. Guardado",
+        "Goal":1,
+        "total_minutes_played":2356,
+        "goals_per_90":0.0382003396
+    },
+    {
+        "shortName":"D. Astori",
+        "Goal":1,
+        "total_minutes_played":2357,
+        "goals_per_90":0.0381841324
+    },
+    {
+        "shortName":"G. Donati",
+        "Goal":1,
+        "total_minutes_played":2358,
+        "goals_per_90":0.0381679389
+    },
+    {
+        "shortName":"D. Zakaria",
+        "Goal":1,
+        "total_minutes_played":2359,
+        "goals_per_90":0.0381517592
+    },
+    {
+        "shortName":"G. Sakai",
+        "Goal":1,
+        "total_minutes_played":2363,
+        "goals_per_90":0.0380871773
+    },
+    {
+        "shortName":"D. Berardi",
+        "Goal":1,
+        "total_minutes_played":2364,
+        "goals_per_90":0.038071066
+    },
+    {
+        "shortName":"W. Anton",
+        "Goal":1,
+        "total_minutes_played":2372,
+        "goals_per_90":0.0379426644
+    },
+    {
+        "shortName":"C. Borges",
+        "Goal":1,
+        "total_minutes_played":2382,
+        "goals_per_90":0.0377833753
+    },
+    {
+        "shortName":"D. Abraham",
+        "Goal":1,
+        "total_minutes_played":2394,
+        "goals_per_90":0.037593985
+    },
+    {
+        "shortName":"R. Varane",
+        "Goal":1,
+        "total_minutes_played":2396,
+        "goals_per_90":0.0375626043
+    },
+    {
+        "shortName":"P. Schwegler",
+        "Goal":1,
+        "total_minutes_played":2397,
+        "goals_per_90":0.0375469337
+    },
+    {
+        "shortName":"R. Cabella",
+        "Goal":1,
+        "total_minutes_played":2414,
+        "goals_per_90":0.0372825186
+    },
+    {
+        "shortName":"G. Burgstaller",
+        "Goal":1,
+        "total_minutes_played":2418,
+        "goals_per_90":0.0372208437
+    },
+    {
+        "shortName":"J. Korb",
+        "Goal":1,
+        "total_minutes_played":2419,
+        "goals_per_90":0.0372054568
+    },
+    {
+        "shortName":"Sergio Escudero",
+        "Goal":1,
+        "total_minutes_played":2423,
+        "goals_per_90":0.0371440363
+    },
+    {
+        "shortName":"R. de Paul",
+        "Goal":1,
+        "total_minutes_played":2431,
+        "goals_per_90":0.0370218017
+    },
+    {
+        "shortName":"Douglas Santos",
+        "Goal":1,
+        "total_minutes_played":2457,
+        "goals_per_90":0.0366300366
+    },
+    {
+        "shortName":"B. Nuytinck",
+        "Goal":1,
+        "total_minutes_played":2462,
+        "goals_per_90":0.0365556458
+    },
+    {
+        "shortName":"J. Guilavogui",
+        "Goal":1,
+        "total_minutes_played":2471,
+        "goals_per_90":0.036422501
+    },
+    {
+        "shortName":"Pablo Sarabia",
+        "Goal":1,
+        "total_minutes_played":2472,
+        "goals_per_90":0.036407767
+    },
+    {
+        "shortName":"M. Ostrzolek",
+        "Goal":1,
+        "total_minutes_played":2476,
+        "goals_per_90":0.0363489499
+    },
+    {
+        "shortName":"I. Amadou",
+        "Goal":1,
+        "total_minutes_played":2482,
+        "goals_per_90":0.0362610798
+    },
+    {
+        "shortName":"A. Florenzi",
+        "Goal":1,
+        "total_minutes_played":2491,
+        "goals_per_90":0.0361300682
+    },
+    {
+        "shortName":"C. Gentner",
+        "Goal":1,
+        "total_minutes_played":2496,
+        "goals_per_90":0.0360576923
+    },
+    {
+        "shortName":"Arbilla",
+        "Goal":1,
+        "total_minutes_played":2501,
+        "goals_per_90":0.0359856058
+    },
+    {
+        "shortName":"J. Tah",
+        "Goal":1,
+        "total_minutes_played":2508,
+        "goals_per_90":0.0358851675
+    },
+    {
+        "shortName":"A. Souquet",
+        "Goal":1,
+        "total_minutes_played":2510,
+        "goals_per_90":0.0358565737
+    },
+    {
+        "shortName":"Munir",
+        "Goal":1,
+        "total_minutes_played":2517,
+        "goals_per_90":0.0357568534
+    },
+    {
+        "shortName":"Alfonso Pedraza",
+        "Goal":1,
+        "total_minutes_played":2527,
+        "goals_per_90":0.0356153542
+    },
+    {
+        "shortName":"O. Wendt",
+        "Goal":1,
+        "total_minutes_played":2528,
+        "goals_per_90":0.0356012658
+    },
+    {
+        "shortName":"Thiago Maia",
+        "Goal":1,
+        "total_minutes_played":2549,
+        "goals_per_90":0.0353079639
+    },
+    {
+        "shortName":"R. Aguilar",
+        "Goal":1,
+        "total_minutes_played":2568,
+        "goals_per_90":0.035046729
+    },
+    {
+        "shortName":"R. Thomas",
+        "Goal":1,
+        "total_minutes_played":2568,
+        "goals_per_90":0.035046729
+    },
+    {
+        "shortName":"T. Werner",
+        "Goal":1,
+        "total_minutes_played":2570,
+        "goals_per_90":0.0350194553
+    },
+    {
+        "shortName":"D. Baselli",
+        "Goal":1,
+        "total_minutes_played":2571,
+        "goals_per_90":0.0350058343
+    },
+    {
+        "shortName":"F. Viviani",
+        "Goal":1,
+        "total_minutes_played":2580,
+        "goals_per_90":0.0348837209
+    },
+    {
+        "shortName":"M. Dossevi",
+        "Goal":1,
+        "total_minutes_played":2585,
+        "goals_per_90":0.0348162476
+    },
+    {
+        "shortName":"A. Griezmann",
+        "Goal":1,
+        "total_minutes_played":2591,
+        "goals_per_90":0.0347356233
+    },
+    {
+        "shortName":"Rony Lopes",
+        "Goal":1,
+        "total_minutes_played":2595,
+        "goals_per_90":0.0346820809
+    },
+    {
+        "shortName":"D. Brosinski",
+        "Goal":1,
+        "total_minutes_played":2596,
+        "goals_per_90":0.0346687211
+    },
+    {
+        "shortName":"O. Haddadi",
+        "Goal":1,
+        "total_minutes_played":2601,
+        "goals_per_90":0.0346020761
+    },
+    {
+        "shortName":"A. Candreva",
+        "Goal":1,
+        "total_minutes_played":2611,
+        "goals_per_90":0.0344695519
+    },
+    {
+        "shortName":"D. Baier",
+        "Goal":1,
+        "total_minutes_played":2613,
+        "goals_per_90":0.0344431688
+    },
+    {
+        "shortName":"H. Sakai",
+        "Goal":1,
+        "total_minutes_played":2616,
+        "goals_per_90":0.0344036697
+    },
+    {
+        "shortName":"Eraso",
+        "Goal":1,
+        "total_minutes_played":2618,
+        "goals_per_90":0.0343773873
+    },
+    {
+        "shortName":"J. Stryger Larsen",
+        "Goal":1,
+        "total_minutes_played":2643,
+        "goals_per_90":0.0340522134
+    },
+    {
+        "shortName":"K. Volland",
+        "Goal":1,
+        "total_minutes_played":2664,
+        "goals_per_90":0.0337837838
+    },
+    {
+        "shortName":"B. Santamaria",
+        "Goal":1,
+        "total_minutes_played":2668,
+        "goals_per_90":0.0337331334
+    },
+    {
+        "shortName":"Sergio Busquets",
+        "Goal":1,
+        "total_minutes_played":2676,
+        "goals_per_90":0.033632287
+    },
+    {
+        "shortName":"T. Inui",
+        "Goal":1,
+        "total_minutes_played":2702,
+        "goals_per_90":0.0333086603
+    },
+    {
+        "shortName":"Ximo Navarro",
+        "Goal":1,
+        "total_minutes_played":2706,
+        "goals_per_90":0.0332594235
+    },
+    {
+        "shortName":"Y. Sommer",
+        "Goal":1,
+        "total_minutes_played":2716,
+        "goals_per_90":0.0331369661
+    },
+    {
+        "shortName":"M. Hinteregger",
+        "Goal":1,
+        "total_minutes_played":2746,
+        "goals_per_90":0.0327749454
+    },
+    {
+        "shortName":"M. Veljkovic",
+        "Goal":1,
+        "total_minutes_played":2749,
+        "goals_per_90":0.0327391779
+    },
+    {
+        "shortName":"G. Ferrari",
+        "Goal":1,
+        "total_minutes_played":2759,
+        "goals_per_90":0.0326205147
+    },
+    {
+        "shortName":"Rodrigo",
+        "Goal":1,
+        "total_minutes_played":2767,
+        "goals_per_90":0.0325262017
+    },
+    {
+        "shortName":"Marcelo",
+        "Goal":2,
+        "total_minutes_played":5537,
+        "goals_per_90":0.0325085787
+    },
+    {
+        "shortName":"C. Immobile",
+        "Goal":1,
+        "total_minutes_played":2771,
+        "goals_per_90":0.0324792494
+    },
+    {
+        "shortName":"C. Stuani",
+        "Goal":1,
+        "total_minutes_played":2785,
+        "goals_per_90":0.0323159785
+    },
+    {
+        "shortName":"P. Djilobodji",
+        "Goal":1,
+        "total_minutes_played":2795,
+        "goals_per_90":0.0322003578
+    },
+    {
+        "shortName":"F. Quagliarella",
+        "Goal":1,
+        "total_minutes_played":2817,
+        "goals_per_90":0.0319488818
+    },
+    {
+        "shortName":"K. Lala",
+        "Goal":1,
+        "total_minutes_played":2823,
+        "goals_per_90":0.0318809777
+    },
+    {
+        "shortName":"Albiol",
+        "Goal":1,
+        "total_minutes_played":2847,
+        "goals_per_90":0.0316122234
+    },
+    {
+        "shortName":"L. Pavoletti",
+        "Goal":1,
+        "total_minutes_played":2849,
+        "goals_per_90":0.0315900316
+    },
+    {
+        "shortName":"K. Vogt",
+        "Goal":1,
+        "total_minutes_played":2882,
+        "goals_per_90":0.0312283137
+    },
+    {
+        "shortName":"M. Hitz",
+        "Goal":1,
+        "total_minutes_played":2885,
+        "goals_per_90":0.0311958406
+    },
+    {
+        "shortName":"Jorge Molina",
+        "Goal":1,
+        "total_minutes_played":2886,
+        "goals_per_90":0.0311850312
+    },
+    {
+        "shortName":"B. Dibassy",
+        "Goal":1,
+        "total_minutes_played":2886,
+        "goals_per_90":0.0311850312
+    },
+    {
+        "shortName":"R. Jarstein",
+        "Goal":1,
+        "total_minutes_played":2892,
+        "goals_per_90":0.031120332
+    },
+    {
+        "shortName":"Danilo",
+        "Goal":1,
+        "total_minutes_played":2897,
+        "goals_per_90":0.0310666206
+    },
+    {
+        "shortName":"E. Pulgar",
+        "Goal":1,
+        "total_minutes_played":2905,
+        "goals_per_90":0.0309810671
+    },
+    {
+        "shortName":"Mario",
+        "Goal":1,
+        "total_minutes_played":2913,
+        "goals_per_90":0.0308959835
+    },
+    {
+        "shortName":"Suso",
+        "Goal":1,
+        "total_minutes_played":2933,
+        "goals_per_90":0.0306853051
+    },
+    {
+        "shortName":"Jemerson",
+        "Goal":1,
+        "total_minutes_played":2955,
+        "goals_per_90":0.0304568528
+    },
+    {
+        "shortName":"Bernardo Espinosa",
+        "Goal":1,
+        "total_minutes_played":2972,
+        "goals_per_90":0.030282638
+    },
+    {
+        "shortName":"Pedro Mendes",
+        "Goal":1,
+        "total_minutes_played":2974,
+        "goals_per_90":0.030262273
+    },
+    {
+        "shortName":"J. Vestergaard",
+        "Goal":1,
+        "total_minutes_played":2977,
+        "goals_per_90":0.030231777
+    },
+    {
+        "shortName":"P. Lees Melou",
+        "Goal":1,
+        "total_minutes_played":2978,
+        "goals_per_90":0.0302216253
+    },
+    {
+        "shortName":"A. Bizzarri",
+        "Goal":1,
+        "total_minutes_played":3004,
+        "goals_per_90":0.0299600533
+    },
+    {
+        "shortName":"N. Elvedi",
+        "Goal":1,
+        "total_minutes_played":3012,
+        "goals_per_90":0.0298804781
+    },
+    {
+        "shortName":"D. Caligiuri",
+        "Goal":1,
+        "total_minutes_played":3041,
+        "goals_per_90":0.0295955278
+    },
+    {
+        "shortName":"F. Fazio",
+        "Goal":1,
+        "total_minutes_played":3042,
+        "goals_per_90":0.0295857988
+    },
+    {
+        "shortName":"T. Monconduit",
+        "Goal":1,
+        "total_minutes_played":3048,
+        "goals_per_90":0.0295275591
+    },
+    {
+        "shortName":"S. Missiroli",
+        "Goal":1,
+        "total_minutes_played":3048,
+        "goals_per_90":0.0295275591
+    },
+    {
+        "shortName":"J. Gnagnon",
+        "Goal":1,
+        "total_minutes_played":3050,
+        "goals_per_90":0.0295081967
+    },
+    {
+        "shortName":"M. Icardi",
+        "Goal":1,
+        "total_minutes_played":3059,
+        "goals_per_90":0.0294213795
+    },
+    {
+        "shortName":"B. Leno",
+        "Goal":1,
+        "total_minutes_played":3070,
+        "goals_per_90":0.0293159609
+    },
+    {
+        "shortName":"V. Manceau",
+        "Goal":1,
+        "total_minutes_played":3086,
+        "goals_per_90":0.0291639663
+    },
+    {
+        "shortName":"D. D'Ambrosio",
+        "Goal":1,
+        "total_minutes_played":3096,
+        "goals_per_90":0.0290697674
+    },
+    {
+        "shortName":"Guaita",
+        "Goal":1,
+        "total_minutes_played":3099,
+        "goals_per_90":0.0290416263
+    },
+    {
+        "shortName":"J. Aholou",
+        "Goal":1,
+        "total_minutes_played":3120,
+        "goals_per_90":0.0288461538
+    },
+    {
+        "shortName":"L. Dubois",
+        "Goal":1,
+        "total_minutes_played":3132,
+        "goals_per_90":0.0287356322
+    },
+    {
+        "shortName":"M. Maignan",
+        "Goal":1,
+        "total_minutes_played":3139,
+        "goals_per_90":0.0286715514
+    },
+    {
+        "shortName":"T. Mangani",
+        "Goal":1,
+        "total_minutes_played":3141,
+        "goals_per_90":0.0286532951
+    },
+    {
+        "shortName":"A. Mandi",
+        "Goal":1,
+        "total_minutes_played":3146,
+        "goals_per_90":0.0286077559
+    },
+    {
+        "shortName":"E. Sala",
+        "Goal":1,
+        "total_minutes_played":3152,
+        "goals_per_90":0.0285532995
+    },
+    {
+        "shortName":"M. Ginter",
+        "Goal":1,
+        "total_minutes_played":3166,
+        "goals_per_90":0.0284270373
+    },
+    {
+        "shortName":"L. Hradecky",
+        "Goal":1,
+        "total_minutes_played":3174,
+        "goals_per_90":0.0283553875
+    },
+    {
+        "shortName":"Juanpe",
+        "Goal":1,
+        "total_minutes_played":3180,
+        "goals_per_90":0.0283018868
+    },
+    {
+        "shortName":"K. Koulibaly",
+        "Goal":1,
+        "total_minutes_played":3185,
+        "goals_per_90":0.0282574568
+    },
+    {
+        "shortName":"M. Silvestre",
+        "Goal":1,
+        "total_minutes_played":3191,
+        "goals_per_90":0.0282043247
+    },
+    {
+        "shortName":"B. Bourigeaud",
+        "Goal":1,
+        "total_minutes_played":3223,
+        "goals_per_90":0.0279242941
+    },
+    {
+        "shortName":"L. Tousart",
+        "Goal":1,
+        "total_minutes_played":3240,
+        "goals_per_90":0.0277777778
+    },
+    {
+        "shortName":"Illarramendi",
+        "Goal":1,
+        "total_minutes_played":3272,
+        "goals_per_90":0.0275061125
+    },
+    {
+        "shortName":"K. Amian",
+        "Goal":1,
+        "total_minutes_played":3285,
+        "goals_per_90":0.0273972603
+    },
+    {
+        "shortName":"J. Briand",
+        "Goal":1,
+        "total_minutes_played":3322,
+        "goals_per_90":0.0270921132
+    },
+    {
+        "shortName":"F. Ceccherini",
+        "Goal":1,
+        "total_minutes_played":3354,
+        "goals_per_90":0.0268336315
+    },
+    {
+        "shortName":"F. Guilbert",
+        "Goal":1,
+        "total_minutes_played":3357,
+        "goals_per_90":0.0268096515
+    },
+    {
+        "shortName":"L. Lerager",
+        "Goal":1,
+        "total_minutes_played":3400,
+        "goals_per_90":0.0264705882
+    },
+    {
+        "shortName":"M. ter Stegen",
+        "Goal":1,
+        "total_minutes_played":3445,
+        "goals_per_90":0.0261248186
+    },
+    {
+        "shortName":"J. Oblak",
+        "Goal":1,
+        "total_minutes_played":3445,
+        "goals_per_90":0.0261248186
+    },
+    {
+        "shortName":"R. Gurtner",
+        "Goal":1,
+        "total_minutes_played":3467,
+        "goals_per_90":0.0259590424
+    },
+    {
+        "shortName":"A. Consigli",
+        "Goal":1,
+        "total_minutes_played":3477,
+        "goals_per_90":0.0258843831
+    },
+    {
+        "shortName":"Gerard Moreno",
+        "Goal":1,
+        "total_minutes_played":3531,
+        "goals_per_90":0.0254885302
+    },
+    {
+        "shortName":"B. Lecomte",
+        "Goal":1,
+        "total_minutes_played":3565,
+        "goals_per_90":0.0252454418
+    },
+    {
+        "shortName":"S. Sorrentino",
+        "Goal":1,
+        "total_minutes_played":3574,
+        "goals_per_90":0.0251818691
+    },
+    {
+        "shortName":"K. Bellarabi",
+        "Goal":0,
+        "total_minutes_played":1193,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Arrizabalaga",
+        "Goal":0,
+        "total_minutes_played":2801,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Alario",
+        "Goal":0,
+        "total_minutes_played":1606,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Augustinsson",
+        "Goal":0,
+        "total_minutes_played":2615,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Bender",
+        "Goal":0,
+        "total_minutes_played":1638,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Bittencourt",
+        "Goal":0,
+        "total_minutes_played":1673,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Butelle",
+        "Goal":0,
+        "total_minutes_played":1705,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Maouassa",
+        "Goal":0,
+        "total_minutes_played":936,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Lustenberger",
+        "Goal":0,
+        "total_minutes_played":1652,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Balenziaga",
+        "Goal":0,
+        "total_minutes_played":1598,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Albentosa",
+        "Goal":0,
+        "total_minutes_played":1806,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Alexis",
+        "Goal":0,
+        "total_minutes_played":2268,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Alisson",
+        "Goal":0,
+        "total_minutes_played":3478,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Andrei Girotto",
+        "Goal":0,
+        "total_minutes_played":1586,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Sanabria",
+        "Goal":0,
+        "total_minutes_played":902,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Karaman",
+        "Goal":0,
+        "total_minutes_played":917,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Schwolow",
+        "Goal":0,
+        "total_minutes_played":3004,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Szymanowski",
+        "Goal":0,
+        "total_minutes_played":1094,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Zambo Anguissa",
+        "Goal":0,
+        "total_minutes_played":2532,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Aduriz",
+        "Goal":0,
+        "total_minutes_played":2234,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Assou-Ekotto",
+        "Goal":0,
+        "total_minutes_played":1087,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Sagna",
+        "Goal":0,
+        "total_minutes_played":1009,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Salamon",
+        "Goal":0,
+        "total_minutes_played":1817,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Sankoh",
+        "Goal":0,
+        "total_minutes_played":1606,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Sarr",
+        "Goal":0,
+        "total_minutes_played":1874,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Srarfi",
+        "Goal":0,
+        "total_minutes_played":918,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Wood",
+        "Goal":0,
+        "total_minutes_played":1659,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Zuculini",
+        "Goal":0,
+        "total_minutes_played":1264,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Keko",
+        "Goal":0,
+        "total_minutes_played":1244,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Strootman",
+        "Goal":0,
+        "total_minutes_played":2354,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Casteels",
+        "Goal":0,
+        "total_minutes_played":3161,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Juan Cala",
+        "Goal":0,
+        "total_minutes_played":1875,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Dabila",
+        "Goal":0,
+        "total_minutes_played":975,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Danso",
+        "Goal":0,
+        "total_minutes_played":1131,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Djidji",
+        "Goal":0,
+        "total_minutes_played":2515,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Dolly",
+        "Goal":0,
+        "total_minutes_played":916,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Glik",
+        "Goal":0,
+        "total_minutes_played":3356,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Juanmi",
+        "Goal":0,
+        "total_minutes_played":1539,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Juan Jesus",
+        "Goal":0,
+        "total_minutes_played":1738,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Jason",
+        "Goal":0,
+        "total_minutes_played":1844,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Jaume Costa",
+        "Goal":0,
+        "total_minutes_played":2638,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Javi Castellano",
+        "Goal":0,
+        "total_minutes_played":1624,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Javi Fuego",
+        "Goal":0,
+        "total_minutes_played":1940,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Jordi Amat",
+        "Goal":0,
+        "total_minutes_played":2112,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Mattiello",
+        "Goal":0,
+        "total_minutes_played":2282,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Rekik",
+        "Goal":0,
+        "total_minutes_played":2380,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Johnsson",
+        "Goal":0,
+        "total_minutes_played":3546,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Ceppitelli",
+        "Goal":0,
+        "total_minutes_played":2358,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Chichizola",
+        "Goal":0,
+        "total_minutes_played":2517,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Cigarini",
+        "Goal":0,
+        "total_minutes_played":2120,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Diony",
+        "Goal":0,
+        "total_minutes_played":952,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Goretzka",
+        "Goal":0,
+        "total_minutes_played":2069,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Holtby",
+        "Goal":0,
+        "total_minutes_played":1242,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Cabrera",
+        "Goal":0,
+        "total_minutes_played":1136,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Mangane",
+        "Goal":0,
+        "total_minutes_played":1785,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Navas",
+        "Goal":0,
+        "total_minutes_played":2509,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Papadopoulos",
+        "Goal":0,
+        "total_minutes_played":2707,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Rausch",
+        "Goal":0,
+        "total_minutes_played":963,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Zungu",
+        "Goal":0,
+        "total_minutes_played":2158,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Poli",
+        "Goal":0,
+        "total_minutes_played":2617,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Bernardo",
+        "Goal":0,
+        "total_minutes_played":1397,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Matri",
+        "Goal":0,
+        "total_minutes_played":982,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Cordaz",
+        "Goal":0,
+        "total_minutes_played":3564,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Grassi",
+        "Goal":0,
+        "total_minutes_played":2335,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Meret",
+        "Goal":0,
+        "total_minutes_played":1207,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Mirante",
+        "Goal":0,
+        "total_minutes_played":3122,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Oukidja",
+        "Goal":0,
+        "total_minutes_played":1523,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Paloschi",
+        "Goal":0,
+        "total_minutes_played":2302,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Petagna",
+        "Goal":0,
+        "total_minutes_played":1659,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Azamoum",
+        "Goal":0,
+        "total_minutes_played":2326,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Ragusa",
+        "Goal":0,
+        "total_minutes_played":924,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Rami",
+        "Goal":0,
+        "total_minutes_played":3065,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Mbengue",
+        "Goal":0,
+        "total_minutes_played":1645,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Maxim",
+        "Goal":0,
+        "total_minutes_played":1007,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Masina",
+        "Goal":0,
+        "total_minutes_played":2945,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Budimir",
+        "Goal":0,
+        "total_minutes_played":1648,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Hahn",
+        "Goal":0,
+        "total_minutes_played":1420,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Hunt",
+        "Goal":0,
+        "total_minutes_played":2220,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Izzo",
+        "Goal":0,
+        "total_minutes_played":1446,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Romagnoli",
+        "Goal":0,
+        "total_minutes_played":2444,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Lafont",
+        "Goal":0,
+        "total_minutes_played":3567,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Letellier",
+        "Goal":0,
+        "total_minutes_played":1221,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Lopes",
+        "Goal":0,
+        "total_minutes_played":3172,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Maier",
+        "Goal":0,
+        "total_minutes_played":1265,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Diego Rico",
+        "Goal":0,
+        "total_minutes_played":2298,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Berisha",
+        "Goal":0,
+        "total_minutes_played":2912,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Boateng",
+        "Goal":0,
+        "total_minutes_played":1334,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Crivelli",
+        "Goal":0,
+        "total_minutes_played":1801,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Caracciolo",
+        "Goal":0,
+        "total_minutes_played":2978,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Bertolacci",
+        "Goal":0,
+        "total_minutes_played":3001,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Bigas",
+        "Goal":0,
+        "total_minutes_played":927,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Diallo",
+        "Goal":0,
+        "total_minutes_played":2784,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Reynet",
+        "Goal":0,
+        "total_minutes_played":3541,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Pavard",
+        "Goal":0,
+        "total_minutes_played":3166,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Nivet",
+        "Goal":0,
+        "total_minutes_played":1393,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Corgnet",
+        "Goal":0,
+        "total_minutes_played":1423,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Costil",
+        "Goal":0,
+        "total_minutes_played":3361,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Djimsiti",
+        "Goal":0,
+        "total_minutes_played":2838,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Rukavina",
+        "Goal":0,
+        "total_minutes_played":1324,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Jeannot",
+        "Goal":0,
+        "total_minutes_played":1456,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"B. Matuidi",
+        "Goal":0,
+        "total_minutes_played":2486,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Costa",
+        "Goal":0,
+        "total_minutes_played":1452,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Cragno",
+        "Goal":0,
+        "total_minutes_played":2662,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Delort",
+        "Goal":0,
+        "total_minutes_played":2382,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Djiku",
+        "Goal":0,
+        "total_minutes_played":2613,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Beck",
+        "Goal":0,
+        "total_minutes_played":1991,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Donis",
+        "Goal":0,
+        "total_minutes_played":980,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Duncan",
+        "Goal":0,
+        "total_minutes_played":2020,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Ekdal",
+        "Goal":0,
+        "total_minutes_played":1156,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. El Ghazi",
+        "Goal":0,
+        "total_minutes_played":1702,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Fulgini",
+        "Goal":0,
+        "total_minutes_played":1577,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Galabinov",
+        "Goal":0,
+        "total_minutes_played":1175,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Gamberini",
+        "Goal":0,
+        "total_minutes_played":1878,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Gomis",
+        "Goal":0,
+        "total_minutes_played":2371,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Cornelius",
+        "Goal":0,
+        "total_minutes_played":1000,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Ajeti",
+        "Goal":0,
+        "total_minutes_played":1327,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Barberis",
+        "Goal":0,
+        "total_minutes_played":3123,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"A. Barzagli",
+        "Goal":0,
+        "total_minutes_played":1528,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Babacar",
+        "Goal":0,
+        "total_minutes_played":1292,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Antenucci",
+        "Goal":0,
+        "total_minutes_played":2679,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Asamoah",
+        "Goal":0,
+        "total_minutes_played":1637,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Sio",
+        "Goal":0,
+        "total_minutes_played":2260,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Bebou",
+        "Goal":0,
+        "total_minutes_played":2214,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Hector",
+        "Goal":0,
+        "total_minutes_played":1838,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Jankto",
+        "Goal":0,
+        "total_minutes_played":2761,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Martin",
+        "Goal":0,
+        "total_minutes_played":3108,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Hofmann",
+        "Goal":0,
+        "total_minutes_played":1083,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Veretout",
+        "Goal":0,
+        "total_minutes_played":3353,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Felipe",
+        "Goal":0,
+        "total_minutes_played":3159,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Fernando Navarro",
+        "Goal":0,
+        "total_minutes_played":1089,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Fernando Pacheco",
+        "Goal":0,
+        "total_minutes_played":3486,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Fernando Torres",
+        "Goal":0,
+        "total_minutes_played":1041,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Francis Guerrero",
+        "Goal":0,
+        "total_minutes_played":1033,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Angella",
+        "Goal":0,
+        "total_minutes_played":939,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Bale",
+        "Goal":0,
+        "total_minutes_played":1850,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Buffon",
+        "Goal":0,
+        "total_minutes_played":1935,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Cabral",
+        "Goal":0,
+        "total_minutes_played":1968,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Caprari",
+        "Goal":0,
+        "total_minutes_played":1884,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Di Chiara",
+        "Goal":0,
+        "total_minutes_played":1052,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Donnarumma",
+        "Goal":0,
+        "total_minutes_played":3583,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Escalante",
+        "Goal":0,
+        "total_minutes_played":1628,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Vicari",
+        "Goal":0,
+        "total_minutes_played":2969,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Moubandje",
+        "Goal":0,
+        "total_minutes_played":1764,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Mubele",
+        "Goal":0,
+        "total_minutes_played":1681,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Peluso",
+        "Goal":0,
+        "total_minutes_played":2700,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Pisacane",
+        "Goal":0,
+        "total_minutes_played":2010,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Ricca",
+        "Goal":0,
+        "total_minutes_played":1144,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Romagna",
+        "Goal":0,
+        "total_minutes_played":1990,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Sammaritano",
+        "Goal":0,
+        "total_minutes_played":1476,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Haberer",
+        "Goal":0,
+        "total_minutes_played":2831,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Guidetti",
+        "Goal":0,
+        "total_minutes_played":1379,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Gouweleeuw",
+        "Goal":0,
+        "total_minutes_played":2463,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Niane",
+        "Goal":0,
+        "total_minutes_played":912,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Ivi",
+        "Goal":0,
+        "total_minutes_played":1829,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Alonso",
+        "Goal":0,
+        "total_minutes_played":2886,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Blayac",
+        "Goal":0,
+        "total_minutes_played":971,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Boateng",
+        "Goal":0,
+        "total_minutes_played":1668,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Bruma",
+        "Goal":0,
+        "total_minutes_played":1020,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Calleri",
+        "Goal":0,
+        "total_minutes_played":3210,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Cordoval",
+        "Goal":0,
+        "total_minutes_played":952,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Isco",
+        "Goal":0,
+        "total_minutes_played":1821,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Belfodil",
+        "Goal":0,
+        "total_minutes_played":1404,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Cissokho",
+        "Goal":0,
+        "total_minutes_played":1696,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Diop",
+        "Goal":0,
+        "total_minutes_played":3195,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Fossum",
+        "Goal":0,
+        "total_minutes_played":1355,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Saadi",
+        "Goal":0,
+        "total_minutes_played":1009,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Firpo",
+        "Goal":0,
+        "total_minutes_played":1237,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Sacko",
+        "Goal":0,
+        "total_minutes_played":1011,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Santini",
+        "Goal":0,
+        "total_minutes_played":2873,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"I. Sarr",
+        "Goal":0,
+        "total_minutes_played":1917,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Obi",
+        "Goal":0,
+        "total_minutes_played":1235,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Pavlenka",
+        "Goal":0,
+        "total_minutes_played":3164,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Repas",
+        "Goal":0,
+        "total_minutes_played":931,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Rivierez",
+        "Goal":0,
+        "total_minutes_played":2131,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Sala",
+        "Goal":0,
+        "total_minutes_played":1019,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Schmid",
+        "Goal":0,
+        "total_minutes_played":1516,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Sorbon",
+        "Goal":0,
+        "total_minutes_played":2710,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Martins-Pereira",
+        "Goal":0,
+        "total_minutes_played":1179,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"J. Durmaz",
+        "Goal":0,
+        "total_minutes_played":1066,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Tabanou",
+        "Goal":0,
+        "total_minutes_played":1094,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Gerson",
+        "Goal":0,
+        "total_minutes_played":974,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"K. Akpoguma",
+        "Goal":0,
+        "total_minutes_played":1735,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Guerrero",
+        "Goal":0,
+        "total_minutes_played":1494,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Perrin",
+        "Goal":0,
+        "total_minutes_played":2543,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Phiri",
+        "Goal":0,
+        "total_minutes_played":1080,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Rigoni",
+        "Goal":0,
+        "total_minutes_played":1625,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Rossettini",
+        "Goal":0,
+        "total_minutes_played":2113,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Stindl",
+        "Goal":0,
+        "total_minutes_played":2824,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Venuti",
+        "Goal":0,
+        "total_minutes_played":2515,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Benatia",
+        "Goal":0,
+        "total_minutes_played":1822,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Fares",
+        "Goal":0,
+        "total_minutes_played":2712,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Fossati",
+        "Goal":0,
+        "total_minutes_played":1150,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Frantz",
+        "Goal":0,
+        "total_minutes_played":1062,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Gradel",
+        "Goal":0,
+        "total_minutes_played":2514,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Gregoritsch",
+        "Goal":0,
+        "total_minutes_played":2600,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Gulde",
+        "Goal":0,
+        "total_minutes_played":1585,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Halstenberg",
+        "Goal":0,
+        "total_minutes_played":1216,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Iturra",
+        "Goal":0,
+        "total_minutes_played":1631,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Eggestein",
+        "Goal":0,
+        "total_minutes_played":2774,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Braithwaite",
+        "Goal":0,
+        "total_minutes_played":949,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Capuano",
+        "Goal":0,
+        "total_minutes_played":2196,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Coda",
+        "Goal":0,
+        "total_minutes_played":1508,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Cornet",
+        "Goal":0,
+        "total_minutes_played":1335,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Cuisance",
+        "Goal":0,
+        "total_minutes_played":1251,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. D'Alessandro",
+        "Goal":0,
+        "total_minutes_played":1099,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Debuchy",
+        "Goal":0,
+        "total_minutes_played":1357,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Deplagne",
+        "Goal":0,
+        "total_minutes_played":2499,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Destro",
+        "Goal":0,
+        "total_minutes_played":1708,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Diallo",
+        "Goal":0,
+        "total_minutes_played":1447,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Dos Santos",
+        "Goal":0,
+        "total_minutes_played":1024,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Pellegrini",
+        "Goal":0,
+        "total_minutes_played":1843,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Muriel",
+        "Goal":0,
+        "total_minutes_played":1681,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Mothiba",
+        "Goal":0,
+        "total_minutes_played":1216,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Lucas Lima",
+        "Goal":0,
+        "total_minutes_played":2773,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"H. Badstuber",
+        "Goal":0,
+        "total_minutes_played":2252,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"H. Bazile",
+        "Goal":0,
+        "total_minutes_played":909,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"H. Nordtveit",
+        "Goal":0,
+        "total_minutes_played":1001,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Shibasaki",
+        "Goal":0,
+        "total_minutes_played":1038,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Rulli",
+        "Goal":0,
+        "total_minutes_played":2421,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Jung",
+        "Goal":0,
+        "total_minutes_played":2656,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Lapadula",
+        "Goal":0,
+        "total_minutes_played":1571,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Letizia",
+        "Goal":0,
+        "total_minutes_played":2228,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Hugo Mallo",
+        "Goal":0,
+        "total_minutes_played":3100,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Mandjeck",
+        "Goal":0,
+        "total_minutes_played":997,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Pazzini",
+        "Goal":0,
+        "total_minutes_played":1454,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"G. Pezzella",
+        "Goal":0,
+        "total_minutes_played":4050,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Luiz Felipe",
+        "Goal":0,
+        "total_minutes_played":1231,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Mora",
+        "Goal":0,
+        "total_minutes_played":980,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Abeid",
+        "Goal":0,
+        "total_minutes_played":1216,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Aguirregaray",
+        "Goal":0,
+        "total_minutes_played":1191,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Akanji",
+        "Goal":0,
+        "total_minutes_played":938,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Andreolli",
+        "Goal":0,
+        "total_minutes_played":1937,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Garay",
+        "Goal":0,
+        "total_minutes_played":2102,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Arambarri",
+        "Goal":0,
+        "total_minutes_played":2187,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Arnold",
+        "Goal":0,
+        "total_minutes_played":2534,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Badelj",
+        "Goal":0,
+        "total_minutes_played":2445,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Bani",
+        "Goal":0,
+        "total_minutes_played":1377,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Laguardia",
+        "Goal":0,
+        "total_minutes_played":1589,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Mazzitelli",
+        "Goal":0,
+        "total_minutes_played":1076,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"L. Memushaj",
+        "Goal":0,
+        "total_minutes_played":1318,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Forsberg",
+        "Goal":0,
+        "total_minutes_played":1407,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Dainelli",
+        "Goal":0,
+        "total_minutes_played":1567,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Goldaniga",
+        "Goal":0,
+        "total_minutes_played":1204,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Vercoutre",
+        "Goal":0,
+        "total_minutes_played":3216,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Ruffier",
+        "Goal":0,
+        "total_minutes_played":3122,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Pepe Reina",
+        "Goal":0,
+        "total_minutes_played":3459,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Pedro Mosquera",
+        "Goal":0,
+        "total_minutes_played":1444,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Boudebouz",
+        "Goal":0,
+        "total_minutes_played":1413,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Camara",
+        "Goal":0,
+        "total_minutes_played":915,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Koch",
+        "Goal":0,
+        "total_minutes_played":1997,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Khaoui",
+        "Goal":0,
+        "total_minutes_played":2028,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Khedira",
+        "Goal":0,
+        "total_minutes_played":2341,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Khedira",
+        "Goal":0,
+        "total_minutes_played":1970,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Langkamp",
+        "Goal":0,
+        "total_minutes_played":1427,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Lichtsteiner",
+        "Goal":0,
+        "total_minutes_played":1761,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Gosens",
+        "Goal":0,
+        "total_minutes_played":1509,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Genevois",
+        "Goal":0,
+        "total_minutes_played":1862,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Lobotka",
+        "Goal":0,
+        "total_minutes_played":3171,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Mandanda",
+        "Goal":0,
+        "total_minutes_played":2774,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Mendoza",
+        "Goal":0,
+        "total_minutes_played":1062,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Chibsah",
+        "Goal":0,
+        "total_minutes_played":1089,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Ghezzal",
+        "Goal":0,
+        "total_minutes_played":1057,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Thomas",
+        "Goal":0,
+        "total_minutes_played":2460,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Rigoni",
+        "Goal":0,
+        "total_minutes_played":938,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Zeffane",
+        "Goal":0,
+        "total_minutes_played":1030,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Wakaso",
+        "Goal":0,
+        "total_minutes_played":1146,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Bounou",
+        "Goal":0,
+        "total_minutes_played":2751,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Cardinale",
+        "Goal":0,
+        "total_minutes_played":1027,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Carrasco",
+        "Goal":0,
+        "total_minutes_played":931,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Vecino",
+        "Goal":0,
+        "total_minutes_played":2232,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Valoti",
+        "Goal":0,
+        "total_minutes_played":1641,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Rudy",
+        "Goal":0,
+        "total_minutes_played":1510,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Portillo",
+        "Goal":0,
+        "total_minutes_played":2547,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Peeters",
+        "Goal":0,
+        "total_minutes_played":1162,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Rolando",
+        "Goal":0,
+        "total_minutes_played":2606,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. De Maio",
+        "Goal":0,
+        "total_minutes_played":2160,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Falette",
+        "Goal":0,
+        "total_minutes_played":2382,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Soriano",
+        "Goal":0,
+        "total_minutes_played":1187,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Floccari",
+        "Goal":0,
+        "total_minutes_played":941,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Fofana",
+        "Goal":0,
+        "total_minutes_played":1946,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Rosales",
+        "Goal":0,
+        "total_minutes_played":3230,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Quaison",
+        "Goal":0,
+        "total_minutes_played":1463,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Pierre-Gabriel",
+        "Goal":0,
+        "total_minutes_played":1205,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Guirassy",
+        "Goal":0,
+        "total_minutes_played":905,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Montolivo",
+        "Goal":0,
+        "total_minutes_played":1135,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Mandragora",
+        "Goal":0,
+        "total_minutes_played":3380,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Zieler",
+        "Goal":0,
+        "total_minutes_played":3166,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Roger",
+        "Goal":0,
+        "total_minutes_played":996,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Padoin",
+        "Goal":0,
+        "total_minutes_played":3242,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Rodrigo Ely",
+        "Goal":0,
+        "total_minutes_played":2789,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Roberto",
+        "Goal":0,
+        "total_minutes_played":3172,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Rober",
+        "Goal":0,
+        "total_minutes_played":1994,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Ramis",
+        "Goal":0,
+        "total_minutes_played":1348,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Ramalho",
+        "Goal":0,
+        "total_minutes_played":2382,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Rafael",
+        "Goal":0,
+        "total_minutes_played":2722,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. van Drongelen",
+        "Goal":0,
+        "total_minutes_played":1499,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Roux",
+        "Goal":0,
+        "total_minutes_played":2918,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Janko",
+        "Goal":0,
+        "total_minutes_played":1473,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Bensebaini",
+        "Goal":0,
+        "total_minutes_played":2439,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Bauer",
+        "Goal":0,
+        "total_minutes_played":982,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Adler",
+        "Goal":0,
+        "total_minutes_played":1317,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Trotta",
+        "Goal":0,
+        "total_minutes_played":2331,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Tisserand",
+        "Goal":0,
+        "total_minutes_played":1289,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Thuram",
+        "Goal":0,
+        "total_minutes_played":2011,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Vada",
+        "Goal":0,
+        "total_minutes_played":900,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Risse",
+        "Goal":0,
+        "total_minutes_played":1211,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Tielemans",
+        "Goal":0,
+        "total_minutes_played":1630,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Reus",
+        "Goal":0,
+        "total_minutes_played":955,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Pucciarelli",
+        "Goal":0,
+        "total_minutes_played":1432,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Z. Bakkali",
+        "Goal":0,
+        "total_minutes_played":954,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Philipp",
+        "Goal":0,
+        "total_minutes_played":1238,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Perin",
+        "Goal":0,
+        "total_minutes_played":3473,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Vitolo",
+        "Goal":0,
+        "total_minutes_played":1351,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Andreu",
+        "Goal":0,
+        "total_minutes_played":2163,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Moisander",
+        "Goal":0,
+        "total_minutes_played":2326,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Muniesa",
+        "Goal":0,
+        "total_minutes_played":1169,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Germain",
+        "Goal":0,
+        "total_minutes_played":2238,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Bentaleb",
+        "Goal":0,
+        "total_minutes_played":1055,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Sabitzer",
+        "Goal":0,
+        "total_minutes_played":1853,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Parigini",
+        "Goal":0,
+        "total_minutes_played":911,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Lazaro",
+        "Goal":0,
+        "total_minutes_played":1937,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Burdisso",
+        "Goal":0,
+        "total_minutes_played":2153,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. N'Koulou",
+        "Goal":0,
+        "total_minutes_played":3405,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Mendy",
+        "Goal":0,
+        "total_minutes_played":994,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Mukiele",
+        "Goal":0,
+        "total_minutes_played":2911,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Regini",
+        "Goal":0,
+        "total_minutes_played":1116,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Selimovic",
+        "Goal":0,
+        "total_minutes_played":1088,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Radoja",
+        "Goal":0,
+        "total_minutes_played":1158,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. El Zhar",
+        "Goal":0,
+        "total_minutes_played":2044,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Benezet",
+        "Goal":0,
+        "total_minutes_played":1696,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"V. Belec",
+        "Goal":0,
+        "total_minutes_played":1363,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Sanogo",
+        "Goal":0,
+        "total_minutes_played":1543,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Samassa",
+        "Goal":0,
+        "total_minutes_played":1963,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Terrier",
+        "Goal":0,
+        "total_minutes_played":1738,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Walace",
+        "Goal":0,
+        "total_minutes_played":1373,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Muto",
+        "Goal":0,
+        "total_minutes_played":1963,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. En-Nesyri",
+        "Goal":0,
+        "total_minutes_played":1660,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. de Roon",
+        "Goal":0,
+        "total_minutes_played":2692,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Timor",
+        "Goal":0,
+        "total_minutes_played":968,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Miquel",
+        "Goal":0,
+        "total_minutes_played":1830,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Vitor Hugo",
+        "Goal":0,
+        "total_minutes_played":1289,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Marquinhos",
+        "Goal":0,
+        "total_minutes_played":2342,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"W. Khazri",
+        "Goal":0,
+        "total_minutes_played":1980,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Markel Bergara",
+        "Goal":0,
+        "total_minutes_played":1521,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Mario Hermoso",
+        "Goal":0,
+        "total_minutes_played":1999,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"W. McKennie",
+        "Goal":0,
+        "total_minutes_played":1266,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"W. Orban",
+        "Goal":0,
+        "total_minutes_played":2200,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"William",
+        "Goal":0,
+        "total_minutes_played":1654,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Sampirisi",
+        "Goal":0,
+        "total_minutes_played":2289,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Xabi Prieto",
+        "Goal":0,
+        "total_minutes_played":1976,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Niang",
+        "Goal":0,
+        "total_minutes_played":1590,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Mavraj",
+        "Goal":0,
+        "total_minutes_played":1484,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Mantovani",
+        "Goal":0,
+        "total_minutes_played":1058,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Lehmann",
+        "Goal":0,
+        "total_minutes_played":1570,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Leckie",
+        "Goal":0,
+        "total_minutes_played":1921,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Le Marchand",
+        "Goal":0,
+        "total_minutes_played":2620,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Lacen",
+        "Goal":0,
+        "total_minutes_played":1163,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Sportiello",
+        "Goal":0,
+        "total_minutes_played":3352,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Poulsen",
+        "Goal":0,
+        "total_minutes_played":1725,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Sau",
+        "Goal":0,
+        "total_minutes_played":1406,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Y. Salmier",
+        "Goal":0,
+        "total_minutes_played":1148,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Kruse",
+        "Goal":0,
+        "total_minutes_played":2541,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"R. Walter",
+        "Goal":0,
+        "total_minutes_played":1542,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Kawashima",
+        "Goal":0,
+        "total_minutes_played":2660,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Sensi",
+        "Goal":0,
+        "total_minutes_played":1098,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Bruno",
+        "Goal":0,
+        "total_minutes_played":1618,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Bruno Peres",
+        "Goal":0,
+        "total_minutes_played":1219,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Zapata",
+        "Goal":0,
+        "total_minutes_played":1048,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Akolo",
+        "Goal":0,
+        "total_minutes_played":1136,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Bakambu",
+        "Goal":0,
+        "total_minutes_played":1297,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Adjapong",
+        "Goal":0,
+        "total_minutes_played":1281,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Magnanelli",
+        "Goal":0,
+        "total_minutes_played":2591,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Da Silva",
+        "Goal":0,
+        "total_minutes_played":2937,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Falcinelli",
+        "Goal":0,
+        "total_minutes_played":1848,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Geiger",
+        "Goal":0,
+        "total_minutes_played":1633,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Ginczek",
+        "Goal":0,
+        "total_minutes_played":1562,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Heintz",
+        "Goal":0,
+        "total_minutes_played":2907,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Latza",
+        "Goal":0,
+        "total_minutes_played":2436,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Laxalt",
+        "Goal":0,
+        "total_minutes_played":2914,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Maroh",
+        "Goal":0,
+        "total_minutes_played":939,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Mertens",
+        "Goal":0,
+        "total_minutes_played":3099,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Opare",
+        "Goal":0,
+        "total_minutes_played":1469,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Origi",
+        "Goal":0,
+        "total_minutes_played":2039,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Cheryshev",
+        "Goal":0,
+        "total_minutes_played":973,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Carlos Soler",
+        "Goal":0,
+        "total_minutes_played":2434,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Carlos Vigaray",
+        "Goal":0,
+        "total_minutes_played":931,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Charles",
+        "Goal":0,
+        "total_minutes_played":1643,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Chema",
+        "Goal":0,
+        "total_minutes_played":2087,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Camacho",
+        "Goal":0,
+        "total_minutes_played":991,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Biraschi",
+        "Goal":0,
+        "total_minutes_played":1873,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Bonera",
+        "Goal":0,
+        "total_minutes_played":1230,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Calabria",
+        "Goal":0,
+        "total_minutes_played":1639,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Jullien",
+        "Goal":0,
+        "total_minutes_played":2717,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Varrault",
+        "Goal":0,
+        "total_minutes_played":912,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Salcedo",
+        "Goal":0,
+        "total_minutes_played":1666,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Bellugou",
+        "Goal":0,
+        "total_minutes_played":2252,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Diego Llorente",
+        "Goal":0,
+        "total_minutes_played":2407,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Krafth",
+        "Goal":0,
+        "total_minutes_played":989,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Diego Carlos",
+        "Goal":0,
+        "total_minutes_played":2386,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Torres",
+        "Goal":0,
+        "total_minutes_played":1263,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Verde",
+        "Goal":0,
+        "total_minutes_played":2022,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Wass",
+        "Goal":0,
+        "total_minutes_played":3019,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. da Costa",
+        "Goal":0,
+        "total_minutes_played":1244,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Danilo Avelar",
+        "Goal":0,
+        "total_minutes_played":1803,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Dante",
+        "Goal":0,
+        "total_minutes_played":3029,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"David Soria",
+        "Goal":0,
+        "total_minutes_played":1318,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"De La Bella",
+        "Goal":0,
+        "total_minutes_played":1576,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Diego Farias",
+        "Goal":0,
+        "total_minutes_played":1716,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Borini",
+        "Goal":0,
+        "total_minutes_played":1695,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Pulisic",
+        "Goal":0,
+        "total_minutes_played":2382,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Cacciatore",
+        "Goal":0,
+        "total_minutes_played":2997,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Di Santo",
+        "Goal":0,
+        "total_minutes_played":1705,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Eboa Eboa",
+        "Goal":0,
+        "total_minutes_played":1588,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Fajr",
+        "Goal":0,
+        "total_minutes_played":2488,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Helander",
+        "Goal":0,
+        "total_minutes_played":2623,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"F. Acerbi",
+        "Goal":0,
+        "total_minutes_played":3591,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Ponce",
+        "Goal":0,
+        "total_minutes_played":1159,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Siovas",
+        "Goal":0,
+        "total_minutes_played":2124,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Viviano",
+        "Goal":0,
+        "total_minutes_played":2534,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"E. Zelazny",
+        "Goal":0,
+        "total_minutes_played":1590,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Perotti",
+        "Goal":0,
+        "total_minutes_played":1692,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"C. Mathenia",
+        "Goal":0,
+        "total_minutes_played":2238,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"D. Aogo",
+        "Goal":0,
+        "total_minutes_played":2032,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"M. Krohn-Dehli",
+        "Goal":0,
+        "total_minutes_played":1306,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Gebre Selassie",
+        "Goal":0,
+        "total_minutes_played":2923,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Omar Ramos",
+        "Goal":0,
+        "total_minutes_played":1480,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Kehrer",
+        "Goal":0,
+        "total_minutes_played":2464,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Neto",
+        "Goal":0,
+        "total_minutes_played":3085,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Nacho Gil",
+        "Goal":0,
+        "total_minutes_played":993,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"O. Baumann",
+        "Goal":0,
+        "total_minutes_played":3160,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Pellenard",
+        "Goal":0,
+        "total_minutes_played":1489,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Spolli",
+        "Goal":0,
+        "total_minutes_played":1871,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Vermaelen",
+        "Goal":0,
+        "total_minutes_played":1060,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Tana",
+        "Goal":0,
+        "total_minutes_played":1610,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Thiago Mendes",
+        "Goal":0,
+        "total_minutes_played":2374,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"N. Viola",
+        "Goal":0,
+        "total_minutes_played":1946,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Heurtaux",
+        "Goal":0,
+        "total_minutes_played":1443,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Simy",
+        "Goal":0,
+        "total_minutes_played":1290,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Oier",
+        "Goal":0,
+        "total_minutes_played":2432,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Ito",
+        "Goal":0,
+        "total_minutes_played":1044,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Suk Hyun-Jun",
+        "Goal":0,
+        "total_minutes_played":1256,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"O. Vizcarrondo",
+        "Goal":0,
+        "total_minutes_played":1784,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"O. Sorg",
+        "Goal":0,
+        "total_minutes_played":1736,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Horn",
+        "Goal":0,
+        "total_minutes_played":3192,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"O. Nguette",
+        "Goal":0,
+        "total_minutes_played":1073,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Castagne",
+        "Goal":0,
+        "total_minutes_played":1562,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Chandler",
+        "Goal":0,
+        "total_minutes_played":1968,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Cionek",
+        "Goal":0,
+        "total_minutes_played":1410,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Delaney",
+        "Goal":0,
+        "total_minutes_played":2891,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"O. Etebo",
+        "Goal":0,
+        "total_minutes_played":1258,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"O. El Hajjam",
+        "Goal":0,
+        "total_minutes_played":2294,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"T. Baumgartl",
+        "Goal":0,
+        "total_minutes_played":2705,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Nicolas",
+        "Goal":0,
+        "total_minutes_played":3374,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Bargfrede",
+        "Goal":0,
+        "total_minutes_played":1907,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Saborit",
+        "Goal":0,
+        "total_minutes_played":1476,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Max",
+        "Goal":0,
+        "total_minutes_played":3055,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Samir",
+        "Goal":0,
+        "total_minutes_played":2677,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Lasne",
+        "Goal":0,
+        "total_minutes_played":3184,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Sergi Darder",
+        "Goal":0,
+        "total_minutes_played":3085,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Herrmann",
+        "Goal":0,
+        "total_minutes_played":1175,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Gouano",
+        "Goal":0,
+        "total_minutes_played":2855,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Sergi Roberto",
+        "Goal":0,
+        "total_minutes_played":2302,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Diop",
+        "Goal":0,
+        "total_minutes_played":1250,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Cutrone",
+        "Goal":0,
+        "total_minutes_played":1560,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Sergio Postigo",
+        "Goal":0,
+        "total_minutes_played":2518,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Capelle",
+        "Goal":0,
+        "total_minutes_played":1937,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Cannavaro",
+        "Goal":0,
+        "total_minutes_played":1521,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Burner",
+        "Goal":0,
+        "total_minutes_played":938,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Nakoulma",
+        "Goal":0,
+        "total_minutes_played":1194,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Wagner",
+        "Goal":0,
+        "total_minutes_played":1641,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Paulo Oliveira",
+        "Goal":0,
+        "total_minutes_played":2293,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Sirigu",
+        "Goal":0,
+        "total_minutes_played":3478,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Pablo Maffeo",
+        "Goal":0,
+        "total_minutes_played":2732,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Pablo",
+        "Goal":0,
+        "total_minutes_played":1342,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Souprayen",
+        "Goal":0,
+        "total_minutes_played":1649,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Baysse",
+        "Goal":0,
+        "total_minutes_played":1876,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Tschauner",
+        "Goal":0,
+        "total_minutes_played":2902,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Stenzel",
+        "Goal":0,
+        "total_minutes_played":2009,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Schick",
+        "Goal":0,
+        "total_minutes_played":1047,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Schiattarella",
+        "Goal":0,
+        "total_minutes_played":2096,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"P. Retsos",
+        "Goal":0,
+        "total_minutes_played":1774,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"S. Ulreich",
+        "Goal":0,
+        "total_minutes_played":2663,
+        "goals_per_90":0.0
+    },
+    {
+        "shortName":"Iturraspe",
+        "Goal":0,
+        "total_minutes_played":1980,
+        "goals_per_90":0.0
+    }
+]

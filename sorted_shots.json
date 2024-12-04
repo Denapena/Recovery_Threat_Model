@@ -1,0 +1,6158 @@
+[
+    {
+        "shortName":"Felipe Anderson",
+        "Shot":20,
+        "total_minutes_played":1221,
+        "shots_per_90":1.4742014742
+    },
+    {
+        "shortName":"K. Coman",
+        "Shot":19,
+        "total_minutes_played":1189,
+        "shots_per_90":1.4381833474
+    },
+    {
+        "shortName":"M. Lopez",
+        "Shot":21,
+        "total_minutes_played":1430,
+        "shots_per_90":1.3216783217
+    },
+    {
+        "shortName":"Marco Asensio",
+        "Shot":28,
+        "total_minutes_played":1914,
+        "shots_per_90":1.3166144201
+    },
+    {
+        "shortName":"D. Perotti",
+        "Shot":23,
+        "total_minutes_played":1692,
+        "shots_per_90":1.2234042553
+    },
+    {
+        "shortName":"L. Insigne",
+        "Shot":43,
+        "total_minutes_played":3189,
+        "shots_per_90":1.2135465663
+    },
+    {
+        "shortName":"Isco",
+        "Shot":24,
+        "total_minutes_played":1821,
+        "shots_per_90":1.1861614498
+    },
+    {
+        "shortName":"Neymar",
+        "Shot":24,
+        "total_minutes_played":1849,
+        "shots_per_90":1.1681990265
+    },
+    {
+        "shortName":"F. Ghoulam",
+        "Shot":13,
+        "total_minutes_played":1020,
+        "shots_per_90":1.1470588235
+    },
+    {
+        "shortName":"D. Alaba",
+        "Shot":20,
+        "total_minutes_played":1600,
+        "shots_per_90":1.125
+    },
+    {
+        "shortName":"L. Messi",
+        "Shot":38,
+        "total_minutes_played":3108,
+        "shots_per_90":1.1003861004
+    },
+    {
+        "shortName":"K. Havertz",
+        "Shot":27,
+        "total_minutes_played":2217,
+        "shots_per_90":1.0960757781
+    },
+    {
+        "shortName":"Jorginho",
+        "Shot":33,
+        "total_minutes_played":2722,
+        "shots_per_90":1.0911094783
+    },
+    {
+        "shortName":"T. Kroos",
+        "Shot":28,
+        "total_minutes_played":2323,
+        "shots_per_90":1.0848041326
+    },
+    {
+        "shortName":"Fede Cartabia",
+        "Shot":16,
+        "total_minutes_played":1357,
+        "shots_per_90":1.0611643331
+    },
+    {
+        "shortName":"J. Brandt",
+        "Shot":28,
+        "total_minutes_played":2382,
+        "shots_per_90":1.0579345088
+    },
+    {
+        "shortName":"M. Vecino",
+        "Shot":26,
+        "total_minutes_played":2232,
+        "shots_per_90":1.0483870968
+    },
+    {
+        "shortName":"Y. Bissouma",
+        "Shot":19,
+        "total_minutes_played":1633,
+        "shots_per_90":1.0471524801
+    },
+    {
+        "shortName":"F. Thauvin",
+        "Shot":35,
+        "total_minutes_played":3031,
+        "shots_per_90":1.03926097
+    },
+    {
+        "shortName":"G. Bonaventura",
+        "Shot":30,
+        "total_minutes_played":2631,
+        "shots_per_90":1.0262257697
+    },
+    {
+        "shortName":"Burgui",
+        "Shot":12,
+        "total_minutes_played":1071,
+        "shots_per_90":1.0084033613
+    },
+    {
+        "shortName":"M. Musacchio",
+        "Shot":14,
+        "total_minutes_played":1269,
+        "shots_per_90":0.9929078014
+    },
+    {
+        "shortName":"A. Robben",
+        "Shot":17,
+        "total_minutes_played":1544,
+        "shots_per_90":0.9909326425
+    },
+    {
+        "shortName":"Luis Alberto",
+        "Shot":30,
+        "total_minutes_played":2761,
+        "shots_per_90":0.9779065556
+    },
+    {
+        "shortName":"Samu Castillejo",
+        "Shot":23,
+        "total_minutes_played":2133,
+        "shots_per_90":0.970464135
+    },
+    {
+        "shortName":"R. Cabella",
+        "Shot":26,
+        "total_minutes_played":2414,
+        "shots_per_90":0.9693454847
+    },
+    {
+        "shortName":"Iniesta",
+        "Shot":20,
+        "total_minutes_played":1864,
+        "shots_per_90":0.9656652361
+    },
+    {
+        "shortName":"R. Nainggolan",
+        "Shot":29,
+        "total_minutes_played":2712,
+        "shots_per_90":0.9623893805
+    },
+    {
+        "shortName":"D. Demme",
+        "Shot":25,
+        "total_minutes_played":2357,
+        "shots_per_90":0.9546033093
+    },
+    {
+        "shortName":"Jozabed",
+        "Shot":16,
+        "total_minutes_played":1512,
+        "shots_per_90":0.9523809524
+    },
+    {
+        "shortName":"R. Montolivo",
+        "Shot":12,
+        "total_minutes_played":1135,
+        "shots_per_90":0.9515418502
+    },
+    {
+        "shortName":"R. Saponara",
+        "Shot":10,
+        "total_minutes_played":948,
+        "shots_per_90":0.9493670886
+    },
+    {
+        "shortName":"R. Freuler",
+        "Shot":33,
+        "total_minutes_played":3136,
+        "shots_per_90":0.9470663265
+    },
+    {
+        "shortName":"Alex Sandro",
+        "Shot":23,
+        "total_minutes_played":2199,
+        "shots_per_90":0.9413369714
+    },
+    {
+        "shortName":"A. Yarmolenko",
+        "Shot":11,
+        "total_minutes_played":1077,
+        "shots_per_90":0.9192200557
+    },
+    {
+        "shortName":"Jonathan Viera",
+        "Shot":21,
+        "total_minutes_played":2067,
+        "shots_per_90":0.9143686502
+    },
+    {
+        "shortName":"M. Verratti",
+        "Shot":18,
+        "total_minutes_played":1774,
+        "shots_per_90":0.9131905299
+    },
+    {
+        "shortName":"K. Malcuit",
+        "Shot":19,
+        "total_minutes_played":1876,
+        "shots_per_90":0.9115138593
+    },
+    {
+        "shortName":"N. Mendy",
+        "Shot":10,
+        "total_minutes_played":994,
+        "shots_per_90":0.9054325956
+    },
+    {
+        "shortName":"M. Dossevi",
+        "Shot":26,
+        "total_minutes_played":2585,
+        "shots_per_90":0.9052224371
+    },
+    {
+        "shortName":"Sergi Roberto",
+        "Shot":23,
+        "total_minutes_played":2302,
+        "shots_per_90":0.8992180712
+    },
+    {
+        "shortName":"W. Cyprien",
+        "Shot":10,
+        "total_minutes_played":1007,
+        "shots_per_90":0.8937437934
+    },
+    {
+        "shortName":"G. Imbula",
+        "Shot":23,
+        "total_minutes_played":2319,
+        "shots_per_90":0.892626132
+    },
+    {
+        "shortName":"A. Acquah",
+        "Shot":10,
+        "total_minutes_played":1016,
+        "shots_per_90":0.8858267717
+    },
+    {
+        "shortName":"Bruma",
+        "Shot":16,
+        "total_minutes_played":1641,
+        "shots_per_90":0.8775137112
+    },
+    {
+        "shortName":"F. Grillitsch",
+        "Shot":19,
+        "total_minutes_played":1954,
+        "shots_per_90":0.8751279427
+    },
+    {
+        "shortName":"J. Brekalo",
+        "Shot":16,
+        "total_minutes_played":1646,
+        "shots_per_90":0.8748481166
+    },
+    {
+        "shortName":"Sergio Ramos",
+        "Shot":23,
+        "total_minutes_played":2372,
+        "shots_per_90":0.8726812816
+    },
+    {
+        "shortName":"S. Serdar",
+        "Shot":17,
+        "total_minutes_played":1765,
+        "shots_per_90":0.8668555241
+    },
+    {
+        "shortName":"L. Spinazzola",
+        "Shot":15,
+        "total_minutes_played":1565,
+        "shots_per_90":0.8626198083
+    },
+    {
+        "shortName":"Y. Salibur",
+        "Shot":15,
+        "total_minutes_played":1567,
+        "shots_per_90":0.8615188258
+    },
+    {
+        "shortName":"Malcom",
+        "Shot":28,
+        "total_minutes_played":2933,
+        "shots_per_90":0.8591885442
+    },
+    {
+        "shortName":"Suso",
+        "Shot":28,
+        "total_minutes_played":2933,
+        "shots_per_90":0.8591885442
+    },
+    {
+        "shortName":"Iago Aspas",
+        "Shot":29,
+        "total_minutes_played":3038,
+        "shots_per_90":0.8591178407
+    },
+    {
+        "shortName":"S. Mendoza",
+        "Shot":10,
+        "total_minutes_played":1062,
+        "shots_per_90":0.8474576271
+    },
+    {
+        "shortName":"Cristiano Ronaldo",
+        "Shot":22,
+        "total_minutes_played":2355,
+        "shots_per_90":0.8407643312
+    },
+    {
+        "shortName":"K. Bellarabi",
+        "Shot":11,
+        "total_minutes_played":1193,
+        "shots_per_90":0.8298407376
+    },
+    {
+        "shortName":"Wendell",
+        "Shot":20,
+        "total_minutes_played":2171,
+        "shots_per_90":0.8291110088
+    },
+    {
+        "shortName":"G. Lo Celso",
+        "Shot":17,
+        "total_minutes_played":1847,
+        "shots_per_90":0.8283703303
+    },
+    {
+        "shortName":"S. Gnabry",
+        "Shot":14,
+        "total_minutes_played":1534,
+        "shots_per_90":0.8213820078
+    },
+    {
+        "shortName":"S. Kagawa",
+        "Shot":11,
+        "total_minutes_played":1208,
+        "shots_per_90":0.8195364238
+    },
+    {
+        "shortName":"A. Zambo Anguissa",
+        "Shot":23,
+        "total_minutes_played":2532,
+        "shots_per_90":0.817535545
+    },
+    {
+        "shortName":"Borja Valero",
+        "Shot":24,
+        "total_minutes_played":2654,
+        "shots_per_90":0.8138658628
+    },
+    {
+        "shortName":"A. Rabiot",
+        "Shot":22,
+        "total_minutes_played":2440,
+        "shots_per_90":0.8114754098
+    },
+    {
+        "shortName":"A. Maxim",
+        "Shot":9,
+        "total_minutes_played":1007,
+        "shots_per_90":0.8043694141
+    },
+    {
+        "shortName":"N. Fekir",
+        "Shot":23,
+        "total_minutes_played":2575,
+        "shots_per_90":0.8038834951
+    },
+    {
+        "shortName":"D. Astori",
+        "Shot":21,
+        "total_minutes_played":2357,
+        "shots_per_90":0.8018667798
+    },
+    {
+        "shortName":"G. Chiellini",
+        "Shot":20,
+        "total_minutes_played":2248,
+        "shots_per_90":0.8007117438
+    },
+    {
+        "shortName":"M. Hummels",
+        "Shot":20,
+        "total_minutes_played":2256,
+        "shots_per_90":0.7978723404
+    },
+    {
+        "shortName":"Andrei Girotto",
+        "Shot":14,
+        "total_minutes_played":1586,
+        "shots_per_90":0.7944514502
+    },
+    {
+        "shortName":"C. Pulisic",
+        "Shot":21,
+        "total_minutes_played":2382,
+        "shots_per_90":0.7934508816
+    },
+    {
+        "shortName":"S. Fofana",
+        "Shot":17,
+        "total_minutes_played":1946,
+        "shots_per_90":0.7862281603
+    },
+    {
+        "shortName":"D. Payet",
+        "Shot":21,
+        "total_minutes_played":2416,
+        "shots_per_90":0.7822847682
+    },
+    {
+        "shortName":"J. Veretout",
+        "Shot":29,
+        "total_minutes_played":3353,
+        "shots_per_90":0.7784073964
+    },
+    {
+        "shortName":"T. Meunier",
+        "Shot":14,
+        "total_minutes_played":1632,
+        "shots_per_90":0.7720588235
+    },
+    {
+        "shortName":"T. Lemar",
+        "Shot":21,
+        "total_minutes_played":2449,
+        "shots_per_90":0.7717435688
+    },
+    {
+        "shortName":"E. Forsberg",
+        "Shot":12,
+        "total_minutes_played":1407,
+        "shots_per_90":0.7675906183
+    },
+    {
+        "shortName":"E. Thommy",
+        "Shot":10,
+        "total_minutes_played":1175,
+        "shots_per_90":0.7659574468
+    },
+    {
+        "shortName":"P. Retsos",
+        "Shot":15,
+        "total_minutes_played":1774,
+        "shots_per_90":0.7609921082
+    },
+    {
+        "shortName":"Recio",
+        "Shot":16,
+        "total_minutes_played":1896,
+        "shots_per_90":0.7594936709
+    },
+    {
+        "shortName":"Albiol",
+        "Shot":24,
+        "total_minutes_played":2847,
+        "shots_per_90":0.7586933614
+    },
+    {
+        "shortName":"A. Candreva",
+        "Shot":22,
+        "total_minutes_played":2611,
+        "shots_per_90":0.7583301417
+    },
+    {
+        "shortName":"J. Kimmich",
+        "Shot":20,
+        "total_minutes_played":2380,
+        "shots_per_90":0.756302521
+    },
+    {
+        "shortName":"Z. Bakkali",
+        "Shot":8,
+        "total_minutes_played":954,
+        "shots_per_90":0.7547169811
+    },
+    {
+        "shortName":"P. Nakoulma",
+        "Shot":10,
+        "total_minutes_played":1194,
+        "shots_per_90":0.7537688442
+    },
+    {
+        "shortName":"A. Taarabt",
+        "Shot":14,
+        "total_minutes_played":1674,
+        "shots_per_90":0.752688172
+    },
+    {
+        "shortName":"Dani Parejo",
+        "Shot":26,
+        "total_minutes_played":3112,
+        "shots_per_90":0.7519280206
+    },
+    {
+        "shortName":"M. Depay",
+        "Shot":22,
+        "total_minutes_played":2635,
+        "shots_per_90":0.7514231499
+    },
+    {
+        "shortName":"Philippe Coutinho",
+        "Shot":11,
+        "total_minutes_played":1329,
+        "shots_per_90":0.7449209932
+    },
+    {
+        "shortName":"Illarramendi",
+        "Shot":27,
+        "total_minutes_played":3272,
+        "shots_per_90":0.7426650367
+    },
+    {
+        "shortName":"C. Jallet",
+        "Shot":10,
+        "total_minutes_played":1212,
+        "shots_per_90":0.7425742574
+    },
+    {
+        "shortName":"R. de Paul",
+        "Shot":20,
+        "total_minutes_played":2431,
+        "shots_per_90":0.7404360346
+    },
+    {
+        "shortName":"M. Abeid",
+        "Shot":10,
+        "total_minutes_played":1216,
+        "shots_per_90":0.7401315789
+    },
+    {
+        "shortName":"Fabinho",
+        "Shot":26,
+        "total_minutes_played":3162,
+        "shots_per_90":0.7400379507
+    },
+    {
+        "shortName":"Gerson",
+        "Shot":8,
+        "total_minutes_played":974,
+        "shots_per_90":0.7392197125
+    },
+    {
+        "shortName":"F. Mendy",
+        "Shot":18,
+        "total_minutes_played":2198,
+        "shots_per_90":0.737033667
+    },
+    {
+        "shortName":"M. D'Alessandro",
+        "Shot":9,
+        "total_minutes_played":1099,
+        "shots_per_90":0.737033667
+    },
+    {
+        "shortName":"N. Schulz",
+        "Shot":15,
+        "total_minutes_played":1847,
+        "shots_per_90":0.7309149973
+    },
+    {
+        "shortName":"N. Barella",
+        "Shot":25,
+        "total_minutes_played":3087,
+        "shots_per_90":0.7288629738
+    },
+    {
+        "shortName":"Pablo Sarabia",
+        "Shot":20,
+        "total_minutes_played":2472,
+        "shots_per_90":0.7281553398
+    },
+    {
+        "shortName":"J. Correa",
+        "Shot":10,
+        "total_minutes_played":1238,
+        "shots_per_90":0.7269789984
+    },
+    {
+        "shortName":"M. Sanson",
+        "Shot":18,
+        "total_minutes_played":2231,
+        "shots_per_90":0.7261317795
+    },
+    {
+        "shortName":"V. Birsa",
+        "Shot":21,
+        "total_minutes_played":2603,
+        "shots_per_90":0.7260852862
+    },
+    {
+        "shortName":"N. Sliti",
+        "Shot":19,
+        "total_minutes_played":2364,
+        "shots_per_90":0.7233502538
+    },
+    {
+        "shortName":"Roger",
+        "Shot":8,
+        "total_minutes_played":996,
+        "shots_per_90":0.7228915663
+    },
+    {
+        "shortName":"Raffael",
+        "Shot":17,
+        "total_minutes_played":2124,
+        "shots_per_90":0.7203389831
+    },
+    {
+        "shortName":"Canales",
+        "Shot":16,
+        "total_minutes_played":2000,
+        "shots_per_90":0.72
+    },
+    {
+        "shortName":"G. Castro",
+        "Shot":10,
+        "total_minutes_played":1252,
+        "shots_per_90":0.7188498403
+    },
+    {
+        "shortName":"K. Demirbay",
+        "Shot":10,
+        "total_minutes_played":1253,
+        "shots_per_90":0.7182761373
+    },
+    {
+        "shortName":"L. Biglia",
+        "Shot":17,
+        "total_minutes_played":2135,
+        "shots_per_90":0.7166276347
+    },
+    {
+        "shortName":"D. Geiger",
+        "Shot":13,
+        "total_minutes_played":1633,
+        "shots_per_90":0.7164727495
+    },
+    {
+        "shortName":"D. De Rossi",
+        "Shot":15,
+        "total_minutes_played":1894,
+        "shots_per_90":0.7127771911
+    },
+    {
+        "shortName":"J. Bamba",
+        "Shot":21,
+        "total_minutes_played":2656,
+        "shots_per_90":0.7115963855
+    },
+    {
+        "shortName":"K. Koulibaly",
+        "Shot":25,
+        "total_minutes_played":3185,
+        "shots_per_90":0.7064364207
+    },
+    {
+        "shortName":"N. Amiri",
+        "Shot":14,
+        "total_minutes_played":1791,
+        "shots_per_90":0.7035175879
+    },
+    {
+        "shortName":"L. Stindl",
+        "Shot":22,
+        "total_minutes_played":2824,
+        "shots_per_90":0.7011331445
+    },
+    {
+        "shortName":"J. Seri",
+        "Shot":21,
+        "total_minutes_played":2696,
+        "shots_per_90":0.7010385757
+    },
+    {
+        "shortName":"M. Badelj",
+        "Shot":19,
+        "total_minutes_played":2445,
+        "shots_per_90":0.6993865031
+    },
+    {
+        "shortName":"J. Baumgartlinger",
+        "Shot":11,
+        "total_minutes_played":1432,
+        "shots_per_90":0.6913407821
+    },
+    {
+        "shortName":"M. Dahoud",
+        "Shot":9,
+        "total_minutes_played":1175,
+        "shots_per_90":0.6893617021
+    },
+    {
+        "shortName":"T. Motta",
+        "Shot":9,
+        "total_minutes_played":1183,
+        "shots_per_90":0.6846999155
+    },
+    {
+        "shortName":"R. Ghezzal",
+        "Shot":8,
+        "total_minutes_played":1057,
+        "shots_per_90":0.6811731315
+    },
+    {
+        "shortName":"L. Torreira",
+        "Shot":25,
+        "total_minutes_played":3305,
+        "shots_per_90":0.6807866868
+    },
+    {
+        "shortName":"M. Politano",
+        "Shot":22,
+        "total_minutes_played":2912,
+        "shots_per_90":0.6799450549
+    },
+    {
+        "shortName":"L. Rupp",
+        "Shot":9,
+        "total_minutes_played":1193,
+        "shots_per_90":0.6789606035
+    },
+    {
+        "shortName":"C. Tolisso",
+        "Shot":12,
+        "total_minutes_played":1594,
+        "shots_per_90":0.6775407779
+    },
+    {
+        "shortName":"Allan",
+        "Shot":22,
+        "total_minutes_played":2949,
+        "shots_per_90":0.6714140387
+    },
+    {
+        "shortName":"M. Heller",
+        "Shot":10,
+        "total_minutes_played":1342,
+        "shots_per_90":0.6706408346
+    },
+    {
+        "shortName":"Daniel Bessa",
+        "Shot":14,
+        "total_minutes_played":1881,
+        "shots_per_90":0.6698564593
+    },
+    {
+        "shortName":"J. Draxler",
+        "Shot":13,
+        "total_minutes_played":1752,
+        "shots_per_90":0.6678082192
+    },
+    {
+        "shortName":"M. Halstenberg",
+        "Shot":9,
+        "total_minutes_played":1216,
+        "shots_per_90":0.6661184211
+    },
+    {
+        "shortName":"E. Hysaj",
+        "Shot":24,
+        "total_minutes_played":3245,
+        "shots_per_90":0.6656394453
+    },
+    {
+        "shortName":"Bruno Peres",
+        "Shot":9,
+        "total_minutes_played":1219,
+        "shots_per_90":0.6644790812
+    },
+    {
+        "shortName":"S. Lichtsteiner",
+        "Shot":13,
+        "total_minutes_played":1761,
+        "shots_per_90":0.66439523
+    },
+    {
+        "shortName":"P. Sisto",
+        "Shot":19,
+        "total_minutes_played":2578,
+        "shots_per_90":0.6633048875
+    },
+    {
+        "shortName":"M. Parolo",
+        "Shot":20,
+        "total_minutes_played":2714,
+        "shots_per_90":0.6632277082
+    },
+    {
+        "shortName":"Lucas Leiva",
+        "Shot":22,
+        "total_minutes_played":2987,
+        "shots_per_90":0.6628724473
+    },
+    {
+        "shortName":"A. Vidal",
+        "Shot":11,
+        "total_minutes_played":1495,
+        "shots_per_90":0.6622073579
+    },
+    {
+        "shortName":"Yuri Berchiche",
+        "Shot":13,
+        "total_minutes_played":1770,
+        "shots_per_90":0.6610169492
+    },
+    {
+        "shortName":"P. Dybala",
+        "Shot":18,
+        "total_minutes_played":2452,
+        "shots_per_90":0.660685155
+    },
+    {
+        "shortName":"F. Chiesa",
+        "Shot":23,
+        "total_minutes_played":3136,
+        "shots_per_90":0.6600765306
+    },
+    {
+        "shortName":"R. Cohade",
+        "Shot":25,
+        "total_minutes_played":3410,
+        "shots_per_90":0.6598240469
+    },
+    {
+        "shortName":"A. Mbengue",
+        "Shot":12,
+        "total_minutes_played":1645,
+        "shots_per_90":0.6565349544
+    },
+    {
+        "shortName":"P. Piatti",
+        "Shot":13,
+        "total_minutes_played":1788,
+        "shots_per_90":0.6543624161
+    },
+    {
+        "shortName":"Nolito",
+        "Shot":12,
+        "total_minutes_played":1656,
+        "shots_per_90":0.652173913
+    },
+    {
+        "shortName":"B. Embolo",
+        "Shot":7,
+        "total_minutes_played":967,
+        "shots_per_90":0.6514994829
+    },
+    {
+        "shortName":"Marcelo",
+        "Shot":40,
+        "total_minutes_played":5537,
+        "shots_per_90":0.6501715731
+    },
+    {
+        "shortName":"K. Laimer",
+        "Shot":10,
+        "total_minutes_played":1386,
+        "shots_per_90":0.6493506494
+    },
+    {
+        "shortName":"A. Kolarov",
+        "Shot":23,
+        "total_minutes_played":3197,
+        "shots_per_90":0.6474820144
+    },
+    {
+        "shortName":"R. Gagliardini",
+        "Shot":15,
+        "total_minutes_played":2089,
+        "shots_per_90":0.6462422212
+    },
+    {
+        "shortName":"Y. Sabaly",
+        "Shot":23,
+        "total_minutes_played":3208,
+        "shots_per_90":0.6452618454
+    },
+    {
+        "shortName":"Thiago Mendes",
+        "Shot":17,
+        "total_minutes_played":2374,
+        "shots_per_90":0.6444818871
+    },
+    {
+        "shortName":"M. Gradel",
+        "Shot":18,
+        "total_minutes_played":2514,
+        "shots_per_90":0.6443914081
+    },
+    {
+        "shortName":"A. Cerci",
+        "Shot":12,
+        "total_minutes_played":1682,
+        "shots_per_90":0.6420927467
+    },
+    {
+        "shortName":"A. Maier",
+        "Shot":9,
+        "total_minutes_played":1265,
+        "shots_per_90":0.6403162055
+    },
+    {
+        "shortName":"L. Ocampos",
+        "Shot":15,
+        "total_minutes_played":2117,
+        "shots_per_90":0.6376948512
+    },
+    {
+        "shortName":"N. Benezet",
+        "Shot":12,
+        "total_minutes_played":1696,
+        "shots_per_90":0.6367924528
+    },
+    {
+        "shortName":"Rafinha",
+        "Shot":21,
+        "total_minutes_played":2969,
+        "shots_per_90":0.6365779724
+    },
+    {
+        "shortName":"S. Umtiti",
+        "Shot":16,
+        "total_minutes_played":2264,
+        "shots_per_90":0.6360424028
+    },
+    {
+        "shortName":"P. Lees Melou",
+        "Shot":21,
+        "total_minutes_played":2978,
+        "shots_per_90":0.6346541303
+    },
+    {
+        "shortName":"G. Kondogbia",
+        "Shot":19,
+        "total_minutes_played":2706,
+        "shots_per_90":0.6319290466
+    },
+    {
+        "shortName":"Dani Alves",
+        "Shot":15,
+        "total_minutes_played":2138,
+        "shots_per_90":0.6314312442
+    },
+    {
+        "shortName":"J. Lukaku",
+        "Shot":10,
+        "total_minutes_played":1427,
+        "shots_per_90":0.6306937631
+    },
+    {
+        "shortName":"Dani Raba",
+        "Shot":8,
+        "total_minutes_played":1145,
+        "shots_per_90":0.6288209607
+    },
+    {
+        "shortName":"M. Pucciarelli",
+        "Shot":10,
+        "total_minutes_played":1432,
+        "shots_per_90":0.6284916201
+    },
+    {
+        "shortName":"G. Pandev",
+        "Shot":13,
+        "total_minutes_played":1866,
+        "shots_per_90":0.6270096463
+    },
+    {
+        "shortName":"Daniel Carvajal",
+        "Shot":16,
+        "total_minutes_played":2300,
+        "shots_per_90":0.6260869565
+    },
+    {
+        "shortName":"E. Giaccherini",
+        "Shot":7,
+        "total_minutes_played":1007,
+        "shots_per_90":0.6256206554
+    },
+    {
+        "shortName":"M. Benassi",
+        "Shot":20,
+        "total_minutes_played":2880,
+        "shots_per_90":0.625
+    },
+    {
+        "shortName":"M. Niang",
+        "Shot":11,
+        "total_minutes_played":1590,
+        "shots_per_90":0.6226415094
+    },
+    {
+        "shortName":"Rodri",
+        "Shot":23,
+        "total_minutes_played":3344,
+        "shots_per_90":0.6190191388
+    },
+    {
+        "shortName":"A. Mehmedi",
+        "Shot":7,
+        "total_minutes_played":1021,
+        "shots_per_90":0.6170421156
+    },
+    {
+        "shortName":"P. Aubameyang",
+        "Shot":10,
+        "total_minutes_played":1460,
+        "shots_per_90":0.6164383562
+    },
+    {
+        "shortName":"Muniesa",
+        "Shot":8,
+        "total_minutes_played":1169,
+        "shots_per_90":0.6159110351
+    },
+    {
+        "shortName":"L. Memushaj",
+        "Shot":9,
+        "total_minutes_played":1318,
+        "shots_per_90":0.6145675266
+    },
+    {
+        "shortName":"A. Rosi",
+        "Shot":12,
+        "total_minutes_played":1759,
+        "shots_per_90":0.6139852189
+    },
+    {
+        "shortName":"C. Gentner",
+        "Shot":17,
+        "total_minutes_played":2496,
+        "shots_per_90":0.6129807692
+    },
+    {
+        "shortName":"L. Castro",
+        "Shot":14,
+        "total_minutes_played":2064,
+        "shots_per_90":0.6104651163
+    },
+    {
+        "shortName":"G. Sakai",
+        "Shot":16,
+        "total_minutes_played":2363,
+        "shots_per_90":0.6093948371
+    },
+    {
+        "shortName":"D. Berardi",
+        "Shot":16,
+        "total_minutes_played":2364,
+        "shots_per_90":0.6091370558
+    },
+    {
+        "shortName":"H. Aouar",
+        "Shot":17,
+        "total_minutes_played":2515,
+        "shots_per_90":0.6083499006
+    },
+    {
+        "shortName":"M. Lazzari",
+        "Shot":22,
+        "total_minutes_played":3255,
+        "shots_per_90":0.6082949309
+    },
+    {
+        "shortName":"L. Dubois",
+        "Shot":21,
+        "total_minutes_played":3132,
+        "shots_per_90":0.6034482759
+    },
+    {
+        "shortName":"S. Grandsir",
+        "Shot":18,
+        "total_minutes_played":2689,
+        "shots_per_90":0.602454444
+    },
+    {
+        "shortName":"Miguel Veloso",
+        "Shot":12,
+        "total_minutes_played":1801,
+        "shots_per_90":0.5996668517
+    },
+    {
+        "shortName":"Vitolo",
+        "Shot":9,
+        "total_minutes_played":1351,
+        "shots_per_90":0.5995558845
+    },
+    {
+        "shortName":"B. Dabo",
+        "Shot":13,
+        "total_minutes_played":1952,
+        "shots_per_90":0.5993852459
+    },
+    {
+        "shortName":"V. Koziello",
+        "Shot":11,
+        "total_minutes_played":1654,
+        "shots_per_90":0.5985489722
+    },
+    {
+        "shortName":"I. Fossum",
+        "Shot":9,
+        "total_minutes_played":1355,
+        "shots_per_90":0.5977859779
+    },
+    {
+        "shortName":"Pablo Fornals",
+        "Shot":18,
+        "total_minutes_played":2714,
+        "shots_per_90":0.5969049374
+    },
+    {
+        "shortName":"A. Petagna",
+        "Shot":11,
+        "total_minutes_played":1659,
+        "shots_per_90":0.5967450271
+    },
+    {
+        "shortName":"Chory Castro",
+        "Shot":14,
+        "total_minutes_played":2114,
+        "shots_per_90":0.5960264901
+    },
+    {
+        "shortName":"Odriozola",
+        "Shot":20,
+        "total_minutes_played":3024,
+        "shots_per_90":0.5952380952
+    },
+    {
+        "shortName":"M. Terrazzino",
+        "Shot":10,
+        "total_minutes_played":1521,
+        "shots_per_90":0.5917159763
+    },
+    {
+        "shortName":"V. Rongier",
+        "Shot":16,
+        "total_minutes_played":2434,
+        "shots_per_90":0.5916187346
+    },
+    {
+        "shortName":"O. Nguette",
+        "Shot":7,
+        "total_minutes_played":1073,
+        "shots_per_90":0.587138863
+    },
+    {
+        "shortName":"S. Papastathopoulos",
+        "Shot":16,
+        "total_minutes_played":2457,
+        "shots_per_90":0.5860805861
+    },
+    {
+        "shortName":"L. Mazzitelli",
+        "Shot":7,
+        "total_minutes_played":1076,
+        "shots_per_90":0.5855018587
+    },
+    {
+        "shortName":"F. Borini",
+        "Shot":11,
+        "total_minutes_played":1695,
+        "shots_per_90":0.5840707965
+    },
+    {
+        "shortName":"M. Sabitzer",
+        "Shot":12,
+        "total_minutes_played":1853,
+        "shots_per_90":0.58283864
+    },
+    {
+        "shortName":"M. Schmelzer",
+        "Shot":10,
+        "total_minutes_played":1547,
+        "shots_per_90":0.58177117
+    },
+    {
+        "shortName":"J. Hofmann",
+        "Shot":7,
+        "total_minutes_played":1083,
+        "shots_per_90":0.5817174515
+    },
+    {
+        "shortName":"E. Brignola",
+        "Shot":9,
+        "total_minutes_played":1397,
+        "shots_per_90":0.5798138869
+    },
+    {
+        "shortName":"A. Duncan",
+        "Shot":13,
+        "total_minutes_played":2020,
+        "shots_per_90":0.5792079208
+    },
+    {
+        "shortName":"Douglas Costa",
+        "Shot":12,
+        "total_minutes_played":1865,
+        "shots_per_90":0.5790884718
+    },
+    {
+        "shortName":"P. Diop",
+        "Shot":8,
+        "total_minutes_played":1250,
+        "shots_per_90":0.576
+    },
+    {
+        "shortName":"M. Cuisance",
+        "Shot":8,
+        "total_minutes_played":1251,
+        "shots_per_90":0.5755395683
+    },
+    {
+        "shortName":"Luiz Gustavo",
+        "Shot":20,
+        "total_minutes_played":3128,
+        "shots_per_90":0.5754475703
+    },
+    {
+        "shortName":"A. Guardado",
+        "Shot":15,
+        "total_minutes_played":2356,
+        "shots_per_90":0.5730050934
+    },
+    {
+        "shortName":"Casemiro",
+        "Shot":17,
+        "total_minutes_played":2674,
+        "shots_per_90":0.5721765146
+    },
+    {
+        "shortName":"S. El Shaarawy",
+        "Shot":14,
+        "total_minutes_played":2210,
+        "shots_per_90":0.5701357466
+    },
+    {
+        "shortName":"W. Anton",
+        "Shot":15,
+        "total_minutes_played":2372,
+        "shots_per_90":0.5691399663
+    },
+    {
+        "shortName":"J. Gbamin",
+        "Shot":17,
+        "total_minutes_played":2694,
+        "shots_per_90":0.5679287305
+    },
+    {
+        "shortName":"Mikel Oyarzabal",
+        "Shot":18,
+        "total_minutes_played":2854,
+        "shots_per_90":0.5676243868
+    },
+    {
+        "shortName":"J. Lerma",
+        "Shot":14,
+        "total_minutes_played":2222,
+        "shots_per_90":0.5670567057
+    },
+    {
+        "shortName":"E. Skhiri",
+        "Shot":20,
+        "total_minutes_played":3175,
+        "shots_per_90":0.5669291339
+    },
+    {
+        "shortName":"Gil Dias",
+        "Shot":8,
+        "total_minutes_played":1271,
+        "shots_per_90":0.5664830842
+    },
+    {
+        "shortName":"G. Letizia",
+        "Shot":14,
+        "total_minutes_played":2228,
+        "shots_per_90":0.565529623
+    },
+    {
+        "shortName":"K. Linetty",
+        "Shot":14,
+        "total_minutes_played":2231,
+        "shots_per_90":0.5647691618
+    },
+    {
+        "shortName":"D. Cataldi",
+        "Shot":15,
+        "total_minutes_played":2394,
+        "shots_per_90":0.5639097744
+    },
+    {
+        "shortName":"Balenziaga",
+        "Shot":10,
+        "total_minutes_played":1598,
+        "shots_per_90":0.563204005
+    },
+    {
+        "shortName":"Andreas Pereira",
+        "Shot":7,
+        "total_minutes_played":1127,
+        "shots_per_90":0.5590062112
+    },
+    {
+        "shortName":"D. Foulquier",
+        "Shot":8,
+        "total_minutes_played":1291,
+        "shots_per_90":0.5577072037
+    },
+    {
+        "shortName":"P. Capelle",
+        "Shot":12,
+        "total_minutes_played":1937,
+        "shots_per_90":0.5575632421
+    },
+    {
+        "shortName":"A. Januzaj",
+        "Shot":10,
+        "total_minutes_played":1616,
+        "shots_per_90":0.5569306931
+    },
+    {
+        "shortName":"D. Praet",
+        "Shot":17,
+        "total_minutes_played":2748,
+        "shots_per_90":0.556768559
+    },
+    {
+        "shortName":"D. Laxalt",
+        "Shot":18,
+        "total_minutes_played":2914,
+        "shots_per_90":0.5559368566
+    },
+    {
+        "shortName":"A. Griezmann",
+        "Shot":16,
+        "total_minutes_played":2591,
+        "shots_per_90":0.555769973
+    },
+    {
+        "shortName":"F. Magnanelli",
+        "Shot":16,
+        "total_minutes_played":2591,
+        "shots_per_90":0.555769973
+    },
+    {
+        "shortName":"Gabi",
+        "Shot":15,
+        "total_minutes_played":2431,
+        "shots_per_90":0.5553270259
+    },
+    {
+        "shortName":"N. Viola",
+        "Shot":12,
+        "total_minutes_played":1946,
+        "shots_per_90":0.5549845838
+    },
+    {
+        "shortName":"B. Cristante",
+        "Shot":18,
+        "total_minutes_played":2923,
+        "shots_per_90":0.5542251112
+    },
+    {
+        "shortName":"J. Amavi",
+        "Shot":14,
+        "total_minutes_played":2275,
+        "shots_per_90":0.5538461538
+    },
+    {
+        "shortName":"Rodrigo",
+        "Shot":17,
+        "total_minutes_played":2767,
+        "shots_per_90":0.5529454283
+    },
+    {
+        "shortName":"A. Harit",
+        "Shot":13,
+        "total_minutes_played":2120,
+        "shots_per_90":0.5518867925
+    },
+    {
+        "shortName":"L. Bailey",
+        "Shot":14,
+        "total_minutes_played":2284,
+        "shots_per_90":0.5516637478
+    },
+    {
+        "shortName":"S. Verdi",
+        "Shot":18,
+        "total_minutes_played":2944,
+        "shots_per_90":0.5502717391
+    },
+    {
+        "shortName":"K. Asamoah",
+        "Shot":10,
+        "total_minutes_played":1637,
+        "shots_per_90":0.5497861943
+    },
+    {
+        "shortName":"M. Meyer",
+        "Shot":11,
+        "total_minutes_played":1803,
+        "shots_per_90":0.5490848586
+    },
+    {
+        "shortName":"J. Iloki",
+        "Shot":9,
+        "total_minutes_played":1476,
+        "shots_per_90":0.5487804878
+    },
+    {
+        "shortName":"F. Tait",
+        "Shot":14,
+        "total_minutes_played":2298,
+        "shots_per_90":0.5483028721
+    },
+    {
+        "shortName":"S. N'Zonzi",
+        "Shot":14,
+        "total_minutes_played":2299,
+        "shots_per_90":0.5480643758
+    },
+    {
+        "shortName":"B. Henrichs",
+        "Shot":8,
+        "total_minutes_played":1314,
+        "shots_per_90":0.5479452055
+    },
+    {
+        "shortName":"Xabi Prieto",
+        "Shot":12,
+        "total_minutes_played":1976,
+        "shots_per_90":0.5465587045
+    },
+    {
+        "shortName":"M. Gonalons",
+        "Shot":7,
+        "total_minutes_played":1153,
+        "shots_per_90":0.5464006938
+    },
+    {
+        "shortName":"M. Gobbi",
+        "Shot":13,
+        "total_minutes_played":2142,
+        "shots_per_90":0.5462184874
+    },
+    {
+        "shortName":"A. Ekdal",
+        "Shot":7,
+        "total_minutes_played":1156,
+        "shots_per_90":0.544982699
+    },
+    {
+        "shortName":"S. Camara",
+        "Shot":6,
+        "total_minutes_played":992,
+        "shots_per_90":0.5443548387
+    },
+    {
+        "shortName":"N. Radoja",
+        "Shot":7,
+        "total_minutes_played":1158,
+        "shots_per_90":0.5440414508
+    },
+    {
+        "shortName":"Gumbau",
+        "Shot":9,
+        "total_minutes_played":1491,
+        "shots_per_90":0.5432595573
+    },
+    {
+        "shortName":"A. Beck",
+        "Shot":12,
+        "total_minutes_played":1991,
+        "shots_per_90":0.5424409844
+    },
+    {
+        "shortName":"K. Lala",
+        "Shot":17,
+        "total_minutes_played":2823,
+        "shots_per_90":0.5419766206
+    },
+    {
+        "shortName":"A. Florenzi",
+        "Shot":15,
+        "total_minutes_played":2491,
+        "shots_per_90":0.5419510237
+    },
+    {
+        "shortName":"Ivi",
+        "Shot":11,
+        "total_minutes_played":1829,
+        "shots_per_90":0.5412793876
+    },
+    {
+        "shortName":"Y. Benzia",
+        "Shot":14,
+        "total_minutes_played":2331,
+        "shots_per_90":0.5405405405
+    },
+    {
+        "shortName":"A. Thomasson",
+        "Shot":16,
+        "total_minutes_played":2665,
+        "shots_per_90":0.5403377111
+    },
+    {
+        "shortName":"M. Ginter",
+        "Shot":19,
+        "total_minutes_played":3166,
+        "shots_per_90":0.5401137081
+    },
+    {
+        "shortName":"A. Cornelius",
+        "Shot":6,
+        "total_minutes_played":1000,
+        "shots_per_90":0.54
+    },
+    {
+        "shortName":"G. Pizarro",
+        "Shot":11,
+        "total_minutes_played":1834,
+        "shots_per_90":0.5398037077
+    },
+    {
+        "shortName":"A. Saint-Maximin",
+        "Shot":14,
+        "total_minutes_played":2335,
+        "shots_per_90":0.539614561
+    },
+    {
+        "shortName":"Marquinhos",
+        "Shot":14,
+        "total_minutes_played":2342,
+        "shots_per_90":0.5380017079
+    },
+    {
+        "shortName":"H. Hateboer",
+        "Shot":15,
+        "total_minutes_played":2514,
+        "shots_per_90":0.5369928401
+    },
+    {
+        "shortName":"Y. M'Vila",
+        "Shot":9,
+        "total_minutes_played":1526,
+        "shots_per_90":0.5307994758
+    },
+    {
+        "shortName":"J. Sala",
+        "Shot":6,
+        "total_minutes_played":1019,
+        "shots_per_90":0.5299313052
+    },
+    {
+        "shortName":"Thiago Maia",
+        "Shot":15,
+        "total_minutes_played":2549,
+        "shots_per_90":0.5296194586
+    },
+    {
+        "shortName":"B. Sarr",
+        "Shot":11,
+        "total_minutes_played":1874,
+        "shots_per_90":0.5282817503
+    },
+    {
+        "shortName":"L. De Silvestri",
+        "Shot":18,
+        "total_minutes_played":3069,
+        "shots_per_90":0.5278592375
+    },
+    {
+        "shortName":"F. Ricci",
+        "Shot":7,
+        "total_minutes_played":1195,
+        "shots_per_90":0.5271966527
+    },
+    {
+        "shortName":"De Marcos",
+        "Shot":10,
+        "total_minutes_played":1710,
+        "shots_per_90":0.5263157895
+    },
+    {
+        "shortName":"G. Caprari",
+        "Shot":11,
+        "total_minutes_played":1884,
+        "shots_per_90":0.525477707
+    },
+    {
+        "shortName":"T. Werner",
+        "Shot":15,
+        "total_minutes_played":2570,
+        "shots_per_90":0.5252918288
+    },
+    {
+        "shortName":"D. Kohr",
+        "Shot":10,
+        "total_minutes_played":1719,
+        "shots_per_90":0.5235602094
+    },
+    {
+        "shortName":"M. Sarr",
+        "Shot":8,
+        "total_minutes_played":1379,
+        "shots_per_90":0.5221174764
+    },
+    {
+        "shortName":"Y. Poulsen",
+        "Shot":10,
+        "total_minutes_played":1725,
+        "shots_per_90":0.5217391304
+    },
+    {
+        "shortName":"Wallace",
+        "Shot":6,
+        "total_minutes_played":1035,
+        "shots_per_90":0.5217391304
+    },
+    {
+        "shortName":"J. Jankto",
+        "Shot":16,
+        "total_minutes_played":2761,
+        "shots_per_90":0.521550163
+    },
+    {
+        "shortName":"Koke",
+        "Shot":17,
+        "total_minutes_played":2934,
+        "shots_per_90":0.5214723926
+    },
+    {
+        "shortName":"J. Palomino",
+        "Shot":12,
+        "total_minutes_played":2072,
+        "shots_per_90":0.5212355212
+    },
+    {
+        "shortName":"B. Oczipka",
+        "Shot":14,
+        "total_minutes_played":2419,
+        "shots_per_90":0.5208763952
+    },
+    {
+        "shortName":"F. Kainz",
+        "Shot":10,
+        "total_minutes_played":1729,
+        "shots_per_90":0.5205320995
+    },
+    {
+        "shortName":"O. Haddadi",
+        "Shot":15,
+        "total_minutes_played":2601,
+        "shots_per_90":0.5190311419
+    },
+    {
+        "shortName":"Caiuby",
+        "Shot":17,
+        "total_minutes_played":2950,
+        "shots_per_90":0.5186440678
+    },
+    {
+        "shortName":"T. Ito",
+        "Shot":6,
+        "total_minutes_played":1044,
+        "shots_per_90":0.5172413793
+    },
+    {
+        "shortName":"D. Latza",
+        "Shot":14,
+        "total_minutes_played":2436,
+        "shots_per_90":0.5172413793
+    },
+    {
+        "shortName":"D. Baier",
+        "Shot":15,
+        "total_minutes_played":2613,
+        "shots_per_90":0.5166475316
+    },
+    {
+        "shortName":"F. Mattiello",
+        "Shot":13,
+        "total_minutes_played":2282,
+        "shots_per_90":0.5127081507
+    },
+    {
+        "shortName":"K. Toko Ekambi",
+        "Shot":18,
+        "total_minutes_played":3161,
+        "shots_per_90":0.5124960456
+    },
+    {
+        "shortName":"C. Jean",
+        "Shot":10,
+        "total_minutes_played":1762,
+        "shots_per_90":0.5107832009
+    },
+    {
+        "shortName":"S. Bastien",
+        "Shot":8,
+        "total_minutes_played":1411,
+        "shots_per_90":0.5102763997
+    },
+    {
+        "shortName":"P. Lasne",
+        "Shot":18,
+        "total_minutes_played":3184,
+        "shots_per_90":0.5087939698
+    },
+    {
+        "shortName":"B. Santamaria",
+        "Shot":15,
+        "total_minutes_played":2668,
+        "shots_per_90":0.5059970015
+    },
+    {
+        "shortName":"J. Toulalan",
+        "Shot":11,
+        "total_minutes_played":1958,
+        "shots_per_90":0.5056179775
+    },
+    {
+        "shortName":"T. Hazard",
+        "Shot":17,
+        "total_minutes_played":3026,
+        "shots_per_90":0.5056179775
+    },
+    {
+        "shortName":"Cristian Tello",
+        "Shot":10,
+        "total_minutes_played":1783,
+        "shots_per_90":0.5047672462
+    },
+    {
+        "shortName":"Tana",
+        "Shot":9,
+        "total_minutes_played":1610,
+        "shots_per_90":0.5031055901
+    },
+    {
+        "shortName":"G. Fernandes",
+        "Shot":6,
+        "total_minutes_played":1077,
+        "shots_per_90":0.5013927577
+    },
+    {
+        "shortName":"J. Toljan",
+        "Shot":8,
+        "total_minutes_played":1436,
+        "shots_per_90":0.5013927577
+    },
+    {
+        "shortName":"C. Grenier",
+        "Shot":7,
+        "total_minutes_played":1259,
+        "shots_per_90":0.5003971406
+    },
+    {
+        "shortName":"Ander Capa",
+        "Shot":13,
+        "total_minutes_played":2339,
+        "shots_per_90":0.5002137666
+    },
+    {
+        "shortName":"Alfonso Pedraza",
+        "Shot":14,
+        "total_minutes_played":2527,
+        "shots_per_90":0.4986149584
+    },
+    {
+        "shortName":"B. Zuculini",
+        "Shot":7,
+        "total_minutes_played":1264,
+        "shots_per_90":0.4984177215
+    },
+    {
+        "shortName":"W. McKennie",
+        "Shot":7,
+        "total_minutes_played":1266,
+        "shots_per_90":0.4976303318
+    },
+    {
+        "shortName":"G. Escalante",
+        "Shot":9,
+        "total_minutes_played":1628,
+        "shots_per_90":0.4975429975
+    },
+    {
+        "shortName":"S. Guirassy",
+        "Shot":5,
+        "total_minutes_played":905,
+        "shots_per_90":0.4972375691
+    },
+    {
+        "shortName":"V. Manceau",
+        "Shot":17,
+        "total_minutes_played":3086,
+        "shots_per_90":0.4957874271
+    },
+    {
+        "shortName":"K. Monnet-Paquet",
+        "Shot":10,
+        "total_minutes_played":1819,
+        "shots_per_90":0.4947773502
+    },
+    {
+        "shortName":"Y. Gerhardt",
+        "Shot":7,
+        "total_minutes_played":1274,
+        "shots_per_90":0.4945054945
+    },
+    {
+        "shortName":"Pablo Maffeo",
+        "Shot":15,
+        "total_minutes_played":2732,
+        "shots_per_90":0.4941434846
+    },
+    {
+        "shortName":"V. Parigini",
+        "Shot":5,
+        "total_minutes_played":911,
+        "shots_per_90":0.4939626784
+    },
+    {
+        "shortName":"Hugo Mallo",
+        "Shot":17,
+        "total_minutes_played":3100,
+        "shots_per_90":0.4935483871
+    },
+    {
+        "shortName":"R. Falcao",
+        "Shot":12,
+        "total_minutes_played":2190,
+        "shots_per_90":0.4931506849
+    },
+    {
+        "shortName":"A. Ndiaye",
+        "Shot":16,
+        "total_minutes_played":2922,
+        "shots_per_90":0.4928131417
+    },
+    {
+        "shortName":"J. Martin",
+        "Shot":17,
+        "total_minutes_played":3108,
+        "shots_per_90":0.4922779923
+    },
+    {
+        "shortName":"S. Zuber",
+        "Shot":8,
+        "total_minutes_played":1464,
+        "shots_per_90":0.4918032787
+    },
+    {
+        "shortName":"G. Simeone",
+        "Shot":17,
+        "total_minutes_played":3114,
+        "shots_per_90":0.4913294798
+    },
+    {
+        "shortName":"K. Dolly",
+        "Shot":5,
+        "total_minutes_played":916,
+        "shots_per_90":0.4912663755
+    },
+    {
+        "shortName":"C. N'Jie",
+        "Shot":5,
+        "total_minutes_played":917,
+        "shots_per_90":0.4907306434
+    },
+    {
+        "shortName":"R. Aguilar",
+        "Shot":14,
+        "total_minutes_played":2568,
+        "shots_per_90":0.4906542056
+    },
+    {
+        "shortName":"B. Srarfi",
+        "Shot":5,
+        "total_minutes_played":918,
+        "shots_per_90":0.4901960784
+    },
+    {
+        "shortName":"D. Baselli",
+        "Shot":14,
+        "total_minutes_played":2571,
+        "shots_per_90":0.4900816803
+    },
+    {
+        "shortName":"Lekue",
+        "Shot":12,
+        "total_minutes_played":2204,
+        "shots_per_90":0.4900181488
+    },
+    {
+        "shortName":"Jonny",
+        "Shot":18,
+        "total_minutes_played":3312,
+        "shots_per_90":0.4891304348
+    },
+    {
+        "shortName":"Jason",
+        "Shot":10,
+        "total_minutes_played":1844,
+        "shots_per_90":0.4880694143
+    },
+    {
+        "shortName":"K. Benzema",
+        "Shot":12,
+        "total_minutes_played":2213,
+        "shots_per_90":0.488025305
+    },
+    {
+        "shortName":"S. de Vrij",
+        "Shot":17,
+        "total_minutes_played":3144,
+        "shots_per_90":0.4866412214
+    },
+    {
+        "shortName":"Trigueros",
+        "Shot":15,
+        "total_minutes_played":2775,
+        "shots_per_90":0.4864864865
+    },
+    {
+        "shortName":"G. Bale",
+        "Shot":10,
+        "total_minutes_played":1850,
+        "shots_per_90":0.4864864865
+    },
+    {
+        "shortName":"Diego Llorente",
+        "Shot":13,
+        "total_minutes_played":2407,
+        "shots_per_90":0.4860822601
+    },
+    {
+        "shortName":"I. Abate",
+        "Shot":6,
+        "total_minutes_played":1112,
+        "shots_per_90":0.4856115108
+    },
+    {
+        "shortName":"C. Kramer",
+        "Shot":12,
+        "total_minutes_played":2224,
+        "shots_per_90":0.4856115108
+    },
+    {
+        "shortName":"M. Kempf",
+        "Shot":5,
+        "total_minutes_played":928,
+        "shots_per_90":0.4849137931
+    },
+    {
+        "shortName":"R. Lewandowski",
+        "Shot":12,
+        "total_minutes_played":2229,
+        "shots_per_90":0.4845222073
+    },
+    {
+        "shortName":"L. Bittencourt",
+        "Shot":9,
+        "total_minutes_played":1673,
+        "shots_per_90":0.4841601913
+    },
+    {
+        "shortName":"K. Tete",
+        "Shot":9,
+        "total_minutes_played":1678,
+        "shots_per_90":0.4827175209
+    },
+    {
+        "shortName":"F. Guilbert",
+        "Shot":18,
+        "total_minutes_played":3357,
+        "shots_per_90":0.4825737265
+    },
+    {
+        "shortName":"M. Uth",
+        "Shot":12,
+        "total_minutes_played":2245,
+        "shots_per_90":0.4810690423
+    },
+    {
+        "shortName":"Carlos Soler",
+        "Shot":13,
+        "total_minutes_played":2434,
+        "shots_per_90":0.4806902219
+    },
+    {
+        "shortName":"A. Romagnoli",
+        "Shot":13,
+        "total_minutes_played":2444,
+        "shots_per_90":0.4787234043
+    },
+    {
+        "shortName":"L. Goretzka",
+        "Shot":11,
+        "total_minutes_played":2069,
+        "shots_per_90":0.4784920251
+    },
+    {
+        "shortName":"J. Haberer",
+        "Shot":15,
+        "total_minutes_played":2831,
+        "shots_per_90":0.4768632992
+    },
+    {
+        "shortName":"P. Skjelbred",
+        "Shot":12,
+        "total_minutes_played":2266,
+        "shots_per_90":0.4766107679
+    },
+    {
+        "shortName":"A. Nalini",
+        "Shot":9,
+        "total_minutes_played":1700,
+        "shots_per_90":0.4764705882
+    },
+    {
+        "shortName":"F. Kamano",
+        "Shot":11,
+        "total_minutes_played":2080,
+        "shots_per_90":0.4759615385
+    },
+    {
+        "shortName":"G. Holtmann",
+        "Shot":5,
+        "total_minutes_played":948,
+        "shots_per_90":0.4746835443
+    },
+    {
+        "shortName":"J. Guilavogui",
+        "Shot":13,
+        "total_minutes_played":2471,
+        "shots_per_90":0.4734925132
+    },
+    {
+        "shortName":"J. Willems",
+        "Shot":9,
+        "total_minutes_played":1713,
+        "shots_per_90":0.472854641
+    },
+    {
+        "shortName":"J. Cordoval",
+        "Shot":5,
+        "total_minutes_played":952,
+        "shots_per_90":0.4726890756
+    },
+    {
+        "shortName":"M. Reus",
+        "Shot":5,
+        "total_minutes_played":955,
+        "shots_per_90":0.4712041885
+    },
+    {
+        "shortName":"Sergio Busquets",
+        "Shot":14,
+        "total_minutes_played":2676,
+        "shots_per_90":0.4708520179
+    },
+    {
+        "shortName":"O. El Hajjam",
+        "Shot":12,
+        "total_minutes_played":2294,
+        "shots_per_90":0.470793374
+    },
+    {
+        "shortName":"A. Hack",
+        "Shot":7,
+        "total_minutes_played":1339,
+        "shots_per_90":0.4705003734
+    },
+    {
+        "shortName":"V. Rosier",
+        "Shot":15,
+        "total_minutes_played":2881,
+        "shots_per_90":0.4685872961
+    },
+    {
+        "shortName":"M. Leckie",
+        "Shot":10,
+        "total_minutes_played":1921,
+        "shots_per_90":0.4685059865
+    },
+    {
+        "shortName":"P. Verhaegh",
+        "Shot":14,
+        "total_minutes_played":2696,
+        "shots_per_90":0.4673590504
+    },
+    {
+        "shortName":"C. Ninga",
+        "Shot":7,
+        "total_minutes_played":1350,
+        "shots_per_90":0.4666666667
+    },
+    {
+        "shortName":"T. Inui",
+        "Shot":14,
+        "total_minutes_played":2702,
+        "shots_per_90":0.4663212435
+    },
+    {
+        "shortName":"A. Souquet",
+        "Shot":13,
+        "total_minutes_played":2510,
+        "shots_per_90":0.4661354582
+    },
+    {
+        "shortName":"D. D'Ambrosio",
+        "Shot":16,
+        "total_minutes_played":3096,
+        "shots_per_90":0.4651162791
+    },
+    {
+        "shortName":"A. Tameze",
+        "Shot":9,
+        "total_minutes_played":1742,
+        "shots_per_90":0.4649827784
+    },
+    {
+        "shortName":"Timor",
+        "Shot":5,
+        "total_minutes_played":968,
+        "shots_per_90":0.4648760331
+    },
+    {
+        "shortName":"M. Fares",
+        "Shot":14,
+        "total_minutes_played":2712,
+        "shots_per_90":0.4646017699
+    },
+    {
+        "shortName":"Susaeta",
+        "Shot":12,
+        "total_minutes_played":2333,
+        "shots_per_90":0.4629232748
+    },
+    {
+        "shortName":"D. Cheryshev",
+        "Shot":5,
+        "total_minutes_played":973,
+        "shots_per_90":0.4624871531
+    },
+    {
+        "shortName":"H. Manzala",
+        "Shot":10,
+        "total_minutes_played":1948,
+        "shots_per_90":0.4620123203
+    },
+    {
+        "shortName":"Nuno Da Costa",
+        "Shot":9,
+        "total_minutes_played":1759,
+        "shots_per_90":0.4604889142
+    },
+    {
+        "shortName":"R. Krhin",
+        "Shot":7,
+        "total_minutes_played":1371,
+        "shots_per_90":0.4595185996
+    },
+    {
+        "shortName":"C. Ansaldi",
+        "Shot":10,
+        "total_minutes_played":1959,
+        "shots_per_90":0.4594180704
+    },
+    {
+        "shortName":"A. Donis",
+        "Shot":5,
+        "total_minutes_played":980,
+        "shots_per_90":0.4591836735
+    },
+    {
+        "shortName":"M. Kean",
+        "Shot":6,
+        "total_minutes_played":1178,
+        "shots_per_90":0.4584040747
+    },
+    {
+        "shortName":"M. Harnik",
+        "Shot":10,
+        "total_minutes_played":1968,
+        "shots_per_90":0.4573170732
+    },
+    {
+        "shortName":"S. Darbion",
+        "Shot":9,
+        "total_minutes_played":1772,
+        "shots_per_90":0.4571106095
+    },
+    {
+        "shortName":"S. Khedira",
+        "Shot":10,
+        "total_minutes_played":1970,
+        "shots_per_90":0.4568527919
+    },
+    {
+        "shortName":"W. Khazri",
+        "Shot":10,
+        "total_minutes_played":1980,
+        "shots_per_90":0.4545454545
+    },
+    {
+        "shortName":"J. Pastore",
+        "Shot":7,
+        "total_minutes_played":1387,
+        "shots_per_90":0.4542177361
+    },
+    {
+        "shortName":"C. Borges",
+        "Shot":12,
+        "total_minutes_played":2382,
+        "shots_per_90":0.4534005038
+    },
+    {
+        "shortName":"I. Mbenza",
+        "Shot":11,
+        "total_minutes_played":2186,
+        "shots_per_90":0.4528819762
+    },
+    {
+        "shortName":"G. Mandjeck",
+        "Shot":5,
+        "total_minutes_played":997,
+        "shots_per_90":0.4513540622
+    },
+    {
+        "shortName":"Rony Lopes",
+        "Shot":13,
+        "total_minutes_played":2595,
+        "shots_per_90":0.450867052
+    },
+    {
+        "shortName":"P. Stenzel",
+        "Shot":10,
+        "total_minutes_played":2009,
+        "shots_per_90":0.4479840717
+    },
+    {
+        "shortName":"M. Thuram",
+        "Shot":10,
+        "total_minutes_played":2011,
+        "shots_per_90":0.447538538
+    },
+    {
+        "shortName":"J. Cuadrado",
+        "Shot":7,
+        "total_minutes_played":1409,
+        "shots_per_90":0.447125621
+    },
+    {
+        "shortName":"Y. Konoplyanka",
+        "Shot":8,
+        "total_minutes_played":1612,
+        "shots_per_90":0.4466501241
+    },
+    {
+        "shortName":"J. Sambia",
+        "Shot":8,
+        "total_minutes_played":1614,
+        "shots_per_90":0.4460966543
+    },
+    {
+        "shortName":"R. Boudebouz",
+        "Shot":7,
+        "total_minutes_played":1413,
+        "shots_per_90":0.4458598726
+    },
+    {
+        "shortName":"B. Salamon",
+        "Shot":9,
+        "total_minutes_played":1817,
+        "shots_per_90":0.4457897633
+    },
+    {
+        "shortName":"A. Masiello",
+        "Shot":14,
+        "total_minutes_played":2829,
+        "shots_per_90":0.4453870626
+    },
+    {
+        "shortName":"S. Haller",
+        "Shot":12,
+        "total_minutes_played":2427,
+        "shots_per_90":0.4449938195
+    },
+    {
+        "shortName":"L. Tousart",
+        "Shot":16,
+        "total_minutes_played":3240,
+        "shots_per_90":0.4444444444
+    },
+    {
+        "shortName":"S. Khaoui",
+        "Shot":10,
+        "total_minutes_played":2028,
+        "shots_per_90":0.4437869822
+    },
+    {
+        "shortName":"Santi Mina",
+        "Shot":8,
+        "total_minutes_played":1623,
+        "shots_per_90":0.4436229205
+    },
+    {
+        "shortName":"K. Boateng",
+        "Shot":12,
+        "total_minutes_played":2445,
+        "shots_per_90":0.4417177914
+    },
+    {
+        "shortName":"R. Rodelin",
+        "Shot":16,
+        "total_minutes_played":3267,
+        "shots_per_90":0.4407713499
+    },
+    {
+        "shortName":"F. Orellana",
+        "Shot":6,
+        "total_minutes_played":1228,
+        "shots_per_90":0.4397394137
+    },
+    {
+        "shortName":"L. Pellegrini",
+        "Shot":9,
+        "total_minutes_played":1843,
+        "shots_per_90":0.4395008139
+    },
+    {
+        "shortName":"A. Soumaoro",
+        "Shot":6,
+        "total_minutes_played":1232,
+        "shots_per_90":0.4383116883
+    },
+    {
+        "shortName":"Charles",
+        "Shot":8,
+        "total_minutes_played":1643,
+        "shots_per_90":0.4382227632
+    },
+    {
+        "shortName":"M. Coco",
+        "Shot":8,
+        "total_minutes_played":1644,
+        "shots_per_90":0.4379562044
+    },
+    {
+        "shortName":"K. Vogt",
+        "Shot":14,
+        "total_minutes_played":2882,
+        "shots_per_90":0.4371963914
+    },
+    {
+        "shortName":"V. Behrami",
+        "Shot":7,
+        "total_minutes_played":1442,
+        "shots_per_90":0.4368932039
+    },
+    {
+        "shortName":"Jorge Molina",
+        "Shot":14,
+        "total_minutes_played":2886,
+        "shots_per_90":0.4365904366
+    },
+    {
+        "shortName":"A. Izzo",
+        "Shot":7,
+        "total_minutes_played":1446,
+        "shots_per_90":0.4356846473
+    },
+    {
+        "shortName":"Guilherme",
+        "Shot":18,
+        "total_minutes_played":3719,
+        "shots_per_90":0.435600968
+    },
+    {
+        "shortName":"M. Diallo",
+        "Shot":7,
+        "total_minutes_played":1447,
+        "shots_per_90":0.4353835522
+    },
+    {
+        "shortName":"J. Boateng",
+        "Shot":8,
+        "total_minutes_played":1668,
+        "shots_per_90":0.4316546763
+    },
+    {
+        "shortName":"D. Didavi",
+        "Shot":11,
+        "total_minutes_played":2294,
+        "shots_per_90":0.4315605929
+    },
+    {
+        "shortName":"F. Mollet",
+        "Shot":7,
+        "total_minutes_played":1464,
+        "shots_per_90":0.4303278689
+    },
+    {
+        "shortName":"Xeka",
+        "Shot":7,
+        "total_minutes_played":1465,
+        "shots_per_90":0.4300341297
+    },
+    {
+        "shortName":"P. Schick",
+        "Shot":5,
+        "total_minutes_played":1047,
+        "shots_per_90":0.4297994269
+    },
+    {
+        "shortName":"P. Hetemaj",
+        "Shot":12,
+        "total_minutes_played":2516,
+        "shots_per_90":0.4292527822
+    },
+    {
+        "shortName":"G. Di Chiara",
+        "Shot":5,
+        "total_minutes_played":1052,
+        "shots_per_90":0.427756654
+    },
+    {
+        "shortName":"M. Hinteregger",
+        "Shot":13,
+        "total_minutes_played":2746,
+        "shots_per_90":0.4260742899
+    },
+    {
+        "shortName":"K. Kampl",
+        "Shot":10,
+        "total_minutes_played":2113,
+        "shots_per_90":0.42593469
+    },
+    {
+        "shortName":"I. Sylla",
+        "Shot":8,
+        "total_minutes_played":1691,
+        "shots_per_90":0.42578356
+    },
+    {
+        "shortName":"P. Bargfrede",
+        "Shot":9,
+        "total_minutes_played":1907,
+        "shots_per_90":0.4247509177
+    },
+    {
+        "shortName":"Pol Lirola",
+        "Shot":10,
+        "total_minutes_played":2128,
+        "shots_per_90":0.4229323308
+    },
+    {
+        "shortName":"C. Immobile",
+        "Shot":13,
+        "total_minutes_played":2771,
+        "shots_per_90":0.4222302418
+    },
+    {
+        "shortName":"Lucas Lima",
+        "Shot":13,
+        "total_minutes_played":2773,
+        "shots_per_90":0.4219257122
+    },
+    {
+        "shortName":"M. Eggestein",
+        "Shot":13,
+        "total_minutes_played":2774,
+        "shots_per_90":0.4217736121
+    },
+    {
+        "shortName":"Granero",
+        "Shot":6,
+        "total_minutes_played":1284,
+        "shots_per_90":0.4205607477
+    },
+    {
+        "shortName":"D. Zakaria",
+        "Shot":11,
+        "total_minutes_played":2359,
+        "shots_per_90":0.4196693514
+    },
+    {
+        "shortName":"Filipe Luis",
+        "Shot":8,
+        "total_minutes_played":1716,
+        "shots_per_90":0.4195804196
+    },
+    {
+        "shortName":"M. Coda",
+        "Shot":7,
+        "total_minutes_played":1508,
+        "shots_per_90":0.4177718833
+    },
+    {
+        "shortName":"Javi Fuego",
+        "Shot":9,
+        "total_minutes_played":1940,
+        "shots_per_90":0.4175257732
+    },
+    {
+        "shortName":"D. Diekmeier",
+        "Shot":9,
+        "total_minutes_played":1940,
+        "shots_per_90":0.4175257732
+    },
+    {
+        "shortName":"R. Gosens",
+        "Shot":7,
+        "total_minutes_played":1509,
+        "shots_per_90":0.4174950298
+    },
+    {
+        "shortName":"B. Keita",
+        "Shot":7,
+        "total_minutes_played":1510,
+        "shots_per_90":0.417218543
+    },
+    {
+        "shortName":"Sandro",
+        "Shot":9,
+        "total_minutes_played":1945,
+        "shots_per_90":0.4164524422
+    },
+    {
+        "shortName":"M. Hasebe",
+        "Shot":10,
+        "total_minutes_played":2162,
+        "shots_per_90":0.4162812211
+    },
+    {
+        "shortName":"Y. Andreu",
+        "Shot":10,
+        "total_minutes_played":2163,
+        "shots_per_90":0.4160887656
+    },
+    {
+        "shortName":"D. Brosinski",
+        "Shot":12,
+        "total_minutes_played":2596,
+        "shots_per_90":0.4160246533
+    },
+    {
+        "shortName":"M. Terrier",
+        "Shot":8,
+        "total_minutes_played":1738,
+        "shots_per_90":0.414269275
+    },
+    {
+        "shortName":"Thiago Silva",
+        "Shot":10,
+        "total_minutes_played":2174,
+        "shots_per_90":0.4139834407
+    },
+    {
+        "shortName":"S. Sensi",
+        "Shot":5,
+        "total_minutes_played":1098,
+        "shots_per_90":0.4098360656
+    },
+    {
+        "shortName":"S. Bender",
+        "Shot":11,
+        "total_minutes_played":2420,
+        "shots_per_90":0.4090909091
+    },
+    {
+        "shortName":"V. Pajot",
+        "Shot":6,
+        "total_minutes_played":1324,
+        "shots_per_90":0.4078549849
+    },
+    {
+        "shortName":"K. Lasagna",
+        "Shot":10,
+        "total_minutes_played":2212,
+        "shots_per_90":0.4068716094
+    },
+    {
+        "shortName":"I. Bebou",
+        "Shot":10,
+        "total_minutes_played":2214,
+        "shots_per_90":0.406504065
+    },
+    {
+        "shortName":"K. Manolas",
+        "Shot":11,
+        "total_minutes_played":2436,
+        "shots_per_90":0.4064039409
+    },
+    {
+        "shortName":"M. Wolf",
+        "Shot":11,
+        "total_minutes_played":2442,
+        "shots_per_90":0.4054054054
+    },
+    {
+        "shortName":"K. Volland",
+        "Shot":12,
+        "total_minutes_played":2664,
+        "shots_per_90":0.4054054054
+    },
+    {
+        "shortName":"M. Cornet",
+        "Shot":6,
+        "total_minutes_played":1335,
+        "shots_per_90":0.404494382
+    },
+    {
+        "shortName":"S. Ilsanker",
+        "Shot":6,
+        "total_minutes_played":1339,
+        "shots_per_90":0.4032860344
+    },
+    {
+        "shortName":"D. Rugani",
+        "Shot":9,
+        "total_minutes_played":2014,
+        "shots_per_90":0.4021847071
+    },
+    {
+        "shortName":"N. Mukiele",
+        "Shot":13,
+        "total_minutes_played":2911,
+        "shots_per_90":0.4019237375
+    },
+    {
+        "shortName":"J. Weigl",
+        "Shot":9,
+        "total_minutes_played":2018,
+        "shots_per_90":0.4013875124
+    },
+    {
+        "shortName":"M. Lehmann",
+        "Shot":7,
+        "total_minutes_played":1570,
+        "shots_per_90":0.4012738854
+    },
+    {
+        "shortName":"G. Lapadula",
+        "Shot":7,
+        "total_minutes_played":1571,
+        "shots_per_90":0.4010184596
+    },
+    {
+        "shortName":"F. Acerbi",
+        "Shot":16,
+        "total_minutes_played":3591,
+        "shots_per_90":0.4010025063
+    },
+    {
+        "shortName":"T. Gebre Selassie",
+        "Shot":13,
+        "total_minutes_played":2923,
+        "shots_per_90":0.4002736914
+    },
+    {
+        "shortName":"L. Klostermann",
+        "Shot":10,
+        "total_minutes_played":2250,
+        "shots_per_90":0.4
+    },
+    {
+        "shortName":"Juan Bernat",
+        "Shot":4,
+        "total_minutes_played":900,
+        "shots_per_90":0.4
+    },
+    {
+        "shortName":"E. Sala",
+        "Shot":14,
+        "total_minutes_played":3152,
+        "shots_per_90":0.3997461929
+    },
+    {
+        "shortName":"A. Sanabria",
+        "Shot":4,
+        "total_minutes_played":902,
+        "shots_per_90":0.399113082
+    },
+    {
+        "shortName":"A. Bamba",
+        "Shot":7,
+        "total_minutes_played":1584,
+        "shots_per_90":0.3977272727
+    },
+    {
+        "shortName":"M. Gulde",
+        "Shot":7,
+        "total_minutes_played":1585,
+        "shots_per_90":0.3974763407
+    },
+    {
+        "shortName":"D. Origi",
+        "Shot":9,
+        "total_minutes_played":2039,
+        "shots_per_90":0.3972535557
+    },
+    {
+        "shortName":"P. Kimpembe",
+        "Shot":11,
+        "total_minutes_played":2497,
+        "shots_per_90":0.3964757709
+    },
+    {
+        "shortName":"E. Seka",
+        "Shot":10,
+        "total_minutes_played":2271,
+        "shots_per_90":0.3963011889
+    },
+    {
+        "shortName":"H. Bazile",
+        "Shot":4,
+        "total_minutes_played":909,
+        "shots_per_90":0.396039604
+    },
+    {
+        "shortName":"J. Lea Siliki",
+        "Shot":8,
+        "total_minutes_played":1820,
+        "shots_per_90":0.3956043956
+    },
+    {
+        "shortName":"M. Benatia",
+        "Shot":8,
+        "total_minutes_played":1822,
+        "shots_per_90":0.3951701427
+    },
+    {
+        "shortName":"J. Ikoko",
+        "Shot":11,
+        "total_minutes_played":2506,
+        "shots_per_90":0.3950518755
+    },
+    {
+        "shortName":"B. Stambouli",
+        "Shot":10,
+        "total_minutes_played":2283,
+        "shots_per_90":0.394218134
+    },
+    {
+        "shortName":"C. Kerbrat",
+        "Shot":15,
+        "total_minutes_played":3438,
+        "shots_per_90":0.3926701571
+    },
+    {
+        "shortName":"J. Hector",
+        "Shot":8,
+        "total_minutes_played":1838,
+        "shots_per_90":0.3917301415
+    },
+    {
+        "shortName":"G. Ferrari",
+        "Shot":12,
+        "total_minutes_played":2759,
+        "shots_per_90":0.3914461762
+    },
+    {
+        "shortName":"M. Fossati",
+        "Shot":5,
+        "total_minutes_played":1150,
+        "shots_per_90":0.3913043478
+    },
+    {
+        "shortName":"C. Lombardi",
+        "Shot":5,
+        "total_minutes_played":1154,
+        "shots_per_90":0.3899480069
+    },
+    {
+        "shortName":"M. Kruse",
+        "Shot":11,
+        "total_minutes_played":2541,
+        "shots_per_90":0.3896103896
+    },
+    {
+        "shortName":"Zurutuza",
+        "Shot":10,
+        "total_minutes_played":2312,
+        "shots_per_90":0.3892733564
+    },
+    {
+        "shortName":"Javi Castellano",
+        "Shot":7,
+        "total_minutes_played":1624,
+        "shots_per_90":0.3879310345
+    },
+    {
+        "shortName":"B. Nivet",
+        "Shot":6,
+        "total_minutes_played":1393,
+        "shots_per_90":0.3876525485
+    },
+    {
+        "shortName":"A. Finnbogason",
+        "Shot":8,
+        "total_minutes_played":1858,
+        "shots_per_90":0.3875134553
+    },
+    {
+        "shortName":"N. Petersen",
+        "Shot":10,
+        "total_minutes_played":2325,
+        "shots_per_90":0.3870967742
+    },
+    {
+        "shortName":"N. Moisander",
+        "Shot":10,
+        "total_minutes_played":2326,
+        "shots_per_90":0.3869303525
+    },
+    {
+        "shortName":"Y. Carrasco",
+        "Shot":4,
+        "total_minutes_played":931,
+        "shots_per_90":0.3866809882
+    },
+    {
+        "shortName":"Y. Tielemans",
+        "Shot":7,
+        "total_minutes_played":1630,
+        "shots_per_90":0.3865030675
+    },
+    {
+        "shortName":"P. Schiattarella",
+        "Shot":9,
+        "total_minutes_played":2096,
+        "shots_per_90":0.3864503817
+    },
+    {
+        "shortName":"L. Blas",
+        "Shot":8,
+        "total_minutes_played":1864,
+        "shots_per_90":0.3862660944
+    },
+    {
+        "shortName":"R. Amalfitano",
+        "Shot":12,
+        "total_minutes_played":2798,
+        "shots_per_90":0.3859899929
+    },
+    {
+        "shortName":"Dani Castellano",
+        "Shot":9,
+        "total_minutes_played":2100,
+        "shots_per_90":0.3857142857
+    },
+    {
+        "shortName":"C. Molinaro",
+        "Shot":7,
+        "total_minutes_played":1635,
+        "shots_per_90":0.3853211009
+    },
+    {
+        "shortName":"A. Belotti",
+        "Shot":12,
+        "total_minutes_played":2805,
+        "shots_per_90":0.385026738
+    },
+    {
+        "shortName":"L. Bender",
+        "Shot":7,
+        "total_minutes_played":1638,
+        "shots_per_90":0.3846153846
+    },
+    {
+        "shortName":"M. Balotelli",
+        "Shot":10,
+        "total_minutes_played":2340,
+        "shots_per_90":0.3846153846
+    },
+    {
+        "shortName":"I. Belfodil",
+        "Shot":6,
+        "total_minutes_played":1404,
+        "shots_per_90":0.3846153846
+    },
+    {
+        "shortName":"Juan Cala",
+        "Shot":8,
+        "total_minutes_played":1875,
+        "shots_per_90":0.384
+    },
+    {
+        "shortName":"Ja-Cheol Koo",
+        "Shot":9,
+        "total_minutes_played":2114,
+        "shots_per_90":0.3831598865
+    },
+    {
+        "shortName":"K. Strootman",
+        "Shot":10,
+        "total_minutes_played":2354,
+        "shots_per_90":0.3823279524
+    },
+    {
+        "shortName":"L. Cigarini",
+        "Shot":9,
+        "total_minutes_played":2120,
+        "shots_per_90":0.3820754717
+    },
+    {
+        "shortName":"G. Donati",
+        "Shot":10,
+        "total_minutes_played":2358,
+        "shots_per_90":0.3816793893
+    },
+    {
+        "shortName":"S. Yago",
+        "Shot":7,
+        "total_minutes_played":1652,
+        "shots_per_90":0.3813559322
+    },
+    {
+        "shortName":"William",
+        "Shot":7,
+        "total_minutes_played":1654,
+        "shots_per_90":0.3808948005
+    },
+    {
+        "shortName":"Jordi Alba",
+        "Shot":12,
+        "total_minutes_played":2838,
+        "shots_per_90":0.3805496829
+    },
+    {
+        "shortName":"R. Hamouma",
+        "Shot":8,
+        "total_minutes_played":1897,
+        "shots_per_90":0.3795466526
+    },
+    {
+        "shortName":"M. Russ",
+        "Shot":5,
+        "total_minutes_played":1187,
+        "shots_per_90":0.3791069924
+    },
+    {
+        "shortName":"R. Soriano",
+        "Shot":5,
+        "total_minutes_played":1187,
+        "shots_per_90":0.3791069924
+    },
+    {
+        "shortName":"Aday",
+        "Shot":8,
+        "total_minutes_played":1905,
+        "shots_per_90":0.3779527559
+    },
+    {
+        "shortName":"G. Pezzella",
+        "Shot":17,
+        "total_minutes_played":4050,
+        "shots_per_90":0.3777777778
+    },
+    {
+        "shortName":"Diego Carlos",
+        "Shot":10,
+        "total_minutes_played":2386,
+        "shots_per_90":0.3772003353
+    },
+    {
+        "shortName":"Coke",
+        "Shot":6,
+        "total_minutes_played":1437,
+        "shots_per_90":0.375782881
+    },
+    {
+        "shortName":"P. Schwegler",
+        "Shot":10,
+        "total_minutes_played":2397,
+        "shots_per_90":0.3754693367
+    },
+    {
+        "shortName":"B. Zungu",
+        "Shot":9,
+        "total_minutes_played":2158,
+        "shots_per_90":0.375347544
+    },
+    {
+        "shortName":"R. Palacio",
+        "Shot":9,
+        "total_minutes_played":2162,
+        "shots_per_90":0.374653099
+    },
+    {
+        "shortName":"N. Amrabat",
+        "Shot":7,
+        "total_minutes_played":1683,
+        "shots_per_90":0.3743315508
+    },
+    {
+        "shortName":"J. Alonso",
+        "Shot":12,
+        "total_minutes_played":2886,
+        "shots_per_90":0.3742203742
+    },
+    {
+        "shortName":"Bustinza",
+        "Shot":7,
+        "total_minutes_played":1689,
+        "shots_per_90":0.3730017762
+    },
+    {
+        "shortName":"G. Burgstaller",
+        "Shot":10,
+        "total_minutes_played":2418,
+        "shots_per_90":0.3722084367
+    },
+    {
+        "shortName":"V. Lazaro",
+        "Shot":8,
+        "total_minutes_played":1937,
+        "shots_per_90":0.3717088281
+    },
+    {
+        "shortName":"M. Risse",
+        "Shot":5,
+        "total_minutes_played":1211,
+        "shots_per_90":0.3715937242
+    },
+    {
+        "shortName":"Sergio Escudero",
+        "Shot":10,
+        "total_minutes_played":2423,
+        "shots_per_90":0.3714403632
+    },
+    {
+        "shortName":"Mario",
+        "Shot":12,
+        "total_minutes_played":2913,
+        "shots_per_90":0.3707518023
+    },
+    {
+        "shortName":"J. Blayac",
+        "Shot":4,
+        "total_minutes_played":971,
+        "shots_per_90":0.3707518023
+    },
+    {
+        "shortName":"F. Di Santo",
+        "Shot":7,
+        "total_minutes_played":1705,
+        "shots_per_90":0.3695014663
+    },
+    {
+        "shortName":"G. Mercado",
+        "Shot":9,
+        "total_minutes_played":2193,
+        "shots_per_90":0.3693570451
+    },
+    {
+        "shortName":"K. Dabila",
+        "Shot":4,
+        "total_minutes_played":975,
+        "shots_per_90":0.3692307692
+    },
+    {
+        "shortName":"S. Lobotka",
+        "Shot":13,
+        "total_minutes_played":3171,
+        "shots_per_90":0.3689687796
+    },
+    {
+        "shortName":"Mikel Rico",
+        "Shot":5,
+        "total_minutes_played":1222,
+        "shots_per_90":0.3682487725
+    },
+    {
+        "shortName":"M. de Roon",
+        "Shot":11,
+        "total_minutes_played":2692,
+        "shots_per_90":0.367756315
+    },
+    {
+        "shortName":"Diego Farias",
+        "Shot":7,
+        "total_minutes_played":1716,
+        "shots_per_90":0.3671328671
+    },
+    {
+        "shortName":"R. Bauer",
+        "Shot":4,
+        "total_minutes_played":982,
+        "shots_per_90":0.366598778
+    },
+    {
+        "shortName":"Bastos",
+        "Shot":6,
+        "total_minutes_played":1473,
+        "shots_per_90":0.366598778
+    },
+    {
+        "shortName":"Douglas Santos",
+        "Shot":10,
+        "total_minutes_played":2457,
+        "shots_per_90":0.3663003663
+    },
+    {
+        "shortName":"P. De Blasis",
+        "Shot":7,
+        "total_minutes_played":1721,
+        "shots_per_90":0.3660662406
+    },
+    {
+        "shortName":"F. Sammaritano",
+        "Shot":6,
+        "total_minutes_played":1476,
+        "shots_per_90":0.3658536585
+    },
+    {
+        "shortName":"A. Blin",
+        "Shot":8,
+        "total_minutes_played":1968,
+        "shots_per_90":0.3658536585
+    },
+    {
+        "shortName":"J. Gouweleeuw",
+        "Shot":10,
+        "total_minutes_played":2463,
+        "shots_per_90":0.365408039
+    },
+    {
+        "shortName":"Omar Ramos",
+        "Shot":6,
+        "total_minutes_played":1480,
+        "shots_per_90":0.3648648649
+    },
+    {
+        "shortName":"J. Obi",
+        "Shot":5,
+        "total_minutes_played":1235,
+        "shots_per_90":0.3643724696
+    },
+    {
+        "shortName":"C. Jullien",
+        "Shot":11,
+        "total_minutes_played":2717,
+        "shots_per_90":0.3643724696
+    },
+    {
+        "shortName":"B. Bourigeaud",
+        "Shot":13,
+        "total_minutes_played":3223,
+        "shots_per_90":0.3630158238
+    },
+    {
+        "shortName":"Nacho Gil",
+        "Shot":4,
+        "total_minutes_played":993,
+        "shots_per_90":0.3625377644
+    },
+    {
+        "shortName":"Montoya",
+        "Shot":9,
+        "total_minutes_played":2235,
+        "shots_per_90":0.3624161074
+    },
+    {
+        "shortName":"B. Matuidi",
+        "Shot":10,
+        "total_minutes_played":2486,
+        "shots_per_90":0.3620273532
+    },
+    {
+        "shortName":"D. da Costa",
+        "Shot":5,
+        "total_minutes_played":1244,
+        "shots_per_90":0.3617363344
+    },
+    {
+        "shortName":"M. De Sciglio",
+        "Shot":4,
+        "total_minutes_played":996,
+        "shots_per_90":0.3614457831
+    },
+    {
+        "shortName":"S. Zoller",
+        "Shot":4,
+        "total_minutes_played":997,
+        "shots_per_90":0.3610832497
+    },
+    {
+        "shortName":"H. Nordtveit",
+        "Shot":4,
+        "total_minutes_played":1001,
+        "shots_per_90":0.3596403596
+    },
+    {
+        "shortName":"Juanfran",
+        "Shot":18,
+        "total_minutes_played":4516,
+        "shots_per_90":0.358724535
+    },
+    {
+        "shortName":"N. Elvedi",
+        "Shot":12,
+        "total_minutes_played":3012,
+        "shots_per_90":0.3585657371
+    },
+    {
+        "shortName":"Sergio Postigo",
+        "Shot":10,
+        "total_minutes_played":2518,
+        "shots_per_90":0.357426529
+    },
+    {
+        "shortName":"B. Sagna",
+        "Shot":4,
+        "total_minutes_played":1009,
+        "shots_per_90":0.3567888999
+    },
+    {
+        "shortName":"W. Ben Yedder",
+        "Shot":7,
+        "total_minutes_played":1769,
+        "shots_per_90":0.3561334087
+    },
+    {
+        "shortName":"I. Sacko",
+        "Shot":4,
+        "total_minutes_played":1011,
+        "shots_per_90":0.3560830861
+    },
+    {
+        "shortName":"M. Arnold",
+        "Shot":10,
+        "total_minutes_played":2534,
+        "shots_per_90":0.3551696922
+    },
+    {
+        "shortName":"S. Missiroli",
+        "Shot":12,
+        "total_minutes_played":3048,
+        "shots_per_90":0.3543307087
+    },
+    {
+        "shortName":"M. Sampirisi",
+        "Shot":9,
+        "total_minutes_played":2289,
+        "shots_per_90":0.3538663172
+    },
+    {
+        "shortName":"O. Vizcarrondo",
+        "Shot":7,
+        "total_minutes_played":1784,
+        "shots_per_90":0.3531390135
+    },
+    {
+        "shortName":"K. Mangane",
+        "Shot":7,
+        "total_minutes_played":1785,
+        "shots_per_90":0.3529411765
+    },
+    {
+        "shortName":"F. Klaus",
+        "Shot":8,
+        "total_minutes_played":2043,
+        "shots_per_90":0.3524229075
+    },
+    {
+        "shortName":"A. Rami",
+        "Shot":12,
+        "total_minutes_played":3065,
+        "shots_per_90":0.352365416
+    },
+    {
+        "shortName":"J. Briand",
+        "Shot":13,
+        "total_minutes_played":3322,
+        "shots_per_90":0.3521974714
+    },
+    {
+        "shortName":"Portu",
+        "Shot":12,
+        "total_minutes_played":3077,
+        "shots_per_90":0.3509912252
+    },
+    {
+        "shortName":"M. Weiser",
+        "Shot":8,
+        "total_minutes_played":2053,
+        "shots_per_90":0.3507062835
+    },
+    {
+        "shortName":"R. Walter",
+        "Shot":6,
+        "total_minutes_played":1542,
+        "shots_per_90":0.3501945525
+    },
+    {
+        "shortName":"F. Valverde",
+        "Shot":5,
+        "total_minutes_played":1286,
+        "shots_per_90":0.3499222395
+    },
+    {
+        "shortName":"M. Zeffane",
+        "Shot":4,
+        "total_minutes_played":1030,
+        "shots_per_90":0.3495145631
+    },
+    {
+        "shortName":"M. Tisserand",
+        "Shot":5,
+        "total_minutes_played":1289,
+        "shots_per_90":0.3491078355
+    },
+    {
+        "shortName":"Vitor Hugo",
+        "Shot":5,
+        "total_minutes_played":1289,
+        "shots_per_90":0.3491078355
+    },
+    {
+        "shortName":"B. Djimsiti",
+        "Shot":11,
+        "total_minutes_played":2838,
+        "shots_per_90":0.3488372093
+    },
+    {
+        "shortName":"K. Babacar",
+        "Shot":5,
+        "total_minutes_played":1292,
+        "shots_per_90":0.3482972136
+    },
+    {
+        "shortName":"K. Azamoum",
+        "Shot":9,
+        "total_minutes_played":2326,
+        "shots_per_90":0.3482373173
+    },
+    {
+        "shortName":"J. Augustin",
+        "Shot":5,
+        "total_minutes_played":1294,
+        "shots_per_90":0.3477588872
+    },
+    {
+        "shortName":"Jurado",
+        "Shot":6,
+        "total_minutes_played":1553,
+        "shots_per_90":0.3477141017
+    },
+    {
+        "shortName":"M. Trotta",
+        "Shot":9,
+        "total_minutes_played":2331,
+        "shots_per_90":0.3474903475
+    },
+    {
+        "shortName":"C. Biraghi",
+        "Shot":12,
+        "total_minutes_played":3118,
+        "shots_per_90":0.346375882
+    },
+    {
+        "shortName":"M. Krohn-Dehli",
+        "Shot":5,
+        "total_minutes_played":1306,
+        "shots_per_90":0.3445635528
+    },
+    {
+        "shortName":"L. Lerager",
+        "Shot":13,
+        "total_minutes_played":3400,
+        "shots_per_90":0.3441176471
+    },
+    {
+        "shortName":"H. Sakai",
+        "Shot":10,
+        "total_minutes_played":2616,
+        "shots_per_90":0.3440366972
+    },
+    {
+        "shortName":"C. Zapata",
+        "Shot":4,
+        "total_minutes_played":1048,
+        "shots_per_90":0.3435114504
+    },
+    {
+        "shortName":"M. Le Marchand",
+        "Shot":10,
+        "total_minutes_played":2620,
+        "shots_per_90":0.3435114504
+    },
+    {
+        "shortName":"N. Bentaleb",
+        "Shot":4,
+        "total_minutes_played":1055,
+        "shots_per_90":0.3412322275
+    },
+    {
+        "shortName":"E. Pulgar",
+        "Shot":11,
+        "total_minutes_played":2905,
+        "shots_per_90":0.3407917384
+    },
+    {
+        "shortName":"D. Heintz",
+        "Shot":11,
+        "total_minutes_played":2907,
+        "shots_per_90":0.3405572755
+    },
+    {
+        "shortName":"F. Eboa Eboa",
+        "Shot":6,
+        "total_minutes_played":1588,
+        "shots_per_90":0.3400503778
+    },
+    {
+        "shortName":"O. Hiljemark",
+        "Shot":5,
+        "total_minutes_played":1330,
+        "shots_per_90":0.3383458647
+    },
+    {
+        "shortName":"G. Kakuta",
+        "Shot":12,
+        "total_minutes_played":3194,
+        "shots_per_90":0.3381340013
+    },
+    {
+        "shortName":"R. Varane",
+        "Shot":9,
+        "total_minutes_played":2396,
+        "shots_per_90":0.3380634391
+    },
+    {
+        "shortName":"J. Durmaz",
+        "Shot":4,
+        "total_minutes_played":1066,
+        "shots_per_90":0.3377110694
+    },
+    {
+        "shortName":"J. Calleri",
+        "Shot":12,
+        "total_minutes_played":3210,
+        "shots_per_90":0.3364485981
+    },
+    {
+        "shortName":"L. Alario",
+        "Shot":6,
+        "total_minutes_played":1606,
+        "shots_per_90":0.3362391034
+    },
+    {
+        "shortName":"F. Uduokhai",
+        "Shot":6,
+        "total_minutes_played":1609,
+        "shots_per_90":0.3356121815
+    },
+    {
+        "shortName":"J. Korb",
+        "Shot":9,
+        "total_minutes_played":2419,
+        "shots_per_90":0.3348491112
+    },
+    {
+        "shortName":"G. Donsah",
+        "Shot":7,
+        "total_minutes_played":1883,
+        "shots_per_90":0.3345724907
+    },
+    {
+        "shortName":"L. Bonucci",
+        "Shot":12,
+        "total_minutes_played":3231,
+        "shots_per_90":0.3342618384
+    },
+    {
+        "shortName":"S. Zaza",
+        "Shot":8,
+        "total_minutes_played":2157,
+        "shots_per_90":0.3337969402
+    },
+    {
+        "shortName":"E. Cabaco",
+        "Shot":4,
+        "total_minutes_played":1083,
+        "shots_per_90":0.3324099723
+    },
+    {
+        "shortName":"R. Bensebaini",
+        "Shot":9,
+        "total_minutes_played":2439,
+        "shots_per_90":0.332103321
+    },
+    {
+        "shortName":"J. Giraudon",
+        "Shot":8,
+        "total_minutes_played":2172,
+        "shots_per_90":0.3314917127
+    },
+    {
+        "shortName":"R. Knoche",
+        "Shot":8,
+        "total_minutes_played":2177,
+        "shots_per_90":0.3307303629
+    },
+    {
+        "shortName":"Rafael",
+        "Shot":10,
+        "total_minutes_played":2722,
+        "shots_per_90":0.3306392359
+    },
+    {
+        "shortName":"F. Cacciatore",
+        "Shot":11,
+        "total_minutes_played":2997,
+        "shots_per_90":0.3303303303
+    },
+    {
+        "shortName":"E. Bardhi",
+        "Shot":6,
+        "total_minutes_played":1637,
+        "shots_per_90":0.3298717166
+    },
+    {
+        "shortName":"D. Calabria",
+        "Shot":6,
+        "total_minutes_played":1639,
+        "shots_per_90":0.3294691885
+    },
+    {
+        "shortName":"S. Wagner",
+        "Shot":6,
+        "total_minutes_played":1641,
+        "shots_per_90":0.3290676417
+    },
+    {
+        "shortName":"M. Valoti",
+        "Shot":6,
+        "total_minutes_played":1641,
+        "shots_per_90":0.3290676417
+    },
+    {
+        "shortName":"D. Wass",
+        "Shot":11,
+        "total_minutes_played":3019,
+        "shots_per_90":0.3279231534
+    },
+    {
+        "shortName":"A. Budimir",
+        "Shot":6,
+        "total_minutes_played":1648,
+        "shots_per_90":0.3276699029
+    },
+    {
+        "shortName":"Aritz Elustondo",
+        "Shot":6,
+        "total_minutes_played":1648,
+        "shots_per_90":0.3276699029
+    },
+    {
+        "shortName":"F. Chafik",
+        "Shot":6,
+        "total_minutes_played":1651,
+        "shots_per_90":0.3270745003
+    },
+    {
+        "shortName":"Kwon Chang-Hoon",
+        "Shot":8,
+        "total_minutes_played":2204,
+        "shots_per_90":0.3266787659
+    },
+    {
+        "shortName":"J. Guidetti",
+        "Shot":5,
+        "total_minutes_played":1379,
+        "shots_per_90":0.3263234228
+    },
+    {
+        "shortName":"B. Wood",
+        "Shot":6,
+        "total_minutes_played":1659,
+        "shots_per_90":0.3254972875
+    },
+    {
+        "shortName":"F. Fazio",
+        "Shot":11,
+        "total_minutes_played":3042,
+        "shots_per_90":0.325443787
+    },
+    {
+        "shortName":"J. Mojica",
+        "Shot":8,
+        "total_minutes_played":2217,
+        "shots_per_90":0.3247631935
+    },
+    {
+        "shortName":"A. Ferrari",
+        "Shot":8,
+        "total_minutes_played":2221,
+        "shots_per_90":0.3241782981
+    },
+    {
+        "shortName":"J. Roussillon",
+        "Shot":7,
+        "total_minutes_played":1950,
+        "shots_per_90":0.3230769231
+    },
+    {
+        "shortName":"V. Regini",
+        "Shot":4,
+        "total_minutes_played":1116,
+        "shots_per_90":0.3225806452
+    },
+    {
+        "shortName":"Munir",
+        "Shot":9,
+        "total_minutes_played":2517,
+        "shots_per_90":0.3218116806
+    },
+    {
+        "shortName":"L. Muriel",
+        "Shot":6,
+        "total_minutes_played":1681,
+        "shots_per_90":0.3212373587
+    },
+    {
+        "shortName":"Sergi Darder",
+        "Shot":11,
+        "total_minutes_played":3085,
+        "shots_per_90":0.3209076175
+    },
+    {
+        "shortName":"V. Darida",
+        "Shot":6,
+        "total_minutes_played":1688,
+        "shots_per_90":0.3199052133
+    },
+    {
+        "shortName":"Jorge",
+        "Shot":7,
+        "total_minutes_played":1970,
+        "shots_per_90":0.3197969543
+    },
+    {
+        "shortName":"R. Mandragora",
+        "Shot":12,
+        "total_minutes_played":3380,
+        "shots_per_90":0.3195266272
+    },
+    {
+        "shortName":"F. Quagliarella",
+        "Shot":10,
+        "total_minutes_played":2817,
+        "shots_per_90":0.3194888179
+    },
+    {
+        "shortName":"T. Cionek",
+        "Shot":5,
+        "total_minutes_played":1410,
+        "shots_per_90":0.3191489362
+    },
+    {
+        "shortName":"S. Kalou",
+        "Shot":8,
+        "total_minutes_played":2261,
+        "shots_per_90":0.3184431667
+    },
+    {
+        "shortName":"Iturraspe",
+        "Shot":7,
+        "total_minutes_played":1980,
+        "shots_per_90":0.3181818182
+    },
+    {
+        "shortName":"F. Andone",
+        "Shot":6,
+        "total_minutes_played":1710,
+        "shots_per_90":0.3157894737
+    },
+    {
+        "shortName":"R. Thomas",
+        "Shot":9,
+        "total_minutes_played":2568,
+        "shots_per_90":0.3154205607
+    },
+    {
+        "shortName":"M. Wakaso",
+        "Shot":4,
+        "total_minutes_played":1146,
+        "shots_per_90":0.3141361257
+    },
+    {
+        "shortName":"Diego Rico",
+        "Shot":8,
+        "total_minutes_played":2298,
+        "shots_per_90":0.3133159269
+    },
+    {
+        "shortName":"G. Poblete",
+        "Shot":6,
+        "total_minutes_played":1726,
+        "shots_per_90":0.3128621089
+    },
+    {
+        "shortName":"T. Heurtaux",
+        "Shot":5,
+        "total_minutes_played":1443,
+        "shots_per_90":0.3118503119
+    },
+    {
+        "shortName":"Paulinho",
+        "Shot":7,
+        "total_minutes_played":2021,
+        "shots_per_90":0.3117268679
+    },
+    {
+        "shortName":"Pedro Mosquera",
+        "Shot":5,
+        "total_minutes_played":1444,
+        "shots_per_90":0.311634349
+    },
+    {
+        "shortName":"T. Delaney",
+        "Shot":10,
+        "total_minutes_played":2891,
+        "shots_per_90":0.3113109651
+    },
+    {
+        "shortName":"K. Akpoguma",
+        "Shot":6,
+        "total_minutes_played":1735,
+        "shots_per_90":0.3112391931
+    },
+    {
+        "shortName":"Juan Jesus",
+        "Shot":6,
+        "total_minutes_played":1738,
+        "shots_per_90":0.3107019563
+    },
+    {
+        "shortName":"E. Ponce",
+        "Shot":4,
+        "total_minutes_played":1159,
+        "shots_per_90":0.3106125971
+    },
+    {
+        "shortName":"Bartra",
+        "Shot":8,
+        "total_minutes_played":2319,
+        "shots_per_90":0.3104786546
+    },
+    {
+        "shortName":"S. Peeters",
+        "Shot":4,
+        "total_minutes_played":1162,
+        "shots_per_90":0.3098106713
+    },
+    {
+        "shortName":"Ali Adnan",
+        "Shot":6,
+        "total_minutes_played":1746,
+        "shots_per_90":0.3092783505
+    },
+    {
+        "shortName":"A. Grassi",
+        "Shot":8,
+        "total_minutes_played":2335,
+        "shots_per_90":0.3083511777
+    },
+    {
+        "shortName":"R. Khedira",
+        "Shot":8,
+        "total_minutes_played":2341,
+        "shots_per_90":0.3075608714
+    },
+    {
+        "shortName":"D. Upamecano",
+        "Shot":8,
+        "total_minutes_played":2344,
+        "shots_per_90":0.3071672355
+    },
+    {
+        "shortName":"Jaume Costa",
+        "Shot":9,
+        "total_minutes_played":2638,
+        "shots_per_90":0.3070507961
+    },
+    {
+        "shortName":"L. Kurzawa",
+        "Shot":6,
+        "total_minutes_played":1759,
+        "shots_per_90":0.3069926094
+    },
+    {
+        "shortName":"R. Rosales",
+        "Shot":11,
+        "total_minutes_played":3230,
+        "shots_per_90":0.306501548
+    },
+    {
+        "shortName":"D. Da Silva",
+        "Shot":10,
+        "total_minutes_played":2937,
+        "shots_per_90":0.3064351379
+    },
+    {
+        "shortName":"Pere Pons",
+        "Shot":9,
+        "total_minutes_played":2651,
+        "shots_per_90":0.3055450773
+    },
+    {
+        "shortName":"S. Janko",
+        "Shot":5,
+        "total_minutes_played":1473,
+        "shots_per_90":0.3054989817
+    },
+    {
+        "shortName":"J. Martins-Pereira",
+        "Shot":4,
+        "total_minutes_played":1179,
+        "shots_per_90":0.3053435115
+    },
+    {
+        "shortName":"E. Cavani",
+        "Shot":9,
+        "total_minutes_played":2656,
+        "shots_per_90":0.3049698795
+    },
+    {
+        "shortName":"Saborit",
+        "Shot":5,
+        "total_minutes_played":1476,
+        "shots_per_90":0.3048780488
+    },
+    {
+        "shortName":"T. Kleindienst",
+        "Shot":4,
+        "total_minutes_played":1187,
+        "shots_per_90":0.3032855939
+    },
+    {
+        "shortName":"Ryder Matos",
+        "Shot":4,
+        "total_minutes_played":1194,
+        "shots_per_90":0.3015075377
+    },
+    {
+        "shortName":"D. Abraham",
+        "Shot":8,
+        "total_minutes_played":2394,
+        "shots_per_90":0.3007518797
+    },
+    {
+        "shortName":"V. Vada",
+        "Shot":3,
+        "total_minutes_played":900,
+        "shots_per_90":0.3
+    },
+    {
+        "shortName":"A. Bertolacci",
+        "Shot":10,
+        "total_minutes_played":3001,
+        "shots_per_90":0.2999000333
+    },
+    {
+        "shortName":"L. Rossettini",
+        "Shot":7,
+        "total_minutes_played":2113,
+        "shots_per_90":0.298154283
+    },
+    {
+        "shortName":"S. Rudy",
+        "Shot":5,
+        "total_minutes_played":1510,
+        "shots_per_90":0.298013245
+    },
+    {
+        "shortName":"A. Hunou",
+        "Shot":5,
+        "total_minutes_played":1512,
+        "shots_per_90":0.2976190476
+    },
+    {
+        "shortName":"J. Schmid",
+        "Shot":5,
+        "total_minutes_played":1516,
+        "shots_per_90":0.2968337731
+    },
+    {
+        "shortName":"D. Siovas",
+        "Shot":7,
+        "total_minutes_played":2124,
+        "shots_per_90":0.2966101695
+    },
+    {
+        "shortName":"M. Bakalorz",
+        "Shot":7,
+        "total_minutes_played":2125,
+        "shots_per_90":0.2964705882
+    },
+    {
+        "shortName":"C. Varrault",
+        "Shot":3,
+        "total_minutes_played":912,
+        "shots_per_90":0.2960526316
+    },
+    {
+        "shortName":"I. Niane",
+        "Shot":3,
+        "total_minutes_played":912,
+        "shots_per_90":0.2960526316
+    },
+    {
+        "shortName":"L. Mothiba",
+        "Shot":4,
+        "total_minutes_played":1216,
+        "shots_per_90":0.2960526316
+    },
+    {
+        "shortName":"D. Caligiuri",
+        "Shot":10,
+        "total_minutes_played":3041,
+        "shots_per_90":0.2959552779
+    },
+    {
+        "shortName":"J. Rivierez",
+        "Shot":7,
+        "total_minutes_played":2131,
+        "shots_per_90":0.2956358517
+    },
+    {
+        "shortName":"T. Monconduit",
+        "Shot":10,
+        "total_minutes_played":3048,
+        "shots_per_90":0.2952755906
+    },
+    {
+        "shortName":"F. Ceccherini",
+        "Shot":11,
+        "total_minutes_played":3354,
+        "shots_per_90":0.2951699463
+    },
+    {
+        "shortName":"A. Letellier",
+        "Shot":4,
+        "total_minutes_played":1221,
+        "shots_per_90":0.2948402948
+    },
+    {
+        "shortName":"P. Max",
+        "Shot":10,
+        "total_minutes_played":3055,
+        "shots_per_90":0.294599018
+    },
+    {
+        "shortName":"M. Icardi",
+        "Shot":10,
+        "total_minutes_played":3059,
+        "shots_per_90":0.2942137954
+    },
+    {
+        "shortName":"Gabriel",
+        "Shot":17,
+        "total_minutes_played":5220,
+        "shots_per_90":0.2931034483
+    },
+    {
+        "shortName":"Luiz Felipe",
+        "Shot":4,
+        "total_minutes_played":1231,
+        "shots_per_90":0.2924451665
+    },
+    {
+        "shortName":"Sidnei",
+        "Shot":6,
+        "total_minutes_played":1847,
+        "shots_per_90":0.2923659989
+    },
+    {
+        "shortName":"T. Kehrer",
+        "Shot":8,
+        "total_minutes_played":2464,
+        "shots_per_90":0.2922077922
+    },
+    {
+        "shortName":"D. Falcinelli",
+        "Shot":6,
+        "total_minutes_played":1848,
+        "shots_per_90":0.2922077922
+    },
+    {
+        "shortName":"M. Philipp",
+        "Shot":4,
+        "total_minutes_played":1238,
+        "shots_per_90":0.2907915994
+    },
+    {
+        "shortName":"I. M'baye",
+        "Shot":6,
+        "total_minutes_played":1858,
+        "shots_per_90":0.2906350915
+    },
+    {
+        "shortName":"L. Balogun",
+        "Shot":4,
+        "total_minutes_played":1239,
+        "shots_per_90":0.2905569007
+    },
+    {
+        "shortName":"J. Repas",
+        "Shot":3,
+        "total_minutes_played":931,
+        "shots_per_90":0.2900107411
+    },
+    {
+        "shortName":"L. Holtby",
+        "Shot":4,
+        "total_minutes_played":1242,
+        "shots_per_90":0.2898550725
+    },
+    {
+        "shortName":"P. Djilobodji",
+        "Shot":9,
+        "total_minutes_played":2795,
+        "shots_per_90":0.28980322
+    },
+    {
+        "shortName":"Keko",
+        "Shot":4,
+        "total_minutes_played":1244,
+        "shots_per_90":0.2893890675
+    },
+    {
+        "shortName":"J. Pollersbeck",
+        "Shot":3,
+        "total_minutes_played":934,
+        "shots_per_90":0.2890792291
+    },
+    {
+        "shortName":"F. Maouassa",
+        "Shot":3,
+        "total_minutes_played":936,
+        "shots_per_90":0.2884615385
+    },
+    {
+        "shortName":"M. Deplagne",
+        "Shot":8,
+        "total_minutes_played":2499,
+        "shots_per_90":0.2881152461
+    },
+    {
+        "shortName":"T. Castagne",
+        "Shot":5,
+        "total_minutes_played":1562,
+        "shots_per_90":0.2880921895
+    },
+    {
+        "shortName":"Arbilla",
+        "Shot":8,
+        "total_minutes_played":2501,
+        "shots_per_90":0.2878848461
+    },
+    {
+        "shortName":"P. Burner",
+        "Shot":3,
+        "total_minutes_played":938,
+        "shots_per_90":0.2878464819
+    },
+    {
+        "shortName":"M. Akanji",
+        "Shot":3,
+        "total_minutes_played":938,
+        "shots_per_90":0.2878464819
+    },
+    {
+        "shortName":"D. Zapata",
+        "Shot":7,
+        "total_minutes_played":2189,
+        "shots_per_90":0.2878026496
+    },
+    {
+        "shortName":"D. Maroh",
+        "Shot":3,
+        "total_minutes_played":939,
+        "shots_per_90":0.2875399361
+    },
+    {
+        "shortName":"S. Floccari",
+        "Shot":3,
+        "total_minutes_played":941,
+        "shots_per_90":0.2869287991
+    },
+    {
+        "shortName":"S. Terodde",
+        "Shot":7,
+        "total_minutes_played":2198,
+        "shots_per_90":0.2866242038
+    },
+    {
+        "shortName":"A. Stoian",
+        "Shot":7,
+        "total_minutes_played":2199,
+        "shots_per_90":0.2864938608
+    },
+    {
+        "shortName":"P. Martinez",
+        "Shot":7,
+        "total_minutes_played":2199,
+        "shots_per_90":0.2864938608
+    },
+    {
+        "shortName":"Pepe Reina",
+        "Shot":11,
+        "total_minutes_played":3459,
+        "shots_per_90":0.2862098873
+    },
+    {
+        "shortName":"O. Etebo",
+        "Shot":4,
+        "total_minutes_played":1258,
+        "shots_per_90":0.2861685215
+    },
+    {
+        "shortName":"De La Bella",
+        "Shot":5,
+        "total_minutes_played":1576,
+        "shots_per_90":0.2855329949
+    },
+    {
+        "shortName":"D. Torres",
+        "Shot":4,
+        "total_minutes_played":1263,
+        "shots_per_90":0.2850356295
+    },
+    {
+        "shortName":"N. Pallois",
+        "Shot":8,
+        "total_minutes_played":2528,
+        "shots_per_90":0.2848101266
+    },
+    {
+        "shortName":"B. Pavard",
+        "Shot":10,
+        "total_minutes_played":3166,
+        "shots_per_90":0.2842703727
+    },
+    {
+        "shortName":"Hilton",
+        "Shot":8,
+        "total_minutes_played":2534,
+        "shots_per_90":0.2841357537
+    },
+    {
+        "shortName":"A. Hunt",
+        "Shot":7,
+        "total_minutes_played":2220,
+        "shots_per_90":0.2837837838
+    },
+    {
+        "shortName":"V. Germain",
+        "Shot":7,
+        "total_minutes_played":2238,
+        "shots_per_90":0.2815013405
+    },
+    {
+        "shortName":"K. Rausch",
+        "Shot":3,
+        "total_minutes_played":963,
+        "shots_per_90":0.2803738318
+    },
+    {
+        "shortName":"R. Inglese",
+        "Shot":9,
+        "total_minutes_played":2893,
+        "shots_per_90":0.2799861735
+    },
+    {
+        "shortName":"G. Sio",
+        "Shot":7,
+        "total_minutes_played":2260,
+        "shots_per_90":0.2787610619
+    },
+    {
+        "shortName":"S. Padoin",
+        "Shot":10,
+        "total_minutes_played":3242,
+        "shots_per_90":0.2776064158
+    },
+    {
+        "shortName":"A. Lafont",
+        "Shot":11,
+        "total_minutes_played":3567,
+        "shots_per_90":0.2775441548
+    },
+    {
+        "shortName":"Rolando",
+        "Shot":8,
+        "total_minutes_played":2606,
+        "shots_per_90":0.276285495
+    },
+    {
+        "shortName":"Eraso",
+        "Shot":8,
+        "total_minutes_played":2618,
+        "shots_per_90":0.2750190985
+    },
+    {
+        "shortName":"N. Stark",
+        "Shot":7,
+        "total_minutes_played":2293,
+        "shots_per_90":0.2747492368
+    },
+    {
+        "shortName":"G. Cabral",
+        "Shot":6,
+        "total_minutes_played":1968,
+        "shots_per_90":0.2743902439
+    },
+    {
+        "shortName":"Z. Feddal",
+        "Shot":4,
+        "total_minutes_played":1312,
+        "shots_per_90":0.2743902439
+    },
+    {
+        "shortName":"E. Krafth",
+        "Shot":3,
+        "total_minutes_played":989,
+        "shots_per_90":0.2730030334
+    },
+    {
+        "shortName":"F. Vicari",
+        "Shot":9,
+        "total_minutes_played":2969,
+        "shots_per_90":0.272819131
+    },
+    {
+        "shortName":"F. Lustenberger",
+        "Shot":5,
+        "total_minutes_played":1652,
+        "shots_per_90":0.2723970944
+    },
+    {
+        "shortName":"Y. En-Nesyri",
+        "Shot":5,
+        "total_minutes_played":1660,
+        "shots_per_90":0.2710843373
+    },
+    {
+        "shortName":"J. Gelin",
+        "Shot":7,
+        "total_minutes_played":2325,
+        "shots_per_90":0.2709677419
+    },
+    {
+        "shortName":"S. Perica",
+        "Shot":3,
+        "total_minutes_played":1002,
+        "shots_per_90":0.2694610778
+    },
+    {
+        "shortName":"Marlon",
+        "Shot":6,
+        "total_minutes_played":2004,
+        "shots_per_90":0.2694610778
+    },
+    {
+        "shortName":"M. Antenucci",
+        "Shot":8,
+        "total_minutes_played":2679,
+        "shots_per_90":0.2687569989
+    },
+    {
+        "shortName":"A. Aquilani",
+        "Shot":4,
+        "total_minutes_played":1347,
+        "shots_per_90":0.2672605791
+    },
+    {
+        "shortName":"L. Ceppitelli",
+        "Shot":7,
+        "total_minutes_played":2358,
+        "shots_per_90":0.2671755725
+    },
+    {
+        "shortName":"J. Schuster",
+        "Shot":4,
+        "total_minutes_played":1350,
+        "shots_per_90":0.2666666667
+    },
+    {
+        "shortName":"T. Baumgartl",
+        "Shot":8,
+        "total_minutes_played":2705,
+        "shots_per_90":0.2661737523
+    },
+    {
+        "shortName":"K. Papadopoulos",
+        "Shot":8,
+        "total_minutes_played":2707,
+        "shots_per_90":0.2659770964
+    },
+    {
+        "shortName":"Luisinho",
+        "Shot":8,
+        "total_minutes_played":2716,
+        "shots_per_90":0.265095729
+    },
+    {
+        "shortName":"S. Widmer",
+        "Shot":5,
+        "total_minutes_played":1705,
+        "shots_per_90":0.2639296188
+    },
+    {
+        "shortName":"M. Dos Santos",
+        "Shot":3,
+        "total_minutes_played":1024,
+        "shots_per_90":0.263671875
+    },
+    {
+        "shortName":"B. Martella",
+        "Shot":8,
+        "total_minutes_played":2731,
+        "shots_per_90":0.2636396924
+    },
+    {
+        "shortName":"M. Destro",
+        "Shot":5,
+        "total_minutes_played":1708,
+        "shots_per_90":0.2634660422
+    },
+    {
+        "shortName":"M. Veljkovic",
+        "Shot":8,
+        "total_minutes_played":2749,
+        "shots_per_90":0.2619134231
+    },
+    {
+        "shortName":"D. Mertens",
+        "Shot":9,
+        "total_minutes_played":3099,
+        "shots_per_90":0.261374637
+    },
+    {
+        "shortName":"S. Mandanda",
+        "Shot":8,
+        "total_minutes_played":2774,
+        "shots_per_90":0.2595529921
+    },
+    {
+        "shortName":"Chema",
+        "Shot":6,
+        "total_minutes_played":2087,
+        "shots_per_90":0.2587446095
+    },
+    {
+        "shortName":"M. Sau",
+        "Shot":4,
+        "total_minutes_played":1406,
+        "shots_per_90":0.2560455192
+    },
+    {
+        "shortName":"B. Nuytinck",
+        "Shot":7,
+        "total_minutes_played":2462,
+        "shots_per_90":0.2558895207
+    },
+    {
+        "shortName":"M. Mantovani",
+        "Shot":3,
+        "total_minutes_played":1058,
+        "shots_per_90":0.2551984877
+    },
+    {
+        "shortName":"T. Vermaelen",
+        "Shot":3,
+        "total_minutes_played":1060,
+        "shots_per_90":0.2547169811
+    },
+    {
+        "shortName":"M. Ostrzolek",
+        "Shot":7,
+        "total_minutes_played":2476,
+        "shots_per_90":0.2544426494
+    },
+    {
+        "shortName":"Pedro Rebocho",
+        "Shot":5,
+        "total_minutes_played":1771,
+        "shots_per_90":0.2540937324
+    },
+    {
+        "shortName":"M. Silvestre",
+        "Shot":9,
+        "total_minutes_played":3191,
+        "shots_per_90":0.253838922
+    },
+    {
+        "shortName":"T. Koubek",
+        "Shot":9,
+        "total_minutes_played":3192,
+        "shots_per_90":0.2537593985
+    },
+    {
+        "shortName":"Diego Costa",
+        "Shot":3,
+        "total_minutes_played":1068,
+        "shots_per_90":0.2528089888
+    },
+    {
+        "shortName":"L. Pavoletti",
+        "Shot":8,
+        "total_minutes_played":2849,
+        "shots_per_90":0.2527202527
+    },
+    {
+        "shortName":"N. Burdisso",
+        "Shot":6,
+        "total_minutes_played":2153,
+        "shots_per_90":0.2508128193
+    },
+    {
+        "shortName":"O. Wendt",
+        "Shot":7,
+        "total_minutes_played":2528,
+        "shots_per_90":0.2492088608
+    },
+    {
+        "shortName":"B. Assou-Ekotto",
+        "Shot":3,
+        "total_minutes_played":1087,
+        "shots_per_90":0.2483900644
+    },
+    {
+        "shortName":"G. Pazzini",
+        "Shot":4,
+        "total_minutes_played":1454,
+        "shots_per_90":0.2475928473
+    },
+    {
+        "shortName":"Portillo",
+        "Shot":7,
+        "total_minutes_played":2547,
+        "shots_per_90":0.2473498233
+    },
+    {
+        "shortName":"B. Jeannot",
+        "Shot":4,
+        "total_minutes_played":1456,
+        "shots_per_90":0.2472527473
+    },
+    {
+        "shortName":"F. Tabanou",
+        "Shot":3,
+        "total_minutes_played":1094,
+        "shots_per_90":0.2468007313
+    },
+    {
+        "shortName":"N. Roux",
+        "Shot":8,
+        "total_minutes_played":2918,
+        "shots_per_90":0.2467443454
+    },
+    {
+        "shortName":"R. Quaison",
+        "Shot":4,
+        "total_minutes_played":1463,
+        "shots_per_90":0.2460697198
+    },
+    {
+        "shortName":"D. Faraoni",
+        "Shot":5,
+        "total_minutes_played":1835,
+        "shots_per_90":0.2452316076
+    },
+    {
+        "shortName":"A. Masina",
+        "Shot":8,
+        "total_minutes_played":2945,
+        "shots_per_90":0.2444821732
+    },
+    {
+        "shortName":"F. Viviani",
+        "Shot":7,
+        "total_minutes_played":2580,
+        "shots_per_90":0.2441860465
+    },
+    {
+        "shortName":"Bernardo Espinosa",
+        "Shot":8,
+        "total_minutes_played":2972,
+        "shots_per_90":0.2422611036
+    },
+    {
+        "shortName":"J. Vestergaard",
+        "Shot":8,
+        "total_minutes_played":2977,
+        "shots_per_90":0.2418542157
+    },
+    {
+        "shortName":"T. Pellenard",
+        "Shot":4,
+        "total_minutes_played":1489,
+        "shots_per_90":0.241773002
+    },
+    {
+        "shortName":"A. Djiku",
+        "Shot":7,
+        "total_minutes_played":2613,
+        "shots_per_90":0.2411021814
+    },
+    {
+        "shortName":"E. Moretti",
+        "Shot":5,
+        "total_minutes_played":1867,
+        "shots_per_90":0.2410283878
+    },
+    {
+        "shortName":"L. Augustinsson",
+        "Shot":7,
+        "total_minutes_played":2615,
+        "shots_per_90":0.240917782
+    },
+    {
+        "shortName":"D. Biraschi",
+        "Shot":5,
+        "total_minutes_played":1873,
+        "shots_per_90":0.2402562734
+    },
+    {
+        "shortName":"A. Niane",
+        "Shot":6,
+        "total_minutes_played":2251,
+        "shots_per_90":0.2398933807
+    },
+    {
+        "shortName":"P. Baysse",
+        "Shot":5,
+        "total_minutes_played":1876,
+        "shots_per_90":0.2398720682
+    },
+    {
+        "shortName":"K. Danso",
+        "Shot":3,
+        "total_minutes_played":1131,
+        "shots_per_90":0.2387267905
+    },
+    {
+        "shortName":"N. Murru",
+        "Shot":4,
+        "total_minutes_played":1510,
+        "shots_per_90":0.238410596
+    },
+    {
+        "shortName":"J. Stryger Larsen",
+        "Shot":7,
+        "total_minutes_played":2643,
+        "shots_per_90":0.2383654938
+    },
+    {
+        "shortName":"S. Bell",
+        "Shot":6,
+        "total_minutes_played":2267,
+        "shots_per_90":0.2382002647
+    },
+    {
+        "shortName":"Alexis",
+        "Shot":6,
+        "total_minutes_played":2268,
+        "shots_per_90":0.2380952381
+    },
+    {
+        "shortName":"Dante",
+        "Shot":8,
+        "total_minutes_played":3029,
+        "shots_per_90":0.237702212
+    },
+    {
+        "shortName":"C. Akolo",
+        "Shot":3,
+        "total_minutes_played":1136,
+        "shots_per_90":0.2376760563
+    },
+    {
+        "shortName":"F. Ricca",
+        "Shot":3,
+        "total_minutes_played":1144,
+        "shots_per_90":0.236013986
+    },
+    {
+        "shortName":"Marc Navarro",
+        "Shot":3,
+        "total_minutes_played":1151,
+        "shots_per_90":0.2345786273
+    },
+    {
+        "shortName":"M. Lacen",
+        "Shot":3,
+        "total_minutes_played":1163,
+        "shots_per_90":0.2321582115
+    },
+    {
+        "shortName":"K. Gameiro",
+        "Shot":3,
+        "total_minutes_played":1169,
+        "shots_per_90":0.2309666382
+    },
+    {
+        "shortName":"A. Mirante",
+        "Shot":8,
+        "total_minutes_played":3122,
+        "shots_per_90":0.2306213965
+    },
+    {
+        "shortName":"D. Dainelli",
+        "Shot":4,
+        "total_minutes_played":1567,
+        "shots_per_90":0.2297383535
+    },
+    {
+        "shortName":"A. Brignoli",
+        "Shot":3,
+        "total_minutes_played":1177,
+        "shots_per_90":0.2293967715
+    },
+    {
+        "shortName":"Y. Muto",
+        "Shot":5,
+        "total_minutes_played":1963,
+        "shots_per_90":0.2292409577
+    },
+    {
+        "shortName":"A. Mandi",
+        "Shot":8,
+        "total_minutes_played":3146,
+        "shots_per_90":0.228862047
+    },
+    {
+        "shortName":"C. Awaziem",
+        "Shot":4,
+        "total_minutes_played":1585,
+        "shots_per_90":0.2271293375
+    },
+    {
+        "shortName":"K. Rekik",
+        "Shot":6,
+        "total_minutes_played":2380,
+        "shots_per_90":0.2268907563
+    },
+    {
+        "shortName":"Ramalho",
+        "Shot":6,
+        "total_minutes_played":2382,
+        "shots_per_90":0.2267002519
+    },
+    {
+        "shortName":"A. Delort",
+        "Shot":6,
+        "total_minutes_played":2382,
+        "shots_per_90":0.2267002519
+    },
+    {
+        "shortName":"M. Aguirregaray",
+        "Shot":3,
+        "total_minutes_played":1191,
+        "shots_per_90":0.2267002519
+    },
+    {
+        "shortName":"E. Zelazny",
+        "Shot":4,
+        "total_minutes_played":1590,
+        "shots_per_90":0.2264150943
+    },
+    {
+        "shortName":"L. Deaux",
+        "Shot":5,
+        "total_minutes_played":2000,
+        "shots_per_90":0.225
+    },
+    {
+        "shortName":"R. Pierre-Gabriel",
+        "Shot":3,
+        "total_minutes_played":1205,
+        "shots_per_90":0.22406639
+    },
+    {
+        "shortName":"F. Pisacane",
+        "Shot":5,
+        "total_minutes_played":2010,
+        "shots_per_90":0.223880597
+    },
+    {
+        "shortName":"L. Baal",
+        "Shot":3,
+        "total_minutes_played":1213,
+        "shots_per_90":0.2225886232
+    },
+    {
+        "shortName":"L. Rigoni",
+        "Shot":4,
+        "total_minutes_played":1625,
+        "shots_per_90":0.2215384615
+    },
+    {
+        "shortName":"M. Iturra",
+        "Shot":4,
+        "total_minutes_played":1631,
+        "shots_per_90":0.2207234825
+    },
+    {
+        "shortName":"V. Bessat",
+        "Shot":4,
+        "total_minutes_played":1633,
+        "shots_per_90":0.2204531537
+    },
+    {
+        "shortName":"N. El Zhar",
+        "Shot":5,
+        "total_minutes_played":2044,
+        "shots_per_90":0.2201565558
+    },
+    {
+        "shortName":"S. Souprayen",
+        "Shot":4,
+        "total_minutes_played":1649,
+        "shots_per_90":0.2183141298
+    },
+    {
+        "shortName":"J. Firpo",
+        "Shot":3,
+        "total_minutes_played":1237,
+        "shots_per_90":0.2182700081
+    },
+    {
+        "shortName":"F. Di Francesco",
+        "Shot":4,
+        "total_minutes_played":1653,
+        "shots_per_90":0.2177858439
+    },
+    {
+        "shortName":"F. Fajr",
+        "Shot":6,
+        "total_minutes_played":2488,
+        "shots_per_90":0.2170418006
+    },
+    {
+        "shortName":"J. Tah",
+        "Shot":6,
+        "total_minutes_played":2508,
+        "shots_per_90":0.2153110048
+    },
+    {
+        "shortName":"V. Laurini",
+        "Shot":4,
+        "total_minutes_played":1672,
+        "shots_per_90":0.2153110048
+    },
+    {
+        "shortName":"Mexer",
+        "Shot":3,
+        "total_minutes_played":1257,
+        "shots_per_90":0.214797136
+    },
+    {
+        "shortName":"Pedro Mendes",
+        "Shot":7,
+        "total_minutes_played":2974,
+        "shots_per_90":0.2118359112
+    },
+    {
+        "shortName":"A. El Ghazi",
+        "Shot":4,
+        "total_minutes_played":1702,
+        "shots_per_90":0.2115158637
+    },
+    {
+        "shortName":"C. Bacca",
+        "Shot":6,
+        "total_minutes_played":2568,
+        "shots_per_90":0.2102803738
+    },
+    {
+        "shortName":"Nacho",
+        "Shot":5,
+        "total_minutes_played":2143,
+        "shots_per_90":0.2099860009
+    },
+    {
+        "shortName":"A. Schwolow",
+        "Shot":7,
+        "total_minutes_played":3004,
+        "shots_per_90":0.2097203728
+    },
+    {
+        "shortName":"A. Bizzarri",
+        "Shot":7,
+        "total_minutes_played":3004,
+        "shots_per_90":0.2097203728
+    },
+    {
+        "shortName":"Simy",
+        "Shot":3,
+        "total_minutes_played":1290,
+        "shots_per_90":0.2093023256
+    },
+    {
+        "shortName":"S. Bahoken",
+        "Shot":4,
+        "total_minutes_played":1725,
+        "shots_per_90":0.2086956522
+    },
+    {
+        "shortName":"S. De Maio",
+        "Shot":5,
+        "total_minutes_played":2160,
+        "shots_per_90":0.2083333333
+    },
+    {
+        "shortName":"R. Durmisi",
+        "Shot":5,
+        "total_minutes_played":2169,
+        "shots_per_90":0.2074688797
+    },
+    {
+        "shortName":"A. Poli",
+        "Shot":6,
+        "total_minutes_played":2617,
+        "shots_per_90":0.206343141
+    },
+    {
+        "shortName":"M. Capuano",
+        "Shot":5,
+        "total_minutes_played":2196,
+        "shots_per_90":0.2049180328
+    },
+    {
+        "shortName":"E. Boateng",
+        "Shot":3,
+        "total_minutes_played":1334,
+        "shots_per_90":0.2023988006
+    },
+    {
+        "shortName":"C. Lenglet",
+        "Shot":7,
+        "total_minutes_played":3121,
+        "shots_per_90":0.2018583787
+    },
+    {
+        "shortName":"Samir",
+        "Shot":6,
+        "total_minutes_played":2677,
+        "shots_per_90":0.2017183414
+    },
+    {
+        "shortName":"Aduriz",
+        "Shot":5,
+        "total_minutes_played":2234,
+        "shots_per_90":0.2014324082
+    },
+    {
+        "shortName":"F. Peluso",
+        "Shot":6,
+        "total_minutes_played":2700,
+        "shots_per_90":0.2
+    },
+    {
+        "shortName":"E. Crivelli",
+        "Shot":4,
+        "total_minutes_played":1801,
+        "shots_per_90":0.1998889506
+    },
+    {
+        "shortName":"F. Bellugou",
+        "Shot":5,
+        "total_minutes_played":2252,
+        "shots_per_90":0.1998223801
+    },
+    {
+        "shortName":"Felipe",
+        "Shot":7,
+        "total_minutes_played":3159,
+        "shots_per_90":0.1994301994
+    },
+    {
+        "shortName":"Albentosa",
+        "Shot":4,
+        "total_minutes_played":1806,
+        "shots_per_90":0.1993355482
+    },
+    {
+        "shortName":"M. Caldara",
+        "Shot":5,
+        "total_minutes_played":2258,
+        "shots_per_90":0.1992914083
+    },
+    {
+        "shortName":"J. Sorbon",
+        "Shot":6,
+        "total_minutes_played":2710,
+        "shots_per_90":0.1992619926
+    },
+    {
+        "shortName":"Sergi Enrich",
+        "Shot":3,
+        "total_minutes_played":1368,
+        "shots_per_90":0.1973684211
+    },
+    {
+        "shortName":"T. Horn",
+        "Shot":7,
+        "total_minutes_played":3192,
+        "shots_per_90":0.1973684211
+    },
+    {
+        "shortName":"R. Camara",
+        "Shot":2,
+        "total_minutes_played":915,
+        "shots_per_90":0.1967213115
+    },
+    {
+        "shortName":"K. Mitroglou",
+        "Shot":2,
+        "total_minutes_played":915,
+        "shots_per_90":0.1967213115
+    },
+    {
+        "shortName":"Walace",
+        "Shot":3,
+        "total_minutes_played":1373,
+        "shots_per_90":0.1966496723
+    },
+    {
+        "shortName":"Naldo",
+        "Shot":9,
+        "total_minutes_played":4140,
+        "shots_per_90":0.1956521739
+    },
+    {
+        "shortName":"A. Paloschi",
+        "Shot":5,
+        "total_minutes_played":2302,
+        "shots_per_90":0.1954821894
+    },
+    {
+        "shortName":"F. Diagne",
+        "Shot":5,
+        "total_minutes_played":2310,
+        "shots_per_90":0.1948051948
+    },
+    {
+        "shortName":"A. Diallo",
+        "Shot":6,
+        "total_minutes_played":2784,
+        "shots_per_90":0.1939655172
+    },
+    {
+        "shortName":"C. Stuani",
+        "Shot":6,
+        "total_minutes_played":2785,
+        "shots_per_90":0.1938958707
+    },
+    {
+        "shortName":"R. Genevois",
+        "Shot":4,
+        "total_minutes_played":1862,
+        "shots_per_90":0.1933404941
+    },
+    {
+        "shortName":"Kiko Casilla",
+        "Shot":2,
+        "total_minutes_played":932,
+        "shots_per_90":0.1931330472
+    },
+    {
+        "shortName":"N. Rigoni",
+        "Shot":2,
+        "total_minutes_played":938,
+        "shots_per_90":0.1918976546
+    },
+    {
+        "shortName":"A. Hahn",
+        "Shot":3,
+        "total_minutes_played":1420,
+        "shots_per_90":0.1901408451
+    },
+    {
+        "shortName":"J. Murillo",
+        "Shot":3,
+        "total_minutes_played":1425,
+        "shots_per_90":0.1894736842
+    },
+    {
+        "shortName":"S. Langkamp",
+        "Shot":3,
+        "total_minutes_played":1427,
+        "shots_per_90":0.1892081289
+    },
+    {
+        "shortName":"I. Sarr",
+        "Shot":4,
+        "total_minutes_played":1917,
+        "shots_per_90":0.1877934272
+    },
+    {
+        "shortName":"G. Rulli",
+        "Shot":5,
+        "total_minutes_played":2421,
+        "shots_per_90":0.1858736059
+    },
+    {
+        "shortName":"D. Opare",
+        "Shot":3,
+        "total_minutes_played":1469,
+        "shots_per_90":0.1837985024
+    },
+    {
+        "shortName":"L. Mora",
+        "Shot":2,
+        "total_minutes_played":980,
+        "shots_per_90":0.1836734694
+    },
+    {
+        "shortName":"M. Samassa",
+        "Shot":4,
+        "total_minutes_played":1963,
+        "shots_per_90":0.1833927662
+    },
+    {
+        "shortName":"H. Moreno",
+        "Shot":2,
+        "total_minutes_played":983,
+        "shots_per_90":0.1831129196
+    },
+    {
+        "shortName":"Thomas",
+        "Shot":5,
+        "total_minutes_played":2460,
+        "shots_per_90":0.1829268293
+    },
+    {
+        "shortName":"M. Mavraj",
+        "Shot":3,
+        "total_minutes_played":1484,
+        "shots_per_90":0.1819407008
+    },
+    {
+        "shortName":"Camacho",
+        "Shot":2,
+        "total_minutes_played":991,
+        "shots_per_90":0.1816347124
+    },
+    {
+        "shortName":"A. Caracciolo",
+        "Shot":6,
+        "total_minutes_played":2978,
+        "shots_per_90":0.1813297515
+    },
+    {
+        "shortName":"I. Amadou",
+        "Shot":5,
+        "total_minutes_played":2482,
+        "shots_per_90":0.1813053989
+    },
+    {
+        "shortName":"Alisson",
+        "Shot":7,
+        "total_minutes_played":3478,
+        "shots_per_90":0.1811385854
+    },
+    {
+        "shortName":"F. Romagna",
+        "Shot":4,
+        "total_minutes_played":1990,
+        "shots_per_90":0.1809045226
+    },
+    {
+        "shortName":"G. Laborde",
+        "Shot":2,
+        "total_minutes_played":995,
+        "shots_per_90":0.1809045226
+    },
+    {
+        "shortName":"K. Djidji",
+        "Shot":5,
+        "total_minutes_played":2515,
+        "shots_per_90":0.1789264414
+    },
+    {
+        "shortName":"J. Morel",
+        "Shot":6,
+        "total_minutes_played":3022,
+        "shots_per_90":0.1786896095
+    },
+    {
+        "shortName":"Gerard Moreno",
+        "Shot":7,
+        "total_minutes_played":3531,
+        "shots_per_90":0.1784197111
+    },
+    {
+        "shortName":"D. Verde",
+        "Shot":4,
+        "total_minutes_played":2022,
+        "shots_per_90":0.178041543
+    },
+    {
+        "shortName":"K. Johnsson",
+        "Shot":7,
+        "total_minutes_played":3546,
+        "shots_per_90":0.1776649746
+    },
+    {
+        "shortName":"J. Gnagnon",
+        "Shot":6,
+        "total_minutes_played":3050,
+        "shots_per_90":0.1770491803
+    },
+    {
+        "shortName":"A. Barzagli",
+        "Shot":3,
+        "total_minutes_played":1528,
+        "shots_per_90":0.1767015707
+    },
+    {
+        "shortName":"B. Leno",
+        "Shot":6,
+        "total_minutes_played":3070,
+        "shots_per_90":0.1758957655
+    },
+    {
+        "shortName":"Juanmi",
+        "Shot":3,
+        "total_minutes_played":1539,
+        "shots_per_90":0.1754385965
+    },
+    {
+        "shortName":"M. Plattenhardt",
+        "Shot":6,
+        "total_minutes_played":3080,
+        "shots_per_90":0.1753246753
+    },
+    {
+        "shortName":"F. Roncaglia",
+        "Shot":3,
+        "total_minutes_played":1545,
+        "shots_per_90":0.1747572816
+    },
+    {
+        "shortName":"Guaita",
+        "Shot":6,
+        "total_minutes_played":3099,
+        "shots_per_90":0.174249758
+    },
+    {
+        "shortName":"P. Cutrone",
+        "Shot":3,
+        "total_minutes_played":1560,
+        "shots_per_90":0.1730769231
+    },
+    {
+        "shortName":"J. Aholou",
+        "Shot":6,
+        "total_minutes_played":3120,
+        "shots_per_90":0.1730769231
+    },
+    {
+        "shortName":"M. Gregoritsch",
+        "Shot":5,
+        "total_minutes_played":2600,
+        "shots_per_90":0.1730769231
+    },
+    {
+        "shortName":"Fernando Torres",
+        "Shot":2,
+        "total_minutes_played":1041,
+        "shots_per_90":0.1729106628
+    },
+    {
+        "shortName":"D. Ginczek",
+        "Shot":3,
+        "total_minutes_played":1562,
+        "shots_per_90":0.1728553137
+    },
+    {
+        "shortName":"Y. Cahuzac",
+        "Shot":3,
+        "total_minutes_played":1574,
+        "shots_per_90":0.1715374841
+    },
+    {
+        "shortName":"A. Fulgini",
+        "Shot":3,
+        "total_minutes_played":1577,
+        "shots_per_90":0.1712111604
+    },
+    {
+        "shortName":"Juanpe",
+        "Shot":6,
+        "total_minutes_played":3180,
+        "shots_per_90":0.1698113208
+    },
+    {
+        "shortName":"I. Diop",
+        "Shot":6,
+        "total_minutes_played":3195,
+        "shots_per_90":0.1690140845
+    },
+    {
+        "shortName":"B. Sankoh",
+        "Shot":3,
+        "total_minutes_played":1606,
+        "shots_per_90":0.1681195517
+    },
+    {
+        "shortName":"Gabriel Silva",
+        "Shot":4,
+        "total_minutes_played":2148,
+        "shots_per_90":0.1675977654
+    },
+    {
+        "shortName":"L. Phiri",
+        "Shot":2,
+        "total_minutes_played":1080,
+        "shots_per_90":0.1666666667
+    },
+    {
+        "shortName":"Ximo Navarro",
+        "Shot":5,
+        "total_minutes_played":2706,
+        "shots_per_90":0.1662971175
+    },
+    {
+        "shortName":"Y. Sommer",
+        "Shot":5,
+        "total_minutes_played":2716,
+        "shots_per_90":0.1656848306
+    },
+    {
+        "shortName":"Fernando Navarro",
+        "Shot":2,
+        "total_minutes_played":1089,
+        "shots_per_90":0.1652892562
+    },
+    {
+        "shortName":"A. Szymanowski",
+        "Shot":2,
+        "total_minutes_played":1094,
+        "shots_per_90":0.1645338208
+    },
+    {
+        "shortName":"W. Orban",
+        "Shot":4,
+        "total_minutes_played":2200,
+        "shots_per_90":0.1636363636
+    },
+    {
+        "shortName":"Rodrigo Ely",
+        "Shot":5,
+        "total_minutes_played":2789,
+        "shots_per_90":0.1613481535
+    },
+    {
+        "shortName":"I. Cissokho",
+        "Shot":3,
+        "total_minutes_played":1696,
+        "shots_per_90":0.1591981132
+    },
+    {
+        "shortName":"F. Bartels",
+        "Shot":2,
+        "total_minutes_played":1143,
+        "shots_per_90":0.157480315
+    },
+    {
+        "shortName":"Y. Salmier",
+        "Shot":2,
+        "total_minutes_played":1148,
+        "shots_per_90":0.1567944251
+    },
+    {
+        "shortName":"M. ter Stegen",
+        "Shot":6,
+        "total_minutes_played":3445,
+        "shots_per_90":0.1567489115
+    },
+    {
+        "shortName":"J. Oblak",
+        "Shot":6,
+        "total_minutes_played":3445,
+        "shots_per_90":0.1567489115
+    },
+    {
+        "shortName":"I. Santini",
+        "Shot":5,
+        "total_minutes_played":2873,
+        "shots_per_90":0.1566306996
+    },
+    {
+        "shortName":"C. Beauvue",
+        "Shot":3,
+        "total_minutes_played":1728,
+        "shots_per_90":0.15625
+    },
+    {
+        "shortName":"R. Gurtner",
+        "Shot":6,
+        "total_minutes_played":3467,
+        "shots_per_90":0.1557542544
+    },
+    {
+        "shortName":"Danilo",
+        "Shot":5,
+        "total_minutes_played":2897,
+        "shots_per_90":0.1553331032
+    },
+    {
+        "shortName":"A. Consigli",
+        "Shot":6,
+        "total_minutes_played":3477,
+        "shots_per_90":0.1553062985
+    },
+    {
+        "shortName":"P. Tschauner",
+        "Shot":5,
+        "total_minutes_played":2902,
+        "shots_per_90":0.1550654721
+    },
+    {
+        "shortName":"J. Palmieri",
+        "Shot":2,
+        "total_minutes_played":1166,
+        "shots_per_90":0.154373928
+    },
+    {
+        "shortName":"M. Barbosa",
+        "Shot":2,
+        "total_minutes_played":1167,
+        "shots_per_90":0.1542416452
+    },
+    {
+        "shortName":"Antunes",
+        "Shot":5,
+        "total_minutes_played":2921,
+        "shots_per_90":0.1540568299
+    },
+    {
+        "shortName":"A. Galabinov",
+        "Shot":2,
+        "total_minutes_played":1175,
+        "shots_per_90":0.1531914894
+    },
+    {
+        "shortName":"Jemerson",
+        "Shot":5,
+        "total_minutes_played":2955,
+        "shots_per_90":0.152284264
+    },
+    {
+        "shortName":"B. Lecomte",
+        "Shot":6,
+        "total_minutes_played":3565,
+        "shots_per_90":0.1514726508
+    },
+    {
+        "shortName":"S. Falette",
+        "Shot":4,
+        "total_minutes_played":2382,
+        "shots_per_90":0.1511335013
+    },
+    {
+        "shortName":"S. Sorrentino",
+        "Shot":6,
+        "total_minutes_played":3574,
+        "shots_per_90":0.1510912143
+    },
+    {
+        "shortName":"Danilo Avelar",
+        "Shot":3,
+        "total_minutes_played":1803,
+        "shots_per_90":0.149750416
+    },
+    {
+        "shortName":"D. Bonera",
+        "Shot":2,
+        "total_minutes_played":1230,
+        "shots_per_90":0.1463414634
+    },
+    {
+        "shortName":"F. Depaoli",
+        "Shot":2,
+        "total_minutes_played":1237,
+        "shots_per_90":0.1455133387
+    },
+    {
+        "shortName":"N. Spolli",
+        "Shot":3,
+        "total_minutes_played":1871,
+        "shots_per_90":0.1443078568
+    },
+    {
+        "shortName":"A. Barberis",
+        "Shot":5,
+        "total_minutes_played":3123,
+        "shots_per_90":0.144092219
+    },
+    {
+        "shortName":"A. Gamberini",
+        "Shot":3,
+        "total_minutes_played":1878,
+        "shots_per_90":0.1437699681
+    },
+    {
+        "shortName":"M. Maignan",
+        "Shot":5,
+        "total_minutes_played":3139,
+        "shots_per_90":0.1433577572
+    },
+    {
+        "shortName":"Suk Hyun-Jun",
+        "Shot":2,
+        "total_minutes_played":1256,
+        "shots_per_90":0.1433121019
+    },
+    {
+        "shortName":"L. Venuti",
+        "Shot":4,
+        "total_minutes_played":2515,
+        "shots_per_90":0.1431411531
+    },
+    {
+        "shortName":"R. Zieler",
+        "Shot":5,
+        "total_minutes_played":3166,
+        "shots_per_90":0.1421351864
+    },
+    {
+        "shortName":"E. Viviano",
+        "Shot":4,
+        "total_minutes_played":2534,
+        "shots_per_90":0.1420678769
+    },
+    {
+        "shortName":"L. Hradecky",
+        "Shot":5,
+        "total_minutes_played":3174,
+        "shots_per_90":0.1417769376
+    },
+    {
+        "shortName":"C. Adjapong",
+        "Shot":2,
+        "total_minutes_played":1281,
+        "shots_per_90":0.1405152225
+    },
+    {
+        "shortName":"M. Andreolli",
+        "Shot":3,
+        "total_minutes_played":1937,
+        "shots_per_90":0.1393908105
+    },
+    {
+        "shortName":"C. Bakambu",
+        "Shot":2,
+        "total_minutes_played":1297,
+        "shots_per_90":0.1387818042
+    },
+    {
+        "shortName":"D. Selke",
+        "Shot":3,
+        "total_minutes_played":1952,
+        "shots_per_90":0.1383196721
+    },
+    {
+        "shortName":"David Soria",
+        "Shot":2,
+        "total_minutes_played":1318,
+        "shots_per_90":0.1365705615
+    },
+    {
+        "shortName":"A. Rukavina",
+        "Shot":2,
+        "total_minutes_played":1324,
+        "shots_per_90":0.1359516616
+    },
+    {
+        "shortName":"A. Ajeti",
+        "Shot":2,
+        "total_minutes_played":1327,
+        "shots_per_90":0.1356443105
+    },
+    {
+        "shortName":"G. Jung",
+        "Shot":4,
+        "total_minutes_played":2656,
+        "shots_per_90":0.1355421687
+    },
+    {
+        "shortName":"Rober",
+        "Shot":3,
+        "total_minutes_played":1994,
+        "shots_per_90":0.1354062187
+    },
+    {
+        "shortName":"S. Ulreich",
+        "Shot":4,
+        "total_minutes_played":2663,
+        "shots_per_90":0.1351858806
+    },
+    {
+        "shortName":"M. Sportiello",
+        "Shot":5,
+        "total_minutes_played":3352,
+        "shots_per_90":0.13424821
+    },
+    {
+        "shortName":"K. Glik",
+        "Shot":5,
+        "total_minutes_played":3356,
+        "shots_per_90":0.1340882002
+    },
+    {
+        "shortName":"B. Costil",
+        "Shot":5,
+        "total_minutes_played":3361,
+        "shots_per_90":0.1338887236
+    },
+    {
+        "shortName":"Ramis",
+        "Shot":2,
+        "total_minutes_played":1348,
+        "shots_per_90":0.1335311573
+    },
+    {
+        "shortName":"Nicolas",
+        "Shot":5,
+        "total_minutes_played":3374,
+        "shots_per_90":0.1333728512
+    },
+    {
+        "shortName":"D. Aogo",
+        "Shot":3,
+        "total_minutes_played":2032,
+        "shots_per_90":0.1328740157
+    },
+    {
+        "shortName":"N. N'Koulou",
+        "Shot":5,
+        "total_minutes_played":3405,
+        "shots_per_90":0.1321585903
+    },
+    {
+        "shortName":"V. Belec",
+        "Shot":2,
+        "total_minutes_played":1363,
+        "shots_per_90":0.1320616288
+    },
+    {
+        "shortName":"R. Zentner",
+        "Shot":2,
+        "total_minutes_played":1396,
+        "shots_per_90":0.1289398281
+    },
+    {
+        "shortName":"Bernardo",
+        "Shot":2,
+        "total_minutes_played":1397,
+        "shots_per_90":0.1288475304
+    },
+    {
+        "shortName":"Luna",
+        "Shot":3,
+        "total_minutes_played":2102,
+        "shots_per_90":0.1284490961
+    },
+    {
+        "shortName":"Jordi Amat",
+        "Shot":3,
+        "total_minutes_played":2112,
+        "shots_per_90":0.1278409091
+    },
+    {
+        "shortName":"B. Corgnet",
+        "Shot":2,
+        "total_minutes_played":1423,
+        "shots_per_90":0.126493324
+    },
+    {
+        "shortName":"T. Strakosha",
+        "Shot":5,
+        "total_minutes_played":3562,
+        "shots_per_90":0.1263335205
+    },
+    {
+        "shortName":"G. Donnarumma",
+        "Shot":5,
+        "total_minutes_played":3583,
+        "shots_per_90":0.1255930784
+    },
+    {
+        "shortName":"M. Hitz",
+        "Shot":4,
+        "total_minutes_played":2885,
+        "shots_per_90":0.1247833622
+    },
+    {
+        "shortName":"B. Dibassy",
+        "Shot":4,
+        "total_minutes_played":2886,
+        "shots_per_90":0.1247401247
+    },
+    {
+        "shortName":"M. Arambarri",
+        "Shot":3,
+        "total_minutes_played":2187,
+        "shots_per_90":0.1234567901
+    },
+    {
+        "shortName":"B. Kamara",
+        "Shot":3,
+        "total_minutes_played":2227,
+        "shots_per_90":0.1212393354
+    },
+    {
+        "shortName":"Guerrero",
+        "Shot":2,
+        "total_minutes_played":1494,
+        "shots_per_90":0.1204819277
+    },
+    {
+        "shortName":"R. van Drongelen",
+        "Shot":2,
+        "total_minutes_played":1499,
+        "shots_per_90":0.1200800534
+    },
+    {
+        "shortName":"H. Badstuber",
+        "Shot":3,
+        "total_minutes_played":2252,
+        "shots_per_90":0.1198934281
+    },
+    {
+        "shortName":"P. Cannavaro",
+        "Shot":2,
+        "total_minutes_played":1521,
+        "shots_per_90":0.1183431953
+    },
+    {
+        "shortName":"A. Oukidja",
+        "Shot":2,
+        "total_minutes_played":1523,
+        "shots_per_90":0.1181877873
+    },
+    {
+        "shortName":"Neto",
+        "Shot":4,
+        "total_minutes_played":3085,
+        "shots_per_90":0.1166936791
+    },
+    {
+        "shortName":"Y. Sanogo",
+        "Shot":2,
+        "total_minutes_played":1543,
+        "shots_per_90":0.1166558652
+    },
+    {
+        "shortName":"F. Costa",
+        "Shot":2,
+        "total_minutes_played":1547,
+        "shots_per_90":0.116354234
+    },
+    {
+        "shortName":"T. Mangani",
+        "Shot":4,
+        "total_minutes_played":3141,
+        "shots_per_90":0.1146131805
+    },
+    {
+        "shortName":"K. Casteels",
+        "Shot":4,
+        "total_minutes_played":3161,
+        "shots_per_90":0.1138880101
+    },
+    {
+        "shortName":"R. Vercoutre",
+        "Shot":4,
+        "total_minutes_played":3216,
+        "shots_per_90":0.1119402985
+    },
+    {
+        "shortName":"K. Amian",
+        "Shot":4,
+        "total_minutes_played":3285,
+        "shots_per_90":0.1095890411
+    },
+    {
+        "shortName":"A. Raggi",
+        "Shot":2,
+        "total_minutes_played":1660,
+        "shots_per_90":0.1084337349
+    },
+    {
+        "shortName":"C. Salcedo",
+        "Shot":2,
+        "total_minutes_played":1666,
+        "shots_per_90":0.1080432173
+    },
+    {
+        "shortName":"K. Navas",
+        "Shot":3,
+        "total_minutes_played":2509,
+        "shots_per_90":0.1076125947
+    },
+    {
+        "shortName":"L. Chichizola",
+        "Shot":3,
+        "total_minutes_played":2517,
+        "shots_per_90":0.1072705602
+    },
+    {
+        "shortName":"L. Butelle",
+        "Shot":2,
+        "total_minutes_played":1705,
+        "shots_per_90":0.1055718475
+    },
+    {
+        "shortName":"O. Sorg",
+        "Shot":2,
+        "total_minutes_played":1736,
+        "shots_per_90":0.1036866359
+    },
+    {
+        "shortName":"M. Perin",
+        "Shot":4,
+        "total_minutes_played":3473,
+        "shots_per_90":0.1036567809
+    },
+    {
+        "shortName":"F. Helander",
+        "Shot":3,
+        "total_minutes_played":2623,
+        "shots_per_90":0.10293557
+    },
+    {
+        "shortName":"A. Laporte",
+        "Shot":2,
+        "total_minutes_played":1776,
+        "shots_per_90":0.1013513514
+    },
+    {
+        "shortName":"P. Iemmello",
+        "Shot":1,
+        "total_minutes_played":912,
+        "shots_per_90":0.0986842105
+    },
+    {
+        "shortName":"Miquel",
+        "Shot":2,
+        "total_minutes_played":1830,
+        "shots_per_90":0.0983606557
+    },
+    {
+        "shortName":"K. Karaman",
+        "Shot":1,
+        "total_minutes_played":917,
+        "shots_per_90":0.0981461287
+    },
+    {
+        "shortName":"Bigas",
+        "Shot":1,
+        "total_minutes_played":927,
+        "shots_per_90":0.0970873786
+    },
+    {
+        "shortName":"Carlos Vigaray",
+        "Shot":1,
+        "total_minutes_played":931,
+        "shots_per_90":0.096670247
+    },
+    {
+        "shortName":"G. Angella",
+        "Shot":1,
+        "total_minutes_played":939,
+        "shots_per_90":0.0958466454
+    },
+    {
+        "shortName":"L. Diony",
+        "Shot":1,
+        "total_minutes_played":952,
+        "shots_per_90":0.0945378151
+    },
+    {
+        "shortName":"G. Buffon",
+        "Shot":2,
+        "total_minutes_played":1935,
+        "shots_per_90":0.0930232558
+    },
+    {
+        "shortName":"T. Chandler",
+        "Shot":2,
+        "total_minutes_played":1968,
+        "shots_per_90":0.0914634146
+    },
+    {
+        "shortName":"R. Koch",
+        "Shot":2,
+        "total_minutes_played":1997,
+        "shots_per_90":0.0901352028
+    },
+    {
+        "shortName":"Mario Hermoso",
+        "Shot":2,
+        "total_minutes_played":1999,
+        "shots_per_90":0.0900450225
+    },
+    {
+        "shortName":"I. Saadi",
+        "Shot":1,
+        "total_minutes_played":1009,
+        "shots_per_90":0.089197225
+    },
+    {
+        "shortName":"M. Lemos",
+        "Shot":2,
+        "total_minutes_played":2030,
+        "shots_per_90":0.0886699507
+    },
+    {
+        "shortName":"J. Bruma",
+        "Shot":1,
+        "total_minutes_played":1020,
+        "shots_per_90":0.0882352941
+    },
+    {
+        "shortName":"Francis Guerrero",
+        "Shot":1,
+        "total_minutes_played":1033,
+        "shots_per_90":0.087124879
+    },
+    {
+        "shortName":"G. Shibasaki",
+        "Shot":1,
+        "total_minutes_played":1038,
+        "shots_per_90":0.0867052023
+    },
+    {
+        "shortName":"E. Garay",
+        "Shot":2,
+        "total_minutes_played":2102,
+        "shots_per_90":0.0856327307
+    },
+    {
+        "shortName":"O. Baumann",
+        "Shot":3,
+        "total_minutes_played":3160,
+        "shots_per_90":0.085443038
+    },
+    {
+        "shortName":"J. Pavlenka",
+        "Shot":3,
+        "total_minutes_played":3164,
+        "shots_per_90":0.085335019
+    },
+    {
+        "shortName":"A. Lopes",
+        "Shot":3,
+        "total_minutes_played":3172,
+        "shots_per_90":0.0851197982
+    },
+    {
+        "shortName":"M. Frantz",
+        "Shot":1,
+        "total_minutes_played":1062,
+        "shots_per_90":0.0847457627
+    },
+    {
+        "shortName":"Sergio Asenjo",
+        "Shot":2,
+        "total_minutes_played":2147,
+        "shots_per_90":0.0838379134
+    },
+    {
+        "shortName":"V. Selimovic",
+        "Shot":1,
+        "total_minutes_played":1088,
+        "shots_per_90":0.0827205882
+    },
+    {
+        "shortName":"R. Chibsah",
+        "Shot":1,
+        "total_minutes_played":1089,
+        "shots_per_90":0.0826446281
+    },
+    {
+        "shortName":"Sergio Rico",
+        "Shot":2,
+        "total_minutes_played":2236,
+        "shots_per_90":0.0805008945
+    },
+    {
+        "shortName":"L. Cabrera",
+        "Shot":1,
+        "total_minutes_played":1136,
+        "shots_per_90":0.0792253521
+    },
+    {
+        "shortName":"S. Sirigu",
+        "Shot":3,
+        "total_minutes_played":3478,
+        "shots_per_90":0.0776308223
+    },
+    {
+        "shortName":"P. Herrmann",
+        "Shot":1,
+        "total_minutes_played":1175,
+        "shots_per_90":0.0765957447
+    },
+    {
+        "shortName":"B. Reynet",
+        "Shot":3,
+        "total_minutes_played":3541,
+        "shots_per_90":0.076249647
+    },
+    {
+        "shortName":"A. Gomis",
+        "Shot":2,
+        "total_minutes_played":2371,
+        "shots_per_90":0.0759173345
+    },
+    {
+        "shortName":"E. Goldaniga",
+        "Shot":1,
+        "total_minutes_played":1204,
+        "shots_per_90":0.0747508306
+    },
+    {
+        "shortName":"A. Meret",
+        "Shot":1,
+        "total_minutes_played":1207,
+        "shots_per_90":0.0745650373
+    },
+    {
+        "shortName":"L. Perrin",
+        "Shot":2,
+        "total_minutes_played":2543,
+        "shots_per_90":0.0707825403
+    },
+    {
+        "shortName":"R. Adler",
+        "Shot":1,
+        "total_minutes_played":1317,
+        "shots_per_90":0.0683371298
+    },
+    {
+        "shortName":"Pablo",
+        "Shot":1,
+        "total_minutes_played":1342,
+        "shots_per_90":0.0670640835
+    },
+    {
+        "shortName":"M. Debuchy",
+        "Shot":1,
+        "total_minutes_played":1357,
+        "shots_per_90":0.0663227708
+    },
+    {
+        "shortName":"Y. Bounou",
+        "Shot":2,
+        "total_minutes_played":2751,
+        "shots_per_90":0.0654307525
+    },
+    {
+        "shortName":"M. Bani",
+        "Shot":1,
+        "total_minutes_played":1377,
+        "shots_per_90":0.0653594771
+    },
+    {
+        "shortName":"Arrizabalaga",
+        "Shot":2,
+        "total_minutes_played":2801,
+        "shots_per_90":0.0642627633
+    },
+    {
+        "shortName":"P. Gouano",
+        "Shot":2,
+        "total_minutes_played":2855,
+        "shots_per_90":0.0630472855
+    },
+    {
+        "shortName":"R. Jarstein",
+        "Shot":2,
+        "total_minutes_played":2892,
+        "shots_per_90":0.0622406639
+    },
+    {
+        "shortName":"A. Costa",
+        "Shot":1,
+        "total_minutes_played":1452,
+        "shots_per_90":0.0619834711
+    },
+    {
+        "shortName":"S. Ruffier",
+        "Shot":2,
+        "total_minutes_played":3122,
+        "shots_per_90":0.0576553491
+    },
+    {
+        "shortName":"Laguardia",
+        "Shot":1,
+        "total_minutes_played":1589,
+        "shots_per_90":0.0566393958
+    },
+    {
+        "shortName":"F. Mubele",
+        "Shot":1,
+        "total_minutes_played":1681,
+        "shots_per_90":0.0535395598
+    },
+    {
+        "shortName":"Fernando Pacheco",
+        "Shot":2,
+        "total_minutes_played":3486,
+        "shots_per_90":0.0516351119
+    },
+    {
+        "shortName":"F. Moubandje",
+        "Shot":1,
+        "total_minutes_played":1764,
+        "shots_per_90":0.0510204082
+    },
+    {
+        "shortName":"A. Cordaz",
+        "Shot":2,
+        "total_minutes_played":3564,
+        "shots_per_90":0.0505050505
+    },
+    {
+        "shortName":"C. Puggioni",
+        "Shot":1,
+        "total_minutes_played":2080,
+        "shots_per_90":0.0432692308
+    },
+    {
+        "shortName":"C. Mathenia",
+        "Shot":1,
+        "total_minutes_played":2238,
+        "shots_per_90":0.0402144772
+    },
+    {
+        "shortName":"E. Kawashima",
+        "Shot":1,
+        "total_minutes_played":2660,
+        "shots_per_90":0.0338345865
+    },
+    {
+        "shortName":"A. Cragno",
+        "Shot":1,
+        "total_minutes_played":2662,
+        "shots_per_90":0.033809166
+    },
+    {
+        "shortName":"Roberto",
+        "Shot":1,
+        "total_minutes_played":3172,
+        "shots_per_90":0.0283732661
+    },
+    {
+        "shortName":"A. Ragusa",
+        "Shot":0,
+        "total_minutes_played":924,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"Paulo Oliveira",
+        "Shot":0,
+        "total_minutes_played":2293,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"M. Braithwaite",
+        "Shot":0,
+        "total_minutes_played":949,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"A. Matri",
+        "Shot":0,
+        "total_minutes_played":982,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"Y. Cardinale",
+        "Shot":0,
+        "total_minutes_played":1027,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"E. Berisha",
+        "Shot":0,
+        "total_minutes_played":2912,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"Bruno",
+        "Shot":0,
+        "total_minutes_played":1618,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"Oier",
+        "Shot":0,
+        "total_minutes_played":2432,
+        "shots_per_90":0.0
+    },
+    {
+        "shortName":"Markel Bergara",
+        "Shot":0,
+        "total_minutes_played":1521,
+        "shots_per_90":0.0
+    }
+]
