@@ -2,6 +2,13 @@
 
 Project for Soccermatics Pro Course where I created a logistic regression model to analyze recoveries and the likelihood of them ending in a shot or a goal. This project was based on Liverpool in the 2017/2018 season and my task was to create a model to rate players and based on that model suggest two signings for Liverpool. Since Liverpool is a team oriented on high and intense press which leads to many recoveries I choose those recoveries as a starting point. Together with the code, there is the presentation which summarises my suggestions, and two reports. The technical report looks into the technical background of the model and code, analyzing the accuracy and significance of the p-values. In contrast, the Scout report is a two-page report describing the results in more detail than the presentation. Data used is free Wyscout data for the 2017/2018 season of the top 5 leagues (Premier League, La Liga, Serie A, Bundesliga, and Ligue 1).
 
+## Main tools used
+
+* Pandas
+* Logistic Regression Model (statsmodels)
+* Matplotlib
+* Numpy
+
 ## Getting started
 
 * To run this program, you need Jupyter Notebook, Visual Studio Code, and an intermediate knowledge of Python
@@ -28,11 +35,3 @@ Inspiration, code snippets, etc.
 * [Wyscout API](https://apidocs.wyscout.com/)
 * [Wyscout Data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
 * [Minutes_played](https://github.com/soccermatics/Soccermatics/tree/main/course/lessons/minutes_played)
-
-## Main tools used
-
-* Pandas
-* Logistic Regression Model (statsmodels)
-* Matplotlib
-* Numpy
-
