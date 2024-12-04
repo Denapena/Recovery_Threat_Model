@@ -5,6 +5,7 @@ Project for Soccermatics Pro Course where I created a logistic regression model 
 ## Getting started
 
 * To run this program, you need Jupyter Notebook, Visual Studio Code, and an intermediate knowledge of Python
+* Event data needs to be provided for the code to work which can be downloaded from the link down below (Wyscout Data)
 * The main file is Recovery_Threat_Model.ipynb which has a step-by-step explanation of the coding process, it takes approximately 5-10 minutes for the whole Notebook to load and process all code
 * File possession_chains.json is saved to speed up the process of using the main file by not having to isolate possession chains on each restart of the file
 * Python file OtherLeagueRecoveries is used to generate numbers for the other 4 leagues which are saved in files sorted_goals.json and sorted_shots.json (it takes around 40 minutes to do that)
