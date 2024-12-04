@@ -26,3 +26,11 @@ Inspiration, code snippets, etc.
 * [Wyscout Glossary](https://dataglossary.wyscout.com/)
 * [Wyscout API](https://apidocs.wyscout.com/)
 * [Wyscout Data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
+
+## Main tools used
+
+* Pandas
+* Logistic Regression Model (statsmodels)
+* Matplotlib
+* Numpy
+
