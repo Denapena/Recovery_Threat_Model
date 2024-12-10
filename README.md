@@ -4,10 +4,8 @@ Project for Soccermatics Pro Course where I created a logistic regression model 
 
 ## Main tools used
 
-* Pandas
+* Pandas, Matplotlib and Numpy
 * Logistic Regression Model (statsmodels)
-* Matplotlib
-* Numpy
 
 ## Getting started
 
